@@ -1,0 +1,536 @@
+{
+  "Education level": [
+    {
+      "category": "Early childhood educational development (ISCED 01)",
+      "code": "ISC_01"
+    },
+    {
+      "category": "Pre-primary education (ISCED 02)",
+      "code": "ISC_02"
+    },
+    {
+      "category": "Early childhood care and education unspecified (ISCED 0)",
+      "code": "ISC_0"
+    },
+    {
+      "category": "Primary education (ISCED 1)",
+      "code": "ISC_1"
+    },
+    {
+      "category": "Secondary education unspecified (ISCED 2, 3)",
+      "code": "ISC_23"
+    },
+    {
+      "category": "Lower secondary education (ISCED 2)",
+      "code": "ISC_2"
+    },
+    {
+      "category": "Upper secondary education (ISCED 3)",
+      "code": "ISC_3"
+    },
+    {
+      "category": "Post-secondary non-tertiary (ISCED 4)",
+      "code": "ISC_4"
+    },
+    {
+      "category": "Short-cycle tertiary education (ISCED 5)",
+      "code": "ISC_5"
+    },
+    {
+      "category": "Bachelor or equivalent (ISCED 6)",
+      "code": "ISC_6"
+    },
+    {
+      "category": "Master or equivalent (ISCED 7)",
+      "code": "ISC_7"
+    },
+    {
+      "category": "Doctoral or equivalent (ISCED 8)",
+      "code": "ISC_8"
+    },
+    {
+      "category": "Higher education unspecified (ISCED 5, 6, 7, 8)",
+      "code": "ISC_5678"
+    },
+    {
+      "category": "Multiple levels",
+      "code": "ISC_99"
+    }
+  ],
+  "Education orientation": [
+    {
+      "category": "General (academic)",
+      "code": "O_G"
+    },
+    {
+      "category": "Vocational/technical (TVET)",
+      "code": "O_VET"
+    },
+    {
+      "category": "Combined general and vocational",
+      "code": "O_All"
+    }
+  ],
+  "Learning modality": [
+    {
+      "category": "Formal education",
+      "code": "M_FORM"
+    },
+    {
+      "category": "Non-formal education",
+      "code": "M_NFORM"
+    },
+    {
+      "category": "Informal learning",
+      "code": "M_INFORM"
+    },
+    {
+      "category": "Lifelong learning",
+      "code": "M_LL"
+    }
+  ],
+  "Ownership/Provision": [
+    {
+      "category": "Public (state-run)",
+      "code": "OWN_PUB"
+    },
+    {
+      "category": "Private non-profit",
+      "code": "OWN_PRIV"
+    },
+    {
+      "category": "Private for-profit",
+      "code": "OWN_PFP"
+    },
+    {
+      "category": "Public-private partnership (PPP)",
+      "code": "OWN_PPP"
+    },
+    {
+      "category": "Community or faith-based",
+      "code": "OWN_COM"
+    }
+  ],
+  "Teachers": [
+    {
+      "category": "Initial education and training",
+      "code": "T_INI"
+    },
+    {
+      "category": "Recruitment and hiring",
+      "code": "T_RECR"
+    },
+    {
+      "category": "Professional development",
+      "code": "T_PDEV"
+    },
+    {
+      "category": "Working conditions and salaries",
+      "code": "T_COND"
+    },
+    {
+      "category": "Qualification and certification",
+      "code": "T_QUAL"
+    },
+    {
+      "category": "Legal status and rights",
+      "code": "T_STAT"
+    },
+    {
+      "category": "Teacher evaluation and performance",
+      "code": "T_EVAL"
+    },
+    {
+      "category": "Teacher supply and shortages",
+      "code": "T_SUPP"
+    },
+    {
+      "category": "Teacher other",
+      "code": "T_OTHER"
+    }
+  ],
+  "Infrastructure & resources": [
+    {
+      "category": "School buildings and physical infrastructure",
+      "code": "INFRA_BUILD"
+    },
+    {
+      "category": "Classrooms and learning environments",
+      "code": "INFRA_CLASS"
+    },
+    {
+      "category": "Teaching and learning materials",
+      "code": "INFRA_TLM"
+    },
+    {
+      "category": "ICT and digital infrastructure",
+      "code": "INFRA_ICT"
+    },
+    {
+      "category": "Laboratories and libraries",
+      "code": "INFRA_LABS"
+    },
+    {
+      "category": "WASH facilities (water, sanitation and hygiene)",
+      "code": "INFRA_WASH"
+    },
+    {
+      "category": "Transport and boarding",
+      "code": "INFRA_TRANS"
+    },
+    {
+      "category": "Other",
+      "code": "INFRA_OTHER"
+    }
+  ],
+  "Curriculum": [
+    {
+      "category": "Design and development",
+      "code": "CUR_DVPMT"
+    },
+    {
+      "category": "Content and learning areas",
+      "code": "CUR_CONTENT"
+    },
+    {
+      "category": "Organization and instructional time",
+      "code": "CUR_ORG"
+    },
+    {
+      "category": "Curriculum implementation",
+      "code": "CUR_IMPL"
+    },
+    {
+      "category": "Curriculum evaluation and reform",
+      "code": "CUR_EVAL"
+    },
+    {
+      "category": "Competency-based and learning outcomes",
+      "code": "CUR_LO"
+    },
+    {
+      "category": "Other curriculum-related issue",
+      "code": "CUR_OTHER"
+    }
+  ],
+  "Pedagogy & assessment": [
+    {
+      "category": "Pedagogical foundations and theories",
+      "code": "PEDAG_FOUND"
+    },
+    {
+      "category": "Teaching methods and approaches",
+      "code": "PEDAG_METHO"
+    },
+    {
+      "category": "Technology-supported pedagogy",
+      "code": "PEDAG_TECH"
+    },
+    {
+      "category": "Assessment and feedback",
+      "code": "PEDAG_ASSESS"
+    },
+    {
+      "category": "Professional learning communities",
+      "code": "PEDAG_LEARN"
+    },
+    {
+      "category": "Other pedagogy related issue",
+      "code": "PEDAG_OTHER"
+    }
+  ],
+  "Subject domain": [
+    {
+      "category": "Literacy and language",
+      "code": "F_LITE"
+    },
+    {
+      "category": "Mathematics and numeracy",
+      "code": "F_MATH"
+    },
+    {
+      "category": "Science and technology (STEM)",
+      "code": "F_SCI"
+    },
+    {
+      "category": "Social sciences and humanities",
+      "code": "F_SOCSCI"
+    },
+    {
+      "category": "Arts and culture",
+      "code": "F_ARTS"
+    },
+    {
+      "category": "Physical education and health",
+      "code": "F_PE"
+    },
+    {
+      "category": "Religion and moral education",
+      "code": "F_REL"
+    },
+    {
+      "category": "Environmental education and sustainable development",
+      "code": "F_ENV"
+    },
+    {
+      "category": "Vocational and technical skills",
+      "code": "F_VET"
+    },
+    {
+      "category": "Other subject area",
+      "code": "F_OTHER"
+    }
+  ],
+  "Cross-cutting themes & skills": [
+    {
+      "category": "Citizenship and civic education",
+      "code": "CCUT_CITIZ"
+    },
+    {
+      "category": "Global citizenship and peace education",
+      "code": "CCUT_GCITIZ"
+    },
+    {
+      "category": "Human rights and equality",
+      "code": "CCUT__RIGH"
+    },
+    {
+      "category": "Digital and ICT literacy",
+      "code": "CCUT_DIGIT"
+    },
+    {
+      "category": "Financial and economic literacy",
+      "code": "CCUT_FIN"
+    },
+    {
+      "category": "Entrepreneurship and business skills",
+      "code": "CCUT_BUSI"
+    },
+    {
+      "category": "Life skills and 21st century competencies",
+      "code": "CCUT_21ST"
+    },
+    {
+      "category": "Health and well-being education",
+      "code": "CCUT_WELLB"
+    },
+    {
+      "category": "Sustainable development and climate action",
+      "code": "CCUT_SUST"
+    },
+    {
+      "category": "Inclusive education and special needs",
+      "code": "CCUT_INCL"
+    },
+    {
+      "category": "Other cross-cutting theme",
+      "code": "CCUT_OTH"
+    }
+  ],
+  "Policy theme": [
+    {
+      "category": "Access and equity",
+      "code": "POL_EQUIT"
+    },
+    {
+      "category": "Quality and learning outcomes",
+      "code": "POL_QUAL"
+    },
+    {
+      "category": "Governance and planning",
+      "code": "POL_GOV"
+    },
+    {
+      "category": "Financing and resource mobilization",
+      "code": "POL_FIN"
+    },
+    {
+      "category": "Teachers and workforce policies",
+      "code": "POL_TEACH"
+    },
+    {
+      "category": "Curriculum and pedagogy policies",
+      "code": "POL_CUR"
+    },
+    {
+      "category": "Innovation and technology policies",
+      "code": "POL_INNOV"
+    },
+    {
+      "category": "Inclusion and diversity",
+      "code": "POL_INCL"
+    },
+    {
+      "category": "International cooperation and partnerships",
+      "code": "POL_INTCOOP"
+    },
+    {
+      "category": "Education in emergencies and crises",
+      "code": "POL_EIE"
+    },
+    {
+      "category": "Sustainable development and environment",
+      "code": "POL_SUST"
+    },
+    {
+      "category": "Health and well-being policies",
+      "code": "POL_WELLB"
+    },
+    {
+      "category": "Lifelong learning and adult education",
+      "code": "POL_LL"
+    },
+    {
+      "category": "Accountability and transparency",
+      "code": "POL_TRANSP"
+    },
+    {
+      "category": "Other policy theme",
+      "code": "POL_OTH"
+    }
+  ],
+  "Education system monitoring & evaluation": [
+    {
+      "category": "Education statistics and indicators",
+      "code": "SYST_STAT"
+    },
+    {
+      "category": "Learning assessments and examinations",
+      "code": "SYST_ASSESS"
+    },
+    {
+      "category": "EMIS and data systems",
+      "code": "SYST_EMIS"
+    },
+    {
+      "category": "Quality assurance and accreditation",
+      "code": "SYST_QUAL"
+    },
+    {
+      "category": "Institutional evaluation and inspection",
+      "code": "SYST_INST"
+    },
+    {
+      "category": "Research and surveys",
+      "code": "SYST_RESEAR"
+    },
+    {
+      "category": "Other",
+      "code": "SYST_OTHER"
+    }
+  ],
+  "Legal frameworks": [
+    {
+      "category": "Constitution and fundamental rights",
+      "code": "LAW_CONSTI"
+    },
+    {
+      "category": "Education laws and regulations",
+      "code": "LAW_REG"
+    },
+    {
+      "category": "International conventions and treaties",
+      "code": "LAW_INTER"
+    },
+    {
+      "category": "Policy implementation and enforcement",
+      "code": "LAW_IMPLEM"
+    },
+    {
+      "category": "Rights and obligations of stakeholders",
+      "code": "LAW_RIGHTS"
+    },
+    {
+      "category": "Legal disputes and interpretation",
+      "code": "LAW_INTERPR"
+    },
+    {
+      "category": "Other",
+      "code": "LAW_OTHER"
+    }
+  ],
+  "Stakeholder focus": [
+    {
+      "category": "Government and policy makers",
+      "code": "ACT_GOV"
+    },
+    {
+      "category": "Teachers and educators",
+      "code": "ACT_EDUC"
+    },
+    {
+      "category": "Learners and students",
+      "code": "ACT_STUD"
+    },
+    {
+      "category": "Parents and communities",
+      "code": "ACT_PARENT"
+    },
+    {
+      "category": "Civil society and NGOs",
+      "code": "ACT_CSO"
+    },
+    {
+      "category": "Private sector and industry",
+      "code": "ACT_PRIV"
+    },
+    {
+      "category": "International organizations and donors",
+      "code": "ACT_IO"
+    },
+    {
+      "category": "Other",
+      "code": "ACT_OTHER"
+    }
+  ],
+  "Learner population": [
+    {
+      "category": "All learners",
+      "code": "POP_ALL"
+    },
+    {
+      "category": "Children (0-17)",
+      "code": "POP_CHILD"
+    },
+    {
+      "category": "Youth and adolescents",
+      "code": "POP_YOUTH"
+    },
+    {
+      "category": "Adults and lifelong learners",
+      "code": "POP_ADUL"
+    },
+    {
+      "category": "Women and girls",
+      "code": "POP_WOM"
+    },
+    {
+      "category": "Learners with disabilities",
+      "code": "POP_DISAB"
+    },
+    {
+      "category": "Indigenous or minority groups",
+      "code": "POP_INDIG"
+    },
+    {
+      "category": "Migrants, refugees and displaced persons",
+      "code": "POP_DISPL"
+    },
+    {
+      "category": "Rural and remote learners",
+      "code": "POP_RUR"
+    },
+    {
+      "category": "Low-income and disadvantaged groups",
+      "code": "POP_POOR"
+    },
+    {
+      "category": "Population in conflict and emergencies settings",
+      "code": "POP_EMERG"
+    },
+    {
+      "category": "Other",
+      "code": "POP_OTHER"
+    }
+  ]
+}

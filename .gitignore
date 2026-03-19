@@ -10,4 +10,5 @@ wheels/
 .venv
 /data/*
 !/data/test_data.json
+!/data/labels.json
 !/data/test-data-solved-pre-op/
