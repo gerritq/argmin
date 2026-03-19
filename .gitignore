@@ -8,3 +8,6 @@ wheels/
 
 # Virtual environments
 .venv
+/data/*
+!/data/test_data.json
+!/data/test-data-solved-pre-op/
