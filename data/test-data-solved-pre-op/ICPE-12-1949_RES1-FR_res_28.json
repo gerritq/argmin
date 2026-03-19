@@ -1,0 +1,211 @@
+{
+  "TEXT_ID": "ICPE-12-1949_RES1-FR_res_28",
+  "RECOMMENDATION": 28,
+  "TITLE": "L'ENSEIGNEMENT DE LA LECTURE",
+  "METADATA": {
+    "structure": {
+      "doc_title": "ICPE-12-1949_RES1-FR",
+      "nb_paras": 19,
+      "preambular_para": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "operative_para": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "think": "Para 1 - deterministic - First paragraph introductory clause (Preambular).\nPara 2 - deterministic - Standard Preambular keyword match.\nPara 3 - inheritance - Inherited preambular context from continuation clause (That/Que).\nPara 4 - inheritance - Inherited preambular context from continuation clause (That/Que).\nPara 5 - inheritance - Inherited preambular context from continuation clause (That/Que).\nPara 6 - deterministic - Standard Preambular keyword match.\nPara 7 - deterministic - Standard Preambular keyword match.\nPara 8 - LLM - Okay, let's tackle this query. The user wants to classify a UN resolution paragraph as 'preambular' or 'operative'. The given text is \"Taking all these various elements into account,\".  First, I need to recall what preambular and operative parts of a resolution are. Preambular clauses usually set the context, explain the reasons, or provide background information. They often start with phrases like \"Whereas\" or \"Considering\" and don't have legal effect. Operative clauses, on the other hand, are the actual decisions or actions the UN is taking, usually starting with \"Resolves\" or \"Decides\".  Looking at the provided text: \"Taking all these various elements into account,\". The phrase \"Taking into account\" is commonly used in preambular parts to introduce considerations or reasons. It's a way of stating that the resolution is based on certain factors. This doesn't seem to be a direct action or decision, so it's more likely part of the preambular section.  But wait, could it be part of an operative clause? Maybe if it's part of a longer sentence that includes a decision. However, the given text is just a fragment. If it were part of a larger sentence, like \"Taking all these various elements into account, the Security Council resolves...\", then it would be part of the operative. But as it stands, the phrase alone is more indicative of a preambular clause.  I should also check if there are any other clues. The structure of the sentence doesn't have a verb that indicates a decision or action. It's more of a prepositional phrase. So, the classification here is preambular.\nPara 9 - LLM - Okay, let's see. The user wants me to classify a UN resolution paragraph as either preambular or operative. The text given is: \"Submits to the Ministries of Public Education of the various countries the following recommendation:\"  First, I need to recall what preambular and operative parts of a resolution are. From what I remember, the preambular part is the introductory section that provides background, reasons, or context for the resolution. It usually starts with phrases like \"Whereas,\" \"Considering,\" or \"The General Assembly recalls.\" These parts don't have legal effect but set the stage for the operative part.  The operative part, on the other hand, contains the actual decisions, resolutions, or actions that the UN body is taking. These are the binding parts, often starting with \"Resolves,\" \"Decides,\" or \"Requests.\" They outline what the UN is going to do, such as adopting a policy, making a decision, or requesting an action from member states.  Looking at the given text: \"Submits to the Ministries of Public Education of the various countries the following recommendation:\" This seems like an action being taken. The verb here is \"submits,\" which is an action. The phrase \"the following recommendation\" suggests that there's a specific recommendation that follows, which would be part of the operative section.   But wait, the structure of the sentence is a bit different. It's a bit more like a recommendation being submitted, which might be part of the operative part. However, sometimes recommendations can be in the preambular if they're just setting the context. But in this case, the sentence is about submitting a recommendation, which is an action. So the operative part is where the actual decisions or actions are made.   Another point to consider: the preambular is more about the reasons and background, while the operative is about the actual resolutions. Since this sentence is about submitting a recommendation, which is an action, it's likely part of the operative section. However, sometimes recommendations can be part of the preambular if they're not binding. But in the context of a UN resolution, the operative part would include the actual decisions.   Wait, the phrase \"submits to the Ministries...\" sounds like a directive or a decision. The word \"submits\" here is a bit formal. In UN resolutions, the operative part often includes decisions like \"The General Assembly resolves that...\" or \"Decides that...\" So \"submits\" could be part of the operative part.   Alternatively, if the text was part of the preambular, it might be more about explaining why the resolution is being made. But this sentence is stating an action, not explaining the reasons. Therefore, I think this is an operative part.   So the classification should be 'operative' because it's stating an action (submitting a recommendation) that the UN is taking, which is part of the actual resolution's content rather than the introductory context.\nPara 10 - deterministic - Standard Operative numbering or keyword/punct match.\nPara 11 - deterministic - Standard Operative numbering or keyword/punct match.\nPara 12 - deterministic - Standard Operative numbering or keyword/punct match.\nPara 13 - deterministic - Standard Operative numbering or keyword/punct match.\nPara 14 - deterministic - Standard Operative numbering or keyword/punct match.\nPara 15 - deterministic - Standard Operative numbering or keyword/punct match.\nPara 16 - deterministic - Standard Operative numbering or keyword/punct match.\nPara 17 - deterministic - Standard Operative numbering or keyword/punct match.\nPara 18 - deterministic - Standard Operative numbering or keyword/punct match.\nPara 19 - deterministic - Standard Operative numbering or keyword/punct match."
+    }
+  },
+  "body": {
+    "paragraphs": [
+      {
+        "para_number": 1,
+        "para": "La Conférence internationale de l'Instruction publique, Convoquée à Genève par l'Organisation des Nations Unies pour l'Éducation, la Science et la Culture et le Bureau international d'Éducation, et s'y étant réunie le quatre juillet en sa douzième session, adopte le douze juillet mil neuf cent quarante-neuf la recommandation suivante : La Conférence,",
+        "tags": [],
+        "type": "preambular",
+        "think": "",
+        "matched_pars": {},
+        "para_en": "The International Conference on Public Instruction, convened in Geneva by the United Nations Educational, Scientific and Cultural Organization and the International Bureau of Education, and having met there on the fourth of July in its twelfth session, adopts on the twelfth of July nineteen forty-nine the following recommendation: The Conference,"
+      },
+      {
+        "para_number": 2,
+        "para": "Considérant que la lecture n'est pas seulement une technique d'enseignement de base et un ensemble de mécanismes mentaux, mais aussi l'outil principal de l'acquisition du savoir et de toute culture personnelle,",
+        "tags": [],
+        "type": "preambular",
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Considering that reading is not only a basic teaching technique and a set of mental mechanisms, but also the principal tool for acquiring knowledge and all personal culture,"
+      },
+      {
+        "para_number": 3,
+        "para": "Que l'enfant doit apprendre à lire couramment en comprenant ce qu'il lit,",
+        "tags": [],
+        "type": "preambular",
+        "think": "",
+        "matched_pars": {},
+        "para_en": "That the child must learn to read fluently while understanding what he or she reads,"
+      },
+      {
+        "para_number": 4,
+        "para": "Que l'enseignement de la lecture ne saurait être dissocié de l'enseignement de la langue maternelle et des moyens d'expression de celle-ci, ni de l'apprentissage de l'écriture,",
+        "tags": [],
+        "type": "preambular",
+        "think": "",
+        "matched_pars": {},
+        "para_en": "That the teaching of reading cannot be separated from the teaching of the mother tongue and its means of expression, nor from the learning of writing,"
+      },
+      {
+        "para_number": 5,
+        "para": "Que les progrès de la psychologie et de la pédagogie permettent l'emploi de méthodes mieux adaptées aux possibilités de l'enfant,",
+        "tags": [],
+        "type": "preambular",
+        "think": "",
+        "matched_pars": {},
+        "para_en": "That advances in psychology and pedagogy allow for the use of methods better adapted to the child's capabilities,"
+      },
+      {
+        "para_number": 6,
+        "para": "Reconnaissant que : a) les méthodes synthétiques satisfont l'esprit logique de l'adulte et facilitent le travail du maître, mais partent d'éléments peu accessibles à l'esprit de l'enfant, b) les méthodes dites globables, préconisées par la psychologie, sont plus conformes aux possibilités mentales de l'enfant et à ses intérêts spontanés; elles permettent d'intégrer l'apprentissage de la lecture dans les activités générales de la classe, mais elles exigent une préparation plus complète du maître,",
+        "tags": [],
+        "type": "preambular",
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Acknowledging that: a) synthetic methods satisfy the logical mind of the adult and facilitate the teacher’s work, but are based on elements that are less accessible to the child’s mind, b) so-called global methods, endorsed by psychology, better correspond to the child’s mental capacities and spontaneous interests; they allow the integration of reading instruction into the general classroom activities, but they require more thorough preparation by the teacher,"
+      },
+      {
+        "para_number": 7,
+        "para": "Estimant, en outre, que le choix des méthodes de l'enseignement de la lecture peut être influencé par la structure de la langue, par l'organisation scolaire de chaque pays, etc.,",
+        "tags": [],
+        "type": "preambular",
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Further considering that the choice of methods for teaching reading may be influenced by the structure of the language, by the educational organization of each country, etc.,"
+      },
+      {
+        "para_number": 8,
+        "para": "Tenant compte de tous ces éléments divers,",
+        "tags": [],
+        "type": "preambular",
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Taking all these various elements into account,"
+      },
+      {
+        "para_number": 9,
+        "para": "Soumet aux Ministères de l'Instruction publique des différents pays la recommandation suivante :",
+        "tags": [],
+        "type": "operative",
+        "think": "",
+        "matched_pars": {},
+        "para_en": "Submits to the Ministries of Public Education of the various countries the following recommendation:"
+      },
+      {
+        "para_number": 10,
+        "para": "1. Une des préoccupations essentielles des autorités scolaires doit être : a) d'enseigner à tout enfant d'âge scolaire et à tout adulte analphabète à lire couramment, b) d'améliorer dans ce domaine les méthodes d'enseignement en favorisant toutes expériences utiles, c) de mettre en œuvre tous les moyens propres à maintenir les adolescents en état de lire couramment après leur sortie de l'école ;",
+        "tags": [],
+        "type": "operative",
+        "think": "",
+        "matched_pars": {},
+        "para_en": "1. One of the primary concerns of the educational authorities must be: a) to teach every school-aged child and every illiterate adult to read fluently, b) to improve teaching methods in this area by encouraging all useful experiences, c) to implement all means capable of ensuring that adolescents maintain fluent reading skills after leaving school;"
+      },
+      {
+        "para_number": 11,
+        "para": "2. L'apprentissage de la lecture ne doit débuter qu'au moment où l'enfant, après avoir enrichi ses moyens d'expression verbale et reçu une éducation sensorielle adéquate, a acquis le développement mental nécessaire ;",
+        "tags": [],
+        "type": "operative",
+        "think": "",
+        "matched_pars": {},
+        "para_en": "2. The teaching of reading should only begin when the child, having enhanced their means of verbal expression and received adequate sensory education, has acquired the necessary mental development;"
+      },
+      {
+        "para_number": 12,
+        "para": "3. L'organisation des écoles devrait permettre au même maitre de suivre ses élèves pendant les années d'apprentissage de la lecture ;",
+        "tags": [],
+        "type": "operative",
+        "think": "",
+        "matched_pars": {},
+        "para_en": "3. The organization of schools should allow the same teacher to follow their students throughout the years of learning to read;"
+      },
+      {
+        "para_number": 13,
+        "para": "4. Il est souhaitable que le maître s'inspire des méthodes d'enseignement de la lecture mises au point selon les données des sciences de l'éducation ;",
+        "tags": [],
+        "type": "operative",
+        "think": "",
+        "matched_pars": {},
+        "para_en": "4. It is desirable that the teacher draws inspiration from reading instruction methods developed based on the findings of educational sciences;"
+      },
+      {
+        "para_number": 14,
+        "para": "5. Le goût de la lecture doit être développé dès le début, par l'emploi de phrases et de textes d'une valeur certaine, pris dans le champ des activités et des intérêts immédiats de l'enfant; ce goût doit être pendant toute la scolarité par la création et l'enrichissement continu de bibliothèques scolaires ;",
+        "tags": [],
+        "type": "operative",
+        "think": "",
+        "matched_pars": {},
+        "para_en": "5. The enjoyment of reading must be cultivated from the outset through the use of sentences and texts of genuine value, drawn from the realm of the child's immediate activities and interests; this enjoyment must be sustained throughout the course of schooling by the creation and continuous enhancement of school libraries."
+      },
+      {
+        "para_number": 15,
+        "para": "6. L'emploi de l'imprimerie scolaire, auxiliaire précieux de l'enseignement, mérite d'être encouragé ;",
+        "tags": [],
+        "type": "operative",
+        "think": "",
+        "matched_pars": {},
+        "para_en": "6. The use of the school printing press, a valuable aid to teaching, deserves to be encouraged;"
+      },
+      {
+        "para_number": 16,
+        "para": "7. Les manuels d'apprentissage de la lecture et les livres récréatifs (pour l'enfant et pour l'adulte qui apprennent à lire) doivent être adaptés au développement mental et aux intérêts du lecteur. On apportera un soin tout particulier au choix du texte, des caractères d'imprimerie et des illustrations ;",
+        "tags": [],
+        "type": "operative",
+        "think": "",
+        "matched_pars": {},
+        "para_en": "7. Textbooks for learning to read and recreational books (for both children and adults learning to read) must be adapted to the mental development and interests of the reader. Particular care will be taken in the selection of the text, typefaces, and illustrations;"
+      },
+      {
+        "para_number": 17,
+        "para": "8. Les enfants ayant des difficultés à apprendre à lire doivent pouvoir bénéficier d'un enseignement complémentaire adapté à leurs besoins ;",
+        "tags": [],
+        "type": "operative",
+        "think": "",
+        "matched_pars": {},
+        "para_en": "8. Children who have difficulty learning to read should be able to benefit from supplementary instruction tailored to their needs;"
+      },
+      {
+        "para_number": 18,
+        "para": "9. L'emploi d'épreuves objectives de lecture orale et silencieuse est recommandé pour permettre le contrôle des résultats obtenus aux différents âges;",
+        "tags": [],
+        "type": "operative",
+        "think": "",
+        "matched_pars": {},
+        "para_en": "9. The use of objective tests of oral and silent reading is recommended in order to enable the monitoring of results achieved at different ages;"
+      },
+      {
+        "para_number": 19,
+        "para": "10. Vu la nécessité de combattre, dans de nombreuses contrées, l'analphabétisme chez les adultes, un effort concerté doit être entrepris pour développer les techniques de l'enseignement de la langue adaptées aux masses, pour élaborer un matériel adéquat à l'enseignement de la lecture et pour échanger les résultats d'expériences faites par les nations aux prises avec ce problème.",
+        "tags": [],
+        "type": "operative",
+        "think": "",
+        "matched_pars": {},
+        "para_en": "10. Given the necessity of combating adult illiteracy in many regions, a concerted effort must be undertaken to develop language teaching techniques suited to the masses, to create appropriate materials for reading instruction, and to exchange the results of experiences conducted by nations facing this issue."
+      }
+    ],
+    "body_raw": "La Conférence internationale de l'Instruction publique, Convoquée à Genève par l'Organisation des Nations Unies pour l'Éducation, la Science et la Culture et le Bureau international d'Éducation, et s'y étant réunie le quatre juillet en sa douzième session, adopte le douze juillet mil neuf cent quarante-neuf la recommandation suivante : La Conférence, Considérant que la lecture n'est pas seulement une technique d'enseignement de base et un ensemble de mécanismes mentaux, mais aussi l'outil principal de l'acquisition du savoir et de toute culture personnelle, Que l'enfant doit apprendre à lire couramment en comprenant ce qu'il lit, Que l'enseignement de la lecture ne saurait être dissocié de l'enseignement de la langue maternelle et des moyens d'expression de celle-ci, ni de l'apprentissage de l'écriture, Que les progrès de la psychologie et de la pédagogie permettent l'emploi de méthodes mieux adaptées aux possibilités de l'enfant, Reconnaissant que : a) les méthodes synthétiques satisfont l'esprit logique de l'adulte et facilitent le travail du maître, mais partent d'éléments peu accessibles à l'esprit de l'enfant, b) les méthodes dites globables, préconisées par la psychologie, sont plus conformes aux possibilités mentales de l'enfant et à ses intérêts spontanés; elles permettent d'intégrer l'apprentissage de la lecture dans les activités générales de la classe, mais elles exigent une préparation plus complète du maître, Estimant, en outre, que le choix des méthodes de l'enseignement de la lecture peut être influencé par la structure de la langue, par l'organisation scolaire de chaque pays, etc., Tenant compte de tous ces éléments divers, Soumet aux Ministères de l'Instruction publique des différents pays la recommandation suivante :  122 1. Une des préoccupations essentielles des autorités scolaires doit être : a) d'enseigner à tout enfant d'âge scolaire et à tout adulte analphabète à lire couramment, b) d'améliorer dans ce domaine les méthodes d'enseignement en favorisant toutes expériences utiles, c) de mettre en œuvre tous les moyens propres à maintenir les adolescents en état de lire couramment après leur sortie de l'école ; 2. L'apprentissage de la lecture ne doit débuter qu'au moment où l'enfant, après avoir enrichi ses moyens d'expression verbale et reçu une éducation sensorielle adéquate, a acquis le développement mental nécessaire ; 3. L'organisation des écoles devrait permettre au même maitre de suivre ses élèves pendant les années d'apprentissage de la lecture ; 4. Il est souhaitable que le maître s'inspire des méthodes d'enseignement de la lecture mises au point selon les données des sciences de l'éducation ; 5. Le goût de la lecture doit être développé dès le début, par l'emploi de phrases et de textes d'une valeur certaine, pris dans le champ des activités et des intérêts immédiats de l'enfant; ce goût doit être pendant toute la scolarité par la création et l'enrichissement continu de bibliothèques scolaires ; 6. L'emploi de l'imprimerie scolaire, auxiliaire précieux de l'enseignement, mérite d'être encouragé ; 7. Les manuels d'apprentissage de la lecture et les livres récréatifs (pour l'enfant et pour l'adulte qui apprennent à lire) doivent être adaptés au développement mental et aux intérêts du lecteur. On apportera un soin tout particulier au choix du texte, des caractères d'imprimerie et des illustrations ; 8. Les enfants ayant des difficultés à apprendre à lire doivent pouvoir bénéficier d'un enseignement complémentaire adapté à leurs besoins ; 9. L'emploi d'épreuves objectives de lecture orale et silencieuse est recommandé pour permettre le contrôle des résultats obtenus aux différents âges; 10. Vu la nécessité de combattre, dans de nombreuses contrées, l'analphabétisme chez les adultes, un effort concerté doit être entrepris pour développer les techniques de l'enseignement de la langue adaptées aux masses, pour élaborer un matériel adéquat à l'enseignement de la lecture et pour échanger les résultats d'expériences faites par les nations aux prises avec ce problème."
+  }
+}
