@@ -1,0 +1,101 @@
+{
+  "TEXT_ID": "ICPE-45-1996_RES1-FR_res_81",
+  "RECOMMENDATION": 81,
+  "TITLE": "RECRUTEMENT DES ENSEIGNANTS : ATTIRER VERS L’ENSEIGNEMENT LES JEUNES GENS LES PLUS COMPETENTS",
+  "METADATA": {
+    "structure": {
+      "doc_title": "ICPE-45-1996_RES1-FR",
+      "nb_paras": 8,
+      "preambular_para": [
+        1,
+        2,
+        4,
+        6
+      ],
+      "operative_para": [
+        3,
+        5,
+        7,
+        8
+      ],
+      "think": "Para 1 - LLM - Okay, let's tackle this classification. The user wants to know if the given UN resolution paragraph is preambular or operative. First, I need to recall the difference between these two types of clauses in legal documents.  Preambular clauses are typically introductory statements that set the context, background, or reasons for the resolution. They often start with phrases like \"Whereas\" or \"The General Assembly recalls,\" but they can also be more general. Operative clauses, on the other hand, contain the actual decisions, resolutions, or actions that the UN body is taking. These usually start with verbs like \"Resolves,\" \"Decides,\" or \"Requests.\"  Looking at the provided text: \"1.1 The recruitment of future teachers concerns authorities and education specialists in several regions of the world. Although national situations vary greatly, all the regional expert meetings preparing for the ICSE have noted that the teaching profession is often rather unattractive in terms of social status and career advancement prospects.\"  The first sentence talks about the concern of authorities and specialists regarding teacher recruitment. The second sentence discusses observations from expert meetings about the teaching profession's attractiveness. There's no mention of a decision, action, or resolution here. It's more about stating a situation or background information.   Since there's no operative language like \"resolves\" or \"decides,\" this seems to be setting the stage for the resolution. It's providing context and background rather than stating the actual resolution's content. Therefore, this paragraph is likely preambular.   I should check if there's any possibility it's operative. If the text had a directive or a call to action, it would be operative. But here, it's just presenting facts and observations. So the classification as preambular makes sense.\nPara 2 - LLM - Okay, I need to classify this UN resolution paragraph as either preambular or operative. Let me start by recalling what each term means.   Preambular clauses are the parts of a resolution that set out the reasons, background, or context for the resolution. They usually explain why the resolution is being passed but don't contain binding actions. They might include things like the purpose, the situation, or the reasons for the resolution.  Operative clauses, on the other hand, are the actual instructions or decisions made by the UN. These are the parts that tell member states what to do, establish committees, set up procedures, or outline specific actions to be taken. They are the binding parts of the resolution.  Looking at the given text: \"1.2 The criteria for recruiting future teachers should not be based solely on the candidates' body of knowledge. Personal qualities such as moral rigor, a sense of responsibility and solidarity, motivation and predisposition for teamwork, as well as communication skills, are also necessary.\"  This paragraph is talking about the criteria for recruiting teachers. It's stating that besides knowledge, personal qualities are important. Now, does this set out a reason or a directive?   If this is part of a resolution, it might be a recommendation or a statement of principles. Since it's not commanding an action but rather stating what should be considered, it might be preambular. However, sometimes operative clauses can include recommendations. Wait, but in UN resolutions, operative clauses are the ones that are binding. If this is a recommendation, it's more likely preambular.   Alternatively, if the resolution is about establishing guidelines for teacher recruitment, this could be part of the operative section. But the way it's phrased doesn't seem to be a direct instruction. It's more of a statement of what should be included in the criteria.   Wait, the numbering is \"1.2\" which might indicate that this is part of a list. If the resolution has sections, maybe 1.1 is preambular and 1.2 is operative. But without the full context, it's hard to tell. However, the key is whether it's a statement of purpose or a directive.   Since the text is about criteria and qualities that should be considered, it's more of a guideline or a recommendation. In UN resolutions, operative clauses often start with verbs like \"decides\", \"resolves\", \"calls upon\", etc. If this text is just stating what should be done without such verbs, it's more likely preambular.   Therefore, I think this paragraph is preambular because it's setting out the rationale or the principles behind the resolution rather than the actual actions to be taken.\nPara 3 - LLM - Okay, let's see. The user wants me to classify a UN resolution paragraph as either preambular or operative. The text given is: \"In this regard, the following measures are recommended:\"  First, I need to recall what preambular and operative parts of a resolution are. The preambular part usually contains the background, reasons, or explanations for the resolution. It sets the context and provides the rationale. Operative parts, on the other hand, are the actual decisions or actions that the resolution calls for. They are the binding parts that outline what needs to be done.  Looking at the text, \"In this regard, the following measures are recommended:\" This seems like it's introducing a list of measures that are being recommended. The word \"recommended\" suggests that these are actions that the UN is suggesting, which would fall under the operative part because they are the specific actions to be taken.   Preambular clauses often start with phrases like \"Whereas,\" \"Considering,\" or \"The General Assembly recalls,\" etc. They don't usually have action verbs like \"recommend\" or \"decide.\" Instead, they provide context. The operative part starts with \"Resolves,\" \"Decides,\" or \"Requests,\" which are more directive.  So, the key here is the presence of the word \"recommended.\" That's an operative clause because it's indicating a course of action. The preambular part would be more about stating reasons or facts, not making recommendations.   Therefore, the correct classification should be operative. The reasoning is that the text introduces specific measures to be taken, which is characteristic of the operative part of a resolution.\nPara 4 - deterministic - Standard Preambular keyword match.\nPara 5 - LLM - Okay, let's tackle this. The user wants me to classify a UN resolution paragraph as either 'preambular' or 'operative'. The text given is: \"1.3.2 provide incentives and scholarships to pupils and students who have demonstrated outstanding academic and extracurricular abilities and wish to choose teaching as a career;\".   First, I need to recall what preambular and operative parts of a resolution are. From what I remember, the preambular part is the introductory section that explains the reasons or background for the resolution. It usually starts with phrases like \"Whereas\" or \"The General Assembly recalls\" and sets the context. The operative part, on the other hand, contains the actual decisions or actions that the resolution calls for. These are the binding parts that outline what needs to be done, often starting with \"The General Assembly resolves\" or similar.  Looking at the provided text, it starts with \"1.3.2 provide incentives...\" which seems like a numbered item. The structure here might be part of a list of actions. The key is whether this is a statement of intent or a directive. The phrase \"provide incentives and scholarships\" sounds like an action that should be taken, which aligns with the operative part.   But wait, sometimes preambular sections can have numbered items too. However, the presence of a directive verb like \"provide\" suggests it's an operative clause. Preambular parts are more about explaining reasons, not making specific actions. For example, if it said \"The General Assembly recognizes that...\" that would be preambular. But here, it's stating what should be done, so it's more likely operative.   I should also check if the numbering is part of the structure. In UN resolutions, the operative part is usually numbered, but the preambular is often in a different format. However, the numbering alone isn't enough. The content is the key. Since the text is a direct instruction to provide incentives, it's part of the operative section.   Therefore, the classification should be 'operative'.\nPara 6 - deterministic - Standard Preambular keyword match.\nPara 7 - deterministic - Standard Operative numbering or keyword/punct match.\nPara 8 - LLM - Okay, let's tackle this query. The user wants me to classify a UN resolution paragraph as either 'preambular' or 'operative'. The text given is: \"1.3.5 develop and offer intellectually stimulating teacher training programs, in order to equip them with appropriate academic and professional qualifications and to attract the most competent young people to the teaching profession.\"  First, I need to recall what preambular and operative parts of a resolution are. From what I remember, the preambular part usually sets the context, explains the reasons, or provides background information. It often starts with phrases like \"Whereas\" or \"Considering\" and doesn't have legal force. On the other hand, the operative part contains the actual decisions, resolutions, or actions that the UN body is taking. These are the binding parts that outline what needs to be done.  Looking at the given text, it starts with \"1.3.5\" which seems like a numbering system, possibly part of a numbered list. The main clause here is \"develop and offer intellectually stimulating teacher training programs.\" The purpose is stated as \"in order to equip them with appropriate academic and professional qualifications and to attract the most competent young people to the teaching profession.\"   Now, the key is whether this is a statement of intent or a directive. The phrase \"in order to\" suggests that this is a goal or objective, not a mandatory action. However, in UN resolutions, sometimes the operative parts can include both the actions to be taken and the reasons for them. But usually, the operative part would have more direct commands or decisions.   Wait, the structure here is a bit different. The numbering \"1.3.5\" might indicate that this is part of a list of actions or points. If this is part of a numbered list that outlines specific actions to be taken, then it's likely operative. However, the presence of \"in order to\" might indicate that it's explaining the purpose, which could be part of the preambular. But I need to be careful here.  Another approach is to check if the text contains any binding language. The phrase \"develop and offer\" is a directive, suggesting that the UN is instructing member states or other bodies to take action. This would be part of the operative section. Preambular parts are more about setting the stage, not making specific demands.   Additionally, the structure of the text doesn't start with \"Whereas\" or \"Considering,\" which are typical preambular markers. Instead, it starts with a numbered item, which is more common in operative sections. So, based on the structure and the presence of a directive, this paragraph is likely operative.   Therefore, the classification should be 'operative' because it contains a directive to develop and offer teacher training programs, which is an actionable item rather than a background statement."
+    }
+  },
+  "body": {
+    "paragraphs": [
+      {
+        "para_number": 1,
+        "para": "1.1 Le recrutement des futurs enseignants préoccupe les autorités et les spécialistes en éducation dans plusieurs régions du monde. Même si les situations nationales sont très diverses, dans toutes les réunions régionales d’experts préparatoires à la CIE, il a été constaté que la profession enseignante est souvent assez peu attrayante quant à son statut social et ses perspectives d’avancement.",
+        "tags": [],
+        "type": "preambular",
+        "think": "",
+        "matched_pars": {},
+        "para_en": "1.1 The recruitment of future teachers concerns authorities and education specialists in several regions of the world. Although national situations vary greatly, all the regional expert meetings preparing for the ICSE have noted that the teaching profession is often rather unattractive in terms of social status and career advancement prospects."
+      },
+      {
+        "para_number": 2,
+        "para": "1.2 Les critères de recrutement des futurs enseignants ne devraient pas être uniquement fonction du corpus de connaissances des candidats. Des qualités personnelles telles que la rigueur morale, le sens des responsabilités et de la solidarité, la motivation et la prédisposition pour le travail en équipe ainsi que la capacité de communiquer sont également nécessaires.",
+        "tags": [],
+        "type": "preambular",
+        "think": "",
+        "matched_pars": {},
+        "para_en": "1.2 The criteria for recruiting future teachers should not be based solely on the candidates' body of knowledge. Personal qualities such as moral rigor, a sense of responsibility and solidarity, motivation and predisposition for teamwork, as well as communication skills, are also necessary."
+      },
+      {
+        "para_number": 3,
+        "para": "1.3 A cet égard, les mesures suivantes sont recommandées :",
+        "tags": [],
+        "type": "operative",
+        "think": "",
+        "matched_pars": {},
+        "para_en": "In this regard, the following measures are recommended:"
+      },
+      {
+        "para_number": 4,
+        "para": "1.3.1 mettre en oeuvre des actions destinées à mieux sensibiliser les jeunes à l’importance de la profession enseignante et à les orienter vers elle, entre autres par des rencontres avec des enseignants éminents, la reconnaissance publique des enseignants, des journées portes ouvertes dans les écoles et les instituts de formation d’enseignants, la transmission par les médias d’expériences d’écoles et d’enseignants novateurs ;",
+        "tags": [],
+        "type": "preambular",
+        "think": "",
+        "matched_pars": {},
+        "para_en": "1.3.1 implement actions aimed at raising young people's awareness of the importance of the teaching profession and guiding them towards it, including meetings with distinguished teachers, public recognition of teachers, open days at schools and teacher training institutes, and the dissemination through the media of experiences from innovative schools and teachers;"
+      },
+      {
+        "para_number": 5,
+        "para": "1.3.2 offrir des mesures incitatives et des bourses aux élèves et aux étudiants ayant fait preuve de grandes capacités scolaires et extrascolaires et désirant choisir l'enseignement comme carrière;",
+        "tags": [],
+        "type": "operative",
+        "think": "",
+        "matched_pars": {},
+        "para_en": "1.3.2 provide incentives and scholarships to pupils and students who have demonstrated outstanding academic and extracurricular abilities and wish to choose teaching as a career;"
+      },
+      {
+        "para_number": 6,
+        "para": "1.3.3 favoriser l’égalité entre les sexes en recherchant une représentation plus équilibrée des femmes et des hommes dans le corps enseignant à tous les niveaux d’enseignement et dans toutes les disciplines ;",
+        "tags": [],
+        "type": "preambular",
+        "think": "",
+        "matched_pars": {},
+        "para_en": "1.3.3 promote gender equality by seeking a more balanced representation of women and men within the teaching staff at all levels of education and in all disciplines;"
+      },
+      {
+        "para_number": 7,
+        "para": "1.3.4 encourager l’accès à l’enseignement de personnes qualifiées venant d’autres horizons professionnels, pour combler d’éventuelles pénuries de personnel enseignant et établir à cette fin des procédures adéquates de recrutement et de formation;",
+        "tags": [],
+        "type": "operative",
+        "think": "",
+        "matched_pars": {},
+        "para_en": "1.3.4 encourage the access to teaching for qualified individuals coming from other professional backgrounds, in order to address potential shortages of teaching staff and to establish appropriate recruitment and training procedures for this purpose;"
+      },
+      {
+        "para_number": 8,
+        "para": "1.3.5 élaborer et offrir des programmes intellectuellement stimulants de formation des enseignants, afin de doter ceux-ci de qualifications académiques et professionnelles appropriées et d’attirer les jeunes les plus compétents vers la profession enseignante.",
+        "tags": [],
+        "type": "operative",
+        "think": "",
+        "matched_pars": {},
+        "para_en": "1.3.5 develop and offer intellectually stimulating teacher training programs, in order to equip them with appropriate academic and professional qualifications and to attract the most competent young people to the teaching profession."
+      }
+    ],
+    "body_raw": "1.1 Le recrutement des futurs enseignants préoccupe les autorités et les spécialistes en éducation dans plusieurs régions du monde. Même si les situations nationales sont très diverses, dans toutes les réunions régionales d’experts préparatoires à la CIE, il a été constaté que la profession enseignante est souvent assez peu attrayante quant à son statut social et ses perspectives d’avancement. 1.2 Les critères de recrutement des futurs enseignants ne devraient pas être uniquement fonction du corpus de connaissances des candidats. Des qualités personnelles telles que la rigueur morale, le sens des responsabilités et de la solidarité, la motivation et la prédisposition pour le travail en équipe ainsi que la capacité de communiquer sont également nécessaires. 1.3 A cet égard, les mesures suivantes sont recommandées : 1.3.1 mettre en oeuvre des actions destinées à mieux sensibiliser les jeunes à l’importance de la profession enseignante et à les orienter vers elle, entre autres par des rencontres avec des enseignants éminents, la reconnaissance publique des enseignants, des journées portes ouvertes dans les écoles et les instituts de formation d’enseignants, la transmission par les médias d’expériences d’écoles et d’enseignants novateurs ; 1.3.2 offrir des mesures incitatives et des bourses aux élèves et aux étudiants ayant fait preuve de grandes capacités scolaires et extrascolaires et désirant choisir l'enseignement comme carrière; 1.3.3 favoriser l’égalité entre les sexes en recherchant une représentation plus équilibrée des femmes et des hommes dans le corps enseignant à tous les niveaux d’enseignement et dans toutes les disciplines ; 1.3.4 encourager l’accès à l’enseignement de personnes qualifiées venant d’autres horizons professionnels, pour combler d’éventuelles pénuries de personnel enseignant et établir à cette fin des procédures adéquates de recrutement et de formation; 1.3.5 élaborer et offrir des programmes intellectuellement stimulants de formation des enseignants, afin de doter ceux-ci de qualifications académiques et professionnelles appropriées et d’attirer les jeunes les plus compétents vers la profession enseignante. -20"
+  }
+}
