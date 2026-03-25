@@ -1,0 +1,351 @@
+[
+    {
+        "text_en": "Economic and Social Council",
+        "text_fr": "Conseil économique et social",
+        "dimensions": [
+            "Policy theme",
+            "Legal frameworks"
+        ],
+        "type": "",
+        "Policy theme": [
+            "Governance and planning"
+        ],
+        "Legal frameworks": [
+            "International conventions and treaties",
+            "Policy implementation and enforcement",
+            "Rights and obligations of stakeholders"
+        ]
+    },
+    {
+        "text_en": "Distr.: General 5 August 2015",
+        "text_fr": "Distr. générale 5 août 2015",
+        "dimensions": [],
+        "type": ""
+    },
+    {
+        "text_en": "2015 session",
+        "text_fr": "Session de 2015",
+        "dimensions": [],
+        "type": ""
+    },
+    {
+        "text_en": "Agenda item 20",
+        "text_fr": "Point 20 de l'ordre du jour",
+        "dimensions": [],
+        "type": ""
+    },
+    {
+        "text_en": "Resolution adopted by the Economic and Social Council on 9 June 2015",
+        "text_fr": "Résolution adoptée par le Conseil économique et social le 9 juin 2015",
+        "dimensions": [
+            "Policy theme",
+            "Legal frameworks"
+        ],
+        "type": "",
+        "Policy theme": [],
+        "Legal frameworks": [
+            "International conventions and treaties"
+        ]
+    },
+    {
+        "text_en": "[on the basis of a proposal considered in plenary meeting (E/2015/L.10) ]",
+        "text_fr": "[ sur la base d'une proposition examinée en séance plénière (E/2015/L.10) ]",
+        "dimensions": [
+            "Policy theme"
+        ],
+        "type": "",
+        "Policy theme": []
+    },
+    {
+        "text_en": "2015/9. United Nations System Staff College in Turin, Italy",
+        "text_fr": "2015/9. École des cadres du système des Nations Unies à Turin (Italie)",
+        "dimensions": [
+            "Ownership/Provision",
+            "Infrastructure & resources",
+            "Stakeholder focus",
+            "Learner population"
+        ],
+        "type": "",
+        "Ownership/Provision": [
+            "Public (state-run)"
+        ],
+        "Infrastructure & resources": [
+            "School buildings and physical infrastructure",
+            "Classrooms and learning environments"
+        ],
+        "Stakeholder focus": [
+            "Learners and students",
+            "International organizations and donors"
+        ],
+        "Learner population": [
+            "Adults and lifelong learners"
+        ]
+    },
+    {
+        "text_en": "The Economic and Social Council,",
+        "text_fr": "Le Conseil économique et social ,",
+        "dimensions": [
+            "Policy theme"
+        ],
+        "type": "",
+        "Policy theme": [
+            "Governance and planning",
+            "International cooperation and partnerships",
+            "Sustainable development and environment"
+        ]
+    },
+    {
+        "text_en": "Recalling General Assembly resolutions 54/228 of 22 December 1999, 55/207 of 20 December 2000, 55/258 of 14 June 2001, 55/278 of 12 July 2001, 58/224 of 23 December 2003 and 60/214 of 22 December 2005,",
+        "text_fr": "Rappelant les  résolutions  de  l'Assemblée  générale  54/228  du  22 décembre 1999,  55/207  du  20 décembre  2000,  55/258  du  14 juin  2001,  55/278  du  12 juillet 2001, 58/224 du 23 décembre 2003 et 60/214 du 22 décembre 2005,",
+        "dimensions": [
+            "Legal frameworks"
+        ],
+        "type": "",
+        "Legal frameworks": [
+            "International conventions and treaties"
+        ]
+    },
+    {
+        "text_en": "Recalling also its resolutions 2009/10 of 27 July 2009, 2011/10 of 22 July 2011 and 2013/14 of 23 July 2013,",
+        "text_fr": "Rappelant  également ses  résolutions  2009/10  du  27 juillet  2009,  2011/10  du 22 juillet 2011 et 2013/14 du 23 juillet 2013,",
+        "dimensions": [],
+        "type": ""
+    },
+    {
+        "text_en": "Reaffirming the role of the United Nations System Staff College as an institution for system-wide knowledge management and continuous training of United Nations system staff, in particular in the areas of economic and social development, peace and security and internal management,",
+        "text_fr": "Réaffirmant le rôle de l'École des cadres du système des Nations Unies en tant qu'institution  de  gestion  du  savoir  à  l'échelle  du  système  des  Nations  Unies  ainsi que  de  formation  continue  du  personnel  du  système,  en  particulier  dans  les domaines du développement économique et social, de la paix et de la sécurité et de la gestion interne,",
+        "dimensions": [
+            "Education orientation",
+            "Ownership/Provision",
+            "Curriculum",
+            "Subject domain",
+            "Learner population"
+        ],
+        "type": "",
+        "Education orientation": [
+            "Vocational/technical (TVET)"
+        ],
+        "Ownership/Provision": [],
+        "Curriculum": [
+            "Content and learning areas"
+        ],
+        "Subject domain": [
+            "Social sciences and humanities",
+            "Vocational and technical skills"
+        ],
+        "Learner population": [
+            "Adults and lifelong learners"
+        ]
+    },
+    {
+        "text_en": "Having considered the report of the Secretary-General submitted pursuant to paragraph 8 of General Assembly resolution 60/214 1 ,",
+        "text_fr": "Ayant examiné le  rapport  présenté  par  le  Secrétaire  général  en  application  du paragraphe 8 de la résolution 60/214 de l'Assemblée générale 1 ,",
+        "dimensions": [
+            "Policy theme",
+            "Legal frameworks",
+            "Stakeholder focus"
+        ],
+        "type": "",
+        "Policy theme": [],
+        "Legal frameworks": [
+            "International conventions and treaties",
+            "Policy implementation and enforcement"
+        ],
+        "Stakeholder focus": [
+            "Government and policy makers",
+            "International organizations and donors"
+        ]
+    },
+    {
+        "text_en": "1. Takes note of the report of the Secretary-General; 1",
+        "text_fr": "1. Prend acte du rapport du Secrétaire général 1 ;",
+        "dimensions": [],
+        "type": ""
+    },
+    {
+        "text_en": "2. Welcomes the progress made over the past two years by the United Nations System Staff College, which provides high-quality education and training to staff of the United Nations system;",
+        "text_fr": "2. Salue les  progrès  accomplis  au  cours  des  deux  dernières  années  par l'École des cadres du système des Nations Unies, qui dispense un enseignement et une formation de grande qualité au personnel du système des Nations Unies ;",
+        "dimensions": [
+            "Education level",
+            "Education orientation",
+            "Ownership/Provision",
+            "Policy theme",
+            "Education system monitoring & evaluation",
+            "Stakeholder focus",
+            "Learner population"
+        ],
+        "type": "",
+        "Education level": [],
+        "Education orientation": [
+            "Vocational/technical (TVET)"
+        ],
+        "Ownership/Provision": [
+            "Public (state-run)"
+        ],
+        "Policy theme": [
+            "Quality and learning outcomes",
+            "Teachers and workforce policies",
+            "Lifelong learning and adult education"
+        ],
+        "Education system monitoring & evaluation": [
+            "Institutional evaluation and inspection"
+        ],
+        "Stakeholder focus": [
+            "Learners and students",
+            "International organizations and donors"
+        ],
+        "Learner population": [
+            "Adults and lifelong learners"
+        ]
+    },
+    {
+        "text_en": "3. Acknowledges the continuing efforts of the Staff College to strengthen its central role in inter-agency education, training and knowledge-sharing activities, taking into account the ongoing efforts to provide United Nations staff with the knowledge and skills they need to address global challenges, including the implementation of the post-2015 development agenda;",
+        "text_fr": "3. Prend acte des  efforts que  continue de déployer l'École des cadres pour renforcer le rôle central qu'elle joue dans les activités interinstitutions d'enseignement,  de  formation  et  de  partage  du  savoir,  compte  tenu  des  mesures prises actuellement pour doter le personnel des Nations Unies des connaissances et compétences dont il a besoin pour faire face aux défis mondiaux, notamment la mise en œuvre du programme de développement pour l'après-2015 ;",
+        "dimensions": [
+            "Education orientation",
+            "Ownership/Provision",
+            "Curriculum",
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme",
+            "Learner population"
+        ],
+        "type": "",
+        "Education orientation": [
+            "Combined general and vocational"
+        ],
+        "Ownership/Provision": [
+            "Public (state-run)"
+        ],
+        "Curriculum": [
+            "Content and learning areas",
+            "Competency-based and learning outcomes"
+        ],
+        "Subject domain": [
+            "Social sciences and humanities",
+            "Environmental education and sustainable development"
+        ],
+        "Cross-cutting themes & skills": [
+            "Global citizenship and peace education",
+            "Life skills and 21st century competencies",
+            "Sustainable development and climate action"
+        ],
+        "Policy theme": [
+            "Quality and learning outcomes",
+            "Teachers and workforce policies",
+            "Sustainable development and environment",
+            "Lifelong learning and adult education"
+        ],
+        "Learner population": [
+            "Adults and lifelong learners"
+        ]
+    },
+    {
+        "text_en": "4. Welcomes the increasing catalytic role of the Staff College in institutional change and transformation within the United Nations system;",
+        "text_fr": "4. Se  félicite que  l'École  des  cadres  joue  de  plus  en  plus  un  rôle  de catalyseur  en  ce  qui  concerne  les  changements  et  la  transformation  institutionnels dans le système des Nations Unies ;",
+        "dimensions": [
+            "Cross-cutting themes & skills",
+            "Policy theme",
+            "Learner population"
+        ],
+        "type": "",
+        "Cross-cutting themes & skills": [
+            "Global citizenship and peace education",
+            "Life skills and 21st century competencies"
+        ],
+        "Policy theme": [
+            "Governance and planning"
+        ],
+        "Learner population": [
+            "Adults and lifelong learners"
+        ]
+    },
+    {
+        "text_en": "5. Notes with satisfaction the progress made by the Staff College towards sustainability, including through the generation of resources;",
+        "text_fr": "5. Note avec satisfaction que l'École des cadres progresse sur la voie de la viabilité, notamment en générant elle-même des ressources ;",
+        "dimensions": [
+            "Infrastructure & resources",
+            "Policy theme",
+            "Education system monitoring & evaluation"
+        ],
+        "type": "",
+        "Infrastructure & resources": [],
+        "Policy theme": [
+            "Financing and resource mobilization"
+        ],
+        "Education system monitoring & evaluation": [
+            "Institutional evaluation and inspection"
+        ]
+    },
+    {
+        "text_en": "6. Invites all organizations of the United Nations system to make the most effective use of the services offered by the Staff College, to enhance their cooperation and synergies with the College and to encourage their staff to participate in courses that may be useful to them;",
+        "text_fr": "6. Invite tous  les  organismes  des  Nations  Unies  à  utiliser  au  mieux  les services  offerts  par  l'École  des  cadres,  à  renforcer  leur  coopération  et  leurs synergies  avec  elle  et  à  encourager  leur  personnel  à  participer  aux  cours  qui pourraient leur être utiles ;",
+        "dimensions": [
+            "Education orientation",
+            "Ownership/Provision",
+            "Policy theme",
+            "Stakeholder focus",
+            "Learner population"
+        ],
+        "type": "",
+        "Education orientation": [
+            "Vocational/technical (TVET)"
+        ],
+        "Ownership/Provision": [
+            "Public (state-run)"
+        ],
+        "Policy theme": [
+            "Teachers and workforce policies",
+            "International cooperation and partnerships",
+            "Lifelong learning and adult education"
+        ],
+        "Stakeholder focus": [
+            "Learners and students",
+            "International organizations and donors"
+        ],
+        "Learner population": [
+            "Adults and lifelong learners"
+        ]
+    },
+    {
+        "text_en": "7. Encourages Member States to continue to support the Staff College by recognizing that it has a specific inter-agency mandate and plays an important role in strengthening the capacity of staff and the United Nations system to carry out their mandates effectively and efficiently.",
+        "text_fr": "7. Engage les  États  Membres à continuer de soutenir l'École des cadres en reconnaissant qu'elle a un mandat interinstitutionnel tout particulier et joue un rôle important  dans  le  renforcement  des  capacités  du  personnel  et  des  organismes  des Nations Unies, propice à une exécution efficace et rationnelle des mandats de ceux-ci.",
+        "dimensions": [
+            "Education orientation",
+            "Ownership/Provision",
+            "Cross-cutting themes & skills",
+            "Policy theme",
+            "Stakeholder focus",
+            "Learner population"
+        ],
+        "type": "",
+        "Education orientation": [
+            "Vocational/technical (TVET)"
+        ],
+        "Ownership/Provision": [
+            "Public (state-run)"
+        ],
+        "Cross-cutting themes & skills": [
+            "Life skills and 21st century competencies"
+        ],
+        "Policy theme": [
+            "Quality and learning outcomes",
+            "Governance and planning",
+            "Teachers and workforce policies",
+            "Lifelong learning and adult education"
+        ],
+        "Stakeholder focus": [
+            "Government and policy makers",
+            "International organizations and donors"
+        ],
+        "Learner population": [
+            "Adults and lifelong learners"
+        ]
+    },
+    {
+        "text_en": "33rd plenary meeting 9 June 2015",
+        "text_fr": "33 e séance plénière 9 juin 2015",
+        "dimensions": [],
+        "type": ""
+    }
+]

@@ -1,0 +1,2383 @@
+[
+    {
+        "text_en": "Distr.: General 6 August 2018",
+        "text_fr": "Distr. générale 6 août 2018",
+        "dimensions": [],
+        "type": ""
+    },
+    {
+        "text_en": "2018 session",
+        "text_fr": "Session de 2018",
+        "dimensions": [],
+        "type": ""
+    },
+    {
+        "text_en": "Agenda item 18 (b)",
+        "text_fr": "Point 18 b) de l'ordre du jour",
+        "dimensions": [],
+        "type": ""
+    },
+    {
+        "text_en": "Resolution adopted by the Economic and Social Council on 24 July 2018",
+        "text_fr": "Résolution adoptée par le Conseil économique et social le 24 juillet 2018",
+        "dimensions": [
+            "Policy theme",
+            "Legal frameworks"
+        ],
+        "type": "",
+        "Policy theme": [],
+        "Legal frameworks": [
+            "International conventions and treaties",
+            "Policy implementation and enforcement"
+        ]
+    },
+    {
+        "text_en": "[ on the recommendation of the Commission on Science and Technology for Development (E/2018/31) ]",
+        "text_fr": "[ sur recommandation de la Commission de la science et de la technique au service du développement (E/2018/31) ]",
+        "dimensions": [
+            "Policy theme",
+            "Subject domain"
+        ],
+        "type": "",
+        "Policy theme": [
+            "Governance and planning",
+            "Innovation and technology policies"
+        ],
+        "Subject domain": [
+            "Science and technology (STEM)"
+        ]
+    },
+    {
+        "text_en": "2018/29. Science, technology and innovation for development",
+        "text_fr": "2018/29. Science, technologie et innovation au service du développement",
+        "dimensions": [
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme"
+        ],
+        "type": "",
+        "Subject domain": [
+            "Science and technology (STEM)"
+        ],
+        "Cross-cutting themes & skills": [
+            "Digital and ICT literacy",
+            "Life skills and 21st century competencies",
+            "Sustainable development and climate action"
+        ],
+        "Policy theme": [
+            "Innovation and technology policies"
+        ]
+    },
+    {
+        "text_en": "The Economic and Social Council,",
+        "text_fr": "Le Conseil économique et social ,",
+        "dimensions": [],
+        "type": ""
+    },
+    {
+        "text_en": "Recognizing the role of the Commission on Science and Technology for Development, as the United Nations flagship for science, technology and innovation for development and the United Nations coordinating body on science, technology and innovation for development, in analysing the important contribution of science, technology and innovation, including information and communication technologies, to the 2030 Sustainable Development Agenda, 1 as a forum for strategic planning, exchange of lessons learned and good practices, and analysis of the evolving role of science, technology and innovation in key sectors of the economy, environment and society, while highlighting new and emerging technologies,",
+        "text_fr": "Conscient du rôle joué par la Commission de la science et de la technique au service du développement, porte-drapeau de l'Organisation des Nations Unies pour la science, la technologie et l'innovation au service du développement et organe de coordination  des  Nations  Unies  pour  la  science,  la  technologie  et  l'innovation  au service du développement, dans l'analyse de la contribution importante de la science, de la technologie et de l'innovation, y compris des technologies de l'information et des communications, au Programme de développement durable à l'horizon 2030 1 , du fait qu'elle  sert  de  forum  pour  la  planification  stratégique,  l'échange  des enseignements tirés et des bonnes pratiques, et l'analyse de l'évolution du rôle de la science, de la technologie et de l'innovation dans des secteurs clefs de l'économie, de  l'environnement  et  de  la  société,  tout  en  mettant  en  lumière  les  technologies nouvelles et émergentes,",
+        "dimensions": [
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme"
+        ],
+        "type": "",
+        "Subject domain": [
+            "Science and technology (STEM)",
+            "Environmental education and sustainable development"
+        ],
+        "Cross-cutting themes & skills": [
+            "Digital and ICT literacy",
+            "Sustainable development and climate action"
+        ],
+        "Policy theme": [
+            "Governance and planning",
+            "Innovation and technology policies",
+            "Sustainable development and environment"
+        ]
+    },
+    {
+        "text_en": "Recognizing that science, technology and innovation play a vital role and make a crucial contribution in helping countries to become and remain competitive in the global economy, to address global challenges and to achieve sustainable development,",
+        "text_fr": "Constatant que la science, la technologie et l'innovation jouent un rôle capital et apportent une contribution cruciale pour ce qui est d'aider les pays à devenir et à rester compétitifs dans l'économie mondiale, à faire face aux enjeux mondiaux et à parvenir à un développement durable,",
+        "dimensions": [
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme"
+        ],
+        "type": "",
+        "Subject domain": [
+            "Science and technology (STEM)",
+            "Environmental education and sustainable development"
+        ],
+        "Cross-cutting themes & skills": [
+            "Global citizenship and peace education",
+            "Digital and ICT literacy",
+            "Financial and economic literacy",
+            "Sustainable development and climate action"
+        ],
+        "Policy theme": [
+            "Innovation and technology policies",
+            "Sustainable development and environment"
+        ]
+    },
+    {
+        "text_en": "Recognizing also that information and communication technologies play a key role in the promotion of science, technology and innovation for development,",
+        "text_fr": "Constatant également que les technologies de l'information et des communications  jouent  un  rôle  décisif  dans  la  promotion  de  la  science,  de  la technologie et de l'innovation au service du développement,",
+        "dimensions": [
+            "Infrastructure & resources",
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme"
+        ],
+        "type": "",
+        "Infrastructure & resources": [
+            "ICT and digital infrastructure"
+        ],
+        "Subject domain": [
+            "Science and technology (STEM)"
+        ],
+        "Cross-cutting themes & skills": [
+            "Digital and ICT literacy"
+        ],
+        "Policy theme": [
+            "Innovation and technology policies"
+        ]
+    },
+    {
+        "text_en": "Recalling the 2005 World Summit Outcome 2 and General Assembly resolution 70/125 of 16 December 2015, entitled \"Final document of the high-level meeting of the General Assembly on the comprehensive review of the implementation of the outcomes of the World Summit on Social in which it was found that science and technology, including information and communication technologies, were crucial to the achievement of the internationally agreed development goals, and reaffirming the commitments made in that document,",
+        "text_fr": "Rappelant le  Document  final  du  Sommet  mondial  de  2005 2 et  la  résolution 70/125 de l'Assemblée générale, en date du 16 décembre 2015, intitulée « Document final de la réunion de haut niveau de l'Assemblée générale sur l'examen d'ensemble de  la  mise  en  œuvre  des  textes  issus  du  Sommet  mondial  sur  la  société  de l'information »,  dans  lequel  il  a  été  constaté  que  la  science  et  la  technologie, notamment  les  technologies  de  l'information  et  des  communications,  étaient déterminantes pour la réalisation des objectifs de développement arrêtés au niveau international, et réaffirmant les engagements pris dans ledit document,",
+        "dimensions": [
+            "Subject domain",
+            "Policy theme",
+            "Legal frameworks"
+        ],
+        "type": "",
+        "Subject domain": [
+            "Science and technology (STEM)",
+            "Social sciences and humanities"
+        ],
+        "Policy theme": [
+            "Innovation and technology policies"
+        ],
+        "Legal frameworks": [
+            "International conventions and treaties",
+            "Policy implementation and enforcement"
+        ]
+    },
+    {
+        "text_en": "Recalling also the entry into force on 4 November 2016 of the Paris Agreement under the United Nations Framework Convention on Climate Change 3 ,",
+        "text_fr": "Rappelant également l'entrée en vigueur, le 4 novembre 2016, de l'Accord de Paris conclu au titre de la Convention-cadre des Nations Unies sur les changements climatiques 3 ,",
+        "dimensions": [
+            "Policy theme",
+            "Legal frameworks"
+        ],
+        "type": "",
+        "Policy theme": [
+            "Sustainable development and environment"
+        ],
+        "Legal frameworks": [
+            "International conventions and treaties"
+        ]
+    },
+    {
+        "text_en": "Recalling further that UNCTAD is the secretariat of the Commission,",
+        "text_fr": "Rappelant en outre que la CNUCED est le secrétariat de la Commission,",
+        "dimensions": [],
+        "type": ""
+    },
+    {
+        "text_en": "Taking note that, in its resolution 72/228 of 20 December 2017 on science, technology and innovation for development, the General Assembly called upon UNCTAD to continue to undertake policy analyses on science, technology and innovation with a view to assisting developing countries in identifying measures to integrate those policies into their national development strategies and to ensure that those policies and programmes support national development programmes,",
+        "text_fr": "Prenant note que, dans sa résolution 72/228 du 20 décembre 2017 sur la science, la  technique  et  l'innovation  au  service  du  développement,  l'Assemblée  générale  a engagé la CNUCED à continuer d'entreprendre des analyses des politiques relatives à la science, à la technique et à l'innovation en vue d'aider les pays en développement à  définir  les  mesures  à  prendre  pour  intégrer  ces  politiques  dans  leurs  stratégies nationales de développement et de faire en sorte que ces politiques et programmes soutiennent les programmes de développement nationaux,",
+        "dimensions": [
+            "Subject domain",
+            "Policy theme",
+            "Stakeholder focus"
+        ],
+        "type": "",
+        "Subject domain": [
+            "Science and technology (STEM)",
+            "Social sciences and humanities"
+        ],
+        "Policy theme": [
+            "Innovation and technology policies"
+        ],
+        "Stakeholder focus": [
+            "Government and policy makers",
+            "International organizations and donors"
+        ]
+    },
+    {
+        "text_en": "Recalling its decision 2015/242 of 22 July 2015 extending the mandate of the Advisory Board on Gender Equality of the Commission until 2021, as well as General Assembly resolutions 70/132 of 17 December 2015 and 70/213 of 22 December 2015, which address, respectively, obstacles to women's and girls' access to science and technology and the integration of a gender perspective into development policies and programmes,",
+        "text_fr": "Rappelant sa  décision  2015/242  du  22  juillet  2015  portant  prorogation  du mandat du Conseil consultatif pour l'égalité  des  sexes  de la  Commission jusqu'en 2021,  ainsi  que  les  résolutions  de  l'Assemblée  générale  70/132,  en  date  du 17 décembre 2015, et 70/213 et 70/219, en date du 22 décembre 2015, qui traitent, respectivement, des obstacles à l'accès des femmes et des filles à la science et à la technologie  et  de  l'intégration  de  la  problématique  femmes-hommes  dans  les politiques et programmes de développement,",
+        "dimensions": [
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme",
+            "Legal frameworks",
+            "Learner population"
+        ],
+        "type": "",
+        "Subject domain": [
+            "Science and technology (STEM)",
+            "Social sciences and humanities"
+        ],
+        "Cross-cutting themes & skills": [
+            "Human rights and equality"
+        ],
+        "Policy theme": [
+            "Access and equity",
+            "Innovation and technology policies",
+            "Inclusion and diversity"
+        ],
+        "Legal frameworks": [
+            "International conventions and treaties",
+            "Policy implementation and enforcement",
+            "Rights and obligations of stakeholders"
+        ],
+        "Learner population": [
+            "Women and girls"
+        ]
+    },
+    {
+        "text_en": "Recalling also the agreed conclusions of the Commission on the Status of Women on the economic empowerment of women in a changing world of work adopted by the Commission at its sixty-first session,4 in which, inter alia, it stressed the need to manage technological and digital change for the economic empowerment of women, including in order to strengthen the capacities of developing countries, with a view to enabling women to take advantage of science and technology to ensure their economic empowerment in a changing world of work,",
+        "text_fr": "Rappelant  également les  conclusions  concertées  de  la  Commission  de  la condition de la femme sur l'autonomisation économique des femmes dans un monde du travail en pleine évolution, adoptées par la Commission à sa soixante et unième session 4 ,  dans  lesquelles  elle  a,  entre  autres,  souligné  la  nécessité  de  gérer  le changement technologique et numérique en vue de l'autonomisation économique des femmes,  afin  notamment  de  renforcer  les  capacités  des  pays  en  développement, l'objectif étant que les femmes puissent tirer parti de la science et de la technologie pour  assurer  leur  autonomisation  économique  dans  un  monde  du  travail  en  pleine évolution,",
+        "dimensions": [
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme",
+            "Stakeholder focus",
+            "Learner population"
+        ],
+        "type": "",
+        "Subject domain": [
+            "Science and technology (STEM)",
+            "Social sciences and humanities"
+        ],
+        "Cross-cutting themes & skills": [
+            "Human rights and equality",
+            "Digital and ICT literacy",
+            "Financial and economic literacy",
+            "Life skills and 21st century competencies"
+        ],
+        "Policy theme": [
+            "Access and equity",
+            "Innovation and technology policies",
+            "Inclusion and diversity",
+            "International cooperation and partnerships"
+        ],
+        "Stakeholder focus": [
+            "Government and policy makers",
+            "Learners and students",
+            "International organizations and donors"
+        ],
+        "Learner population": [
+            "Women and girls"
+        ]
+    },
+    {
+        "text_en": "Taking note of the outcome document of the forum \"Equality and parity in science for peace and development\", held in New York on 8 and 9 February 2018 on the occasion of the International Day of Women and Girls in Science,",
+        "text_fr": "Prenant note du document final du forum « Égalité et parité dans la science pour la paix et le développement », organisé à New York les 8 et 9 février 2018 à l'occasion de la Journée internationale des femmes et des filles de science,",
+        "dimensions": [
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme",
+            "Stakeholder focus",
+            "Learner population"
+        ],
+        "type": "",
+        "Subject domain": [
+            "Science and technology (STEM)"
+        ],
+        "Cross-cutting themes & skills": [
+            "Global citizenship and peace education",
+            "Human rights and equality",
+            "Sustainable development and climate action"
+        ],
+        "Policy theme": [
+            "Access and equity",
+            "Inclusion and diversity"
+        ],
+        "Stakeholder focus": [
+            "Government and policy makers",
+            "Teachers and educators",
+            "Learners and students",
+            "Civil society and NGOs",
+            "International organizations and donors"
+        ],
+        "Learner population": [
+            "Women and girls"
+        ]
+    },
+    {
+        "text_en": "Taking note also of the importance of mainstreaming various aspects of the digital divide into science, technology and innovation policies and development programmes, in particular the digital divide between women and men, as sought by the Global Partnership for Gender Equality in the Digital Age and the G20 #eSkills4Girls initiative,",
+        "text_fr": "Prenant note également de l'importance que revêt la prise en compte de divers aspects  du  fossé  numérique  par  les  politiques  et  programmes  de  développement relatifs  à  la  science,  à  la  technologie  et  à  l'innovation,  en  particulier  du  fossé numérique entre les femmes et les hommes, que cherchent à combler le Partenariat mondial pour l'égalité hommes-femmes  à  l'ère  numérique  et  l'initiative #eSkills4Girls lancée par le G20,",
+        "dimensions": [
+            "Infrastructure & resources",
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme",
+            "Learner population"
+        ],
+        "type": "",
+        "Infrastructure & resources": [
+            "ICT and digital infrastructure"
+        ],
+        "Subject domain": [
+            "Science and technology (STEM)",
+            "Social sciences and humanities",
+            "Vocational and technical skills"
+        ],
+        "Cross-cutting themes & skills": [
+            "Human rights and equality",
+            "Digital and ICT literacy"
+        ],
+        "Policy theme": [
+            "Access and equity",
+            "Innovation and technology policies",
+            "Inclusion and diversity",
+            "International cooperation and partnerships"
+        ],
+        "Learner population": [
+            "Women and girls"
+        ]
+    },
+    {
+        "text_en": "Convinced that means such as basic education and skills in science, technology, engineering and mathematics, product design, management and entrepreneurship, although essential for innovation, are unevenly distributed among countries, and that the availability, accessibility and affordability of quality education in science, technology and mathematics at the primary, secondary and higher levels of education are fundamental and should be encouraged, considered as and implemented in a coordinated manner, so as to create a social climate conducive to the promotion of science, technology and innovation,",
+        "text_fr": "Convaincu que les moyens tels que l'instruction élémentaire et les compétences en  sciences,  technologie,  ingénierie  et  mathématiques,  conception  de  produits, gestion  et  création  d'entreprises,  bien  qu'essentiels  pour  l'innovation,  sont inégalement  répartis  entre  les  pays,  et  que  la  disponibilité,  l'accessibilité  et l'abordabilité d'un enseignement de qualité, dans les domaines de la science, de la technologie  et  des  mathématiques  aux  niveaux  primaire,  secondaire  et  supérieur d'éducation  sont  fondamentaux  et  devraient  être  encouragés,  considérés  comme prioritaires et mis en œuvre de manière coordonnée, de  façon à instaurer un climat social propice à la promotion de la science, de la technologie et de l'innovation,",
+        "dimensions": [
+            "Education level",
+            "Ownership/Provision",
+            "Infrastructure & resources",
+            "Curriculum",
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme",
+            "Education system monitoring & evaluation"
+        ],
+        "type": "",
+        "Education level": [
+            "Primary education",
+            "Secondary education unspecified",
+            "Higher education unspecified"
+        ],
+        "Ownership/Provision": [],
+        "Infrastructure & resources": [],
+        "Curriculum": [
+            "Design and development",
+            "Content and learning areas",
+            "Curriculum implementation",
+            "Competency-based and learning outcomes"
+        ],
+        "Subject domain": [
+            "Mathematics and numeracy",
+            "Science and technology (STEM)",
+            "Vocational and technical skills"
+        ],
+        "Cross-cutting themes & skills": [
+            "Digital and ICT literacy",
+            "Financial and economic literacy",
+            "Entrepreneurship and business skills",
+            "Life skills and 21st century competencies"
+        ],
+        "Policy theme": [
+            "Access and equity",
+            "Quality and learning outcomes",
+            "Governance and planning",
+            "Curriculum and pedagogy policies",
+            "Innovation and technology policies"
+        ],
+        "Education system monitoring & evaluation": [
+            "Education statistics and indicators",
+            "Quality assurance and accreditation"
+        ]
+    },
+    {
+        "text_en": "Taking note of General Assembly resolution 70/1 of 25 September 2015, entitled \"Transforming our world: the 2030 Agenda for Sustainable Development\", in which the Assembly adopted a comprehensive set of ambitious, universal, people-centred and change-promoting sustainable development goals and targets,",
+        "text_fr": "Prenant  note de  la  résolution  70/1  de  l'Assemblée  générale,  en  date  du 25 septembre  2015,  intitulée  « Transformer  notre  monde :  le  Programme  de développement durable à l'horizon 2030 », dans laquelle l'Assemblée a adopté une série  complète  d'objectifs  et  de  cibles  de  développement  durable  ambitieux, universels, axés sur l'être humain et porteurs de changement,",
+        "dimensions": [
+            "Policy theme",
+            "Legal frameworks",
+            "Stakeholder focus"
+        ],
+        "type": "",
+        "Policy theme": [
+            "Sustainable development and environment"
+        ],
+        "Legal frameworks": [
+            "International conventions and treaties"
+        ],
+        "Stakeholder focus": [
+            "Government and policy makers",
+            "International organizations and donors"
+        ]
+    },
+    {
+        "text_en": "Recognizing that science, technology and innovation, as well as information and communications technology, play a key role in the achievement of several sustainable development goals, and stressing their role in facilitating the implementation of the 2030 Agenda for Sustainable Development with a view to continuing to meet global challenges,",
+        "text_fr": "Estimant que la science, la technologie et l'innovation ainsi que l'informatique et les communications jouent un rôle capital dans la réalisation de plusieurs objectifs de développement durable, et soulignant le rôle qu'ils  peuvent jouer  pour  faciliter l'exécution  du  Programme  de  développement  durable  à  l'horizon  2030  en  vue  de continuer à relever les défis mondiaux,",
+        "dimensions": [
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme"
+        ],
+        "type": "",
+        "Subject domain": [
+            "Science and technology (STEM)",
+            "Environmental education and sustainable development"
+        ],
+        "Cross-cutting themes & skills": [
+            "Digital and ICT literacy",
+            "Sustainable development and climate action"
+        ],
+        "Policy theme": [
+            "Innovation and technology policies",
+            "Sustainable development and environment"
+        ]
+    },
+    {
+        "text_en": "Taking note of General Assembly resolution 69/313 of 27 July 2015 on the Addis Ababa Programme of Action of the Third International Conference on Financing for Development and the establishment of the Technology Facilitation Mechanism,",
+        "text_fr": "Prenant  note de  la  résolution  69/313  de  l'Assemblée  générale,  en  date  du 27 juillet  2015,  sur  le  Programme  d'action  d'Addis-Abeba  issu  de  la  troisième Conférence  internationale  sur  le  financement  du  développement,  ainsi  que  de  la création du Mécanisme de facilitation des technologies,",
+        "dimensions": [
+            "Policy theme",
+            "Legal frameworks",
+            "Infrastructure & resources",
+            "Cross-cutting themes & skills"
+        ],
+        "type": "",
+        "Policy theme": [
+            "Financing and resource mobilization",
+            "Innovation and technology policies"
+        ],
+        "Legal frameworks": [
+            "International conventions and treaties",
+            "Policy implementation and enforcement"
+        ],
+        "Infrastructure & resources": [],
+        "Cross-cutting themes & skills": [
+            "Digital and ICT literacy",
+            "Financial and economic literacy",
+            "Sustainable development and climate action"
+        ]
+    },
+    {
+        "text_en": "Emphasizing the contribution that the Commission on Science and Technology for Development can make to the Technology Facilitation Mechanism, bearing in mind its mandate to facilitate multi-stakeholder collaboration and partnership through the sharing of information, experience, good practices and practical advice among Member States, civil society, the private sector, the scientific community, United Nations entities and other relevant stakeholders to achieve sustainable development goals based on science, technology and innovation,",
+        "text_fr": "Soulignant le concours que la Commission de la science et de la technique au service  du  développement  peut  apporter  au  Mécanisme  de  facilitation  des technologies, en ayant à l'esprit que celle-ci a pour mandat de faciliter la collaboration multipartite et le partenariat par le partage d'informations, de données d'expérience, de bonnes pratiques et de conseils pratiques entre les États Membres, la société civile, le  secteur  privé,  les  milieux  scientifiques,  les  entités  des  Nations  Unies  et  autres parties prenantes concernées pour réaliser les objectifs de développement durable en s'appuyant sur la science, la technologie et l'innovation,",
+        "dimensions": [
+            "Policy theme",
+            "Subject domain",
+            "Stakeholder focus"
+        ],
+        "type": "",
+        "Policy theme": [
+            "Governance and planning",
+            "Innovation and technology policies",
+            "International cooperation and partnerships",
+            "Sustainable development and environment"
+        ],
+        "Subject domain": [
+            "Science and technology (STEM)",
+            "Environmental education and sustainable development"
+        ],
+        "Stakeholder focus": [
+            "Government and policy makers",
+            "Civil society and NGOs",
+            "Private sector and industry",
+            "International organizations and donors",
+            "Other"
+        ]
+    },
+    {
+        "text_en": "Recalling that, in its resolution 72/228, the General Assembly invited the Commission to promote, in accordance with the spirit of the 2030 Agenda and the Addis Ababa Programme of Action, international cooperation in the field of science and technology for development,",
+        "text_fr": "Rappelant que,  dans  sa  résolution  72/228,  l'Assemblée  générale  a  invité  la Commission  à  promouvoir,  conformément  à  l'esprit  du  Programme  2030  et  du Programme d'action d'Addis-Abeba, la coopération internationale dans le domaine de la science et de la technique au service du développement,",
+        "dimensions": [
+            "Subject domain",
+            "Policy theme",
+            "Legal frameworks"
+        ],
+        "type": "",
+        "Subject domain": [
+            "Science and technology (STEM)"
+        ],
+        "Policy theme": [
+            "Innovation and technology policies",
+            "International cooperation and partnerships",
+            "Sustainable development and environment"
+        ],
+        "Legal frameworks": [
+            "International conventions and treaties",
+            "Policy implementation and enforcement"
+        ]
+    },
+    {
+        "text_en": "Recalling also that, in the same resolution, the General Assembly invited the Commission to explore and consider innovative financing models that could attract new stakeholders, innovators and capital of new origin to science, technology, engineering and innovation-based solutions, working with other organizations, as appropriate,",
+        "text_fr": "Rappelant également que, dans cette même résolution, l'Assemblée générale a invité la Commission à étudier et à examiner des modèles de financement novateurs à  même  d'attirer  de  nouvelles  parties  prenantes,  des  innovateurs  et  des  capitaux d'origine  nouvelle  vers  des  solutions  fondées  sur  la  science,  la  technologie, l'ingénierie et l'innovation, en collaborant avec d'autres organismes s'il y a lieu,",
+        "dimensions": [
+            "Ownership/Provision",
+            "Subject domain",
+            "Policy theme",
+            "Legal frameworks",
+            "Stakeholder focus"
+        ],
+        "type": "",
+        "Ownership/Provision": [
+            "Public-private partnership (PPP)"
+        ],
+        "Subject domain": [
+            "Science and technology (STEM)"
+        ],
+        "Policy theme": [
+            "Financing and resource mobilization",
+            "Innovation and technology policies"
+        ],
+        "Legal frameworks": [
+            "International conventions and treaties",
+            "Policy implementation and enforcement"
+        ],
+        "Stakeholder focus": [
+            "International organizations and donors",
+            "Private sector and industry"
+        ]
+    },
+    {
+        "text_en": "Recognizing that new technologies create jobs and opportunities for development, thereby increasing the demand for digital capabilities and skills, and stressing the importance of developing these capacities and skills for societies to adapt to and benefit from technological developments,",
+        "text_fr": "Constatant que  les  nouvelles  technologies  créent  des  emplois  et  ouvrent  des perspectives  de  développement,  ce  qui  accroît  la  demande  de  capacités  et  de compétences  dans  le  domaine  du  numérique,  et  soulignant  qu'il  importe  de développer ces capacités et compétences pour que les sociétés puissent s'adapter aux évolutions technologiques et en tirer parti,",
+        "dimensions": [
+            "Education orientation",
+            "Curriculum",
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme"
+        ],
+        "type": "",
+        "Education orientation": [
+            "Vocational/technical (TVET)"
+        ],
+        "Curriculum": [
+            "Content and learning areas",
+            "Competency-based and learning outcomes"
+        ],
+        "Subject domain": [
+            "Science and technology (STEM)",
+            "Vocational and technical skills"
+        ],
+        "Cross-cutting themes & skills": [
+            "Digital and ICT literacy",
+            "Life skills and 21st century competencies"
+        ],
+        "Policy theme": [
+            "Quality and learning outcomes",
+            "Teachers and workforce policies",
+            "Curriculum and pedagogy policies",
+            "Innovation and technology policies",
+            "Lifelong learning and adult education"
+        ]
+    },
+    {
+        "text_en": "Taking note of General Assembly resolution 72/242 of 22 December 2017, in which the Assembly requested the Technology Facilitation Mechanism and the Commission, through the Economic and Social Council, to give due attention to the impact of major rapid technological developments on the achievement of sustainable development goals, within their respective mandates and available resources,",
+        "text_fr": "Prenant  note de  la  résolution  72/242  de  l'Assemblée  générale,  en  date  du 22 décembre 2017, dans laquelle l'Assemblée a prié le Mécanisme de facilitation des technologies et la Commission, par l'intermédiaire du Conseil économique et social, d'accorder  toute  l'attention  voulue  à  l'incidence  qu'ont  les  principales  évolutions rapides de la technique sur la réalisation des objectifs de développement durable, dans la limite de leurs mandats respectifs et des ressources disponibles,",
+        "dimensions": [
+            "Cross-cutting themes & skills",
+            "Policy theme",
+            "Legal frameworks",
+            "Stakeholder focus"
+        ],
+        "type": "",
+        "Cross-cutting themes & skills": [
+            "Digital and ICT literacy",
+            "Sustainable development and climate action"
+        ],
+        "Policy theme": [
+            "Innovation and technology policies",
+            "Sustainable development and environment"
+        ],
+        "Legal frameworks": [
+            "International conventions and treaties",
+            "Policy implementation and enforcement",
+            "Rights and obligations of stakeholders"
+        ],
+        "Stakeholder focus": [
+            "International organizations and donors"
+        ]
+    },
+    {
+        "text_en": "Welcoming the work of the Commission on its two current priority themes, \"Strongly increase the share of renewable energy by 2030: the role of science, technology and innovation\" and \"Strengthening digital skills to take advantage of existing and emerging technologies, with a focus on the role of women and youth\",",
+        "text_fr": "Accueillant avec satisfaction les travaux de la Commission relatifs à ses deux thèmes prioritaires actuels, « Accroître nettement la part des énergies renouvelables d'ici  à  2030 :  le  rôle  de  la  science,  de  la  technologie  et  de  l'innovation »  et « Renforcer  les  compétences  numériques  en  vue  de  tirer  parti  des  technologies existantes et émergentes, en mettant l'accent sur le rôle des femmes et des jeunes »,",
+        "dimensions": [
+            "Education orientation",
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme",
+            "Stakeholder focus",
+            "Learner population"
+        ],
+        "type": "",
+        "Education orientation": [
+            "Vocational/technical (TVET)"
+        ],
+        "Subject domain": [
+            "Science and technology (STEM)",
+            "Environmental education and sustainable development",
+            "Vocational and technical skills"
+        ],
+        "Cross-cutting themes & skills": [
+            "Human rights and equality",
+            "Digital and ICT literacy",
+            "Sustainable development and climate action"
+        ],
+        "Policy theme": [
+            "Innovation and technology policies",
+            "Inclusion and diversity",
+            "Sustainable development and environment"
+        ],
+        "Stakeholder focus": [
+            "Government and policy makers",
+            "Learners and students",
+            "International organizations and donors"
+        ],
+        "Learner population": [
+            "Youth and adolescents",
+            "Women and girls"
+        ]
+    },
+    {
+        "text_en": "Recognizing that innovation strategies must address the needs of local, poor and marginalized populations in developing and developed countries and involve them in innovation processes, and that capacity-building in science, technology and innovation is integrated as essential components of national development plans, including through collaboration between relevant ministries and regulatory agencies,",
+        "text_fr": "Considérant que les stratégies d'innovation doivent, d'une part, répondre aux besoins des populations locales, pauvres ou marginalisées des pays en développement et des pays développés et les faire participer aux processus d'innovation, et, d'autre part,  intégrer  le  renforcement  des  capacités  dans  les  domaines  de  la  science,  de  la technologie et de l'innovation en tant que composants essentiels des plans nationaux de  développement,  notamment  grâce  à  la  collaboration  entre  les  ministères  et  les organismes de réglementation compétents,",
+        "dimensions": [
+            "Education orientation",
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme",
+            "Stakeholder focus",
+            "Learner population"
+        ],
+        "type": "",
+        "Education orientation": [
+            "Vocational/technical (TVET)"
+        ],
+        "Subject domain": [
+            "Science and technology (STEM)",
+            "Social sciences and humanities"
+        ],
+        "Cross-cutting themes & skills": [
+            "Citizenship and civic education",
+            "Global citizenship and peace education",
+            "Human rights and equality",
+            "Life skills and 21st century competencies",
+            "Inclusive education and special needs"
+        ],
+        "Policy theme": [
+            "Access and equity",
+            "Inclusion and diversity",
+            "Innovation and technology policies",
+            "Governance and planning"
+        ],
+        "Stakeholder focus": [
+            "Government and policy makers",
+            "Parents and communities"
+        ],
+        "Learner population": [
+            "Low-income and disadvantaged groups"
+        ]
+    },
+    {
+        "text_en": "Recognizing the importance of data protection and confidentiality in the context of science and technology for development,",
+        "text_fr": "Conscient de l'importance de la protection et de la confidentialité des données dans le contexte de la science et de la technologie au service du développement,",
+        "dimensions": [
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme",
+            "Legal frameworks"
+        ],
+        "type": "",
+        "Subject domain": [
+            "Science and technology (STEM)"
+        ],
+        "Cross-cutting themes & skills": [
+            "Human rights and equality",
+            "Digital and ICT literacy",
+            "Life skills and 21st century competencies"
+        ],
+        "Policy theme": [
+            "Innovation and technology policies",
+            "Governance and planning",
+            "Accountability and transparency"
+        ],
+        "Legal frameworks": [
+            "Constitution and fundamental rights",
+            "International conventions and treaties",
+            "Rights and obligations of stakeholders"
+        ]
+    },
+    {
+        "text_en": "Recognizing that technology foresight and assessment activities, including environmental and gender-sensitive activities, can assist policymakers and stakeholders in the implementation of the 2030 Agenda by helping to identify challenges and opportunities for strategic use, and recognizing that technological trends need to be analysed taking into account the broader socio-economic context,",
+        "text_fr": "Reconnaissant que les activités de prospective et d'évaluation technologiques, prenant notamment en compte l'environnement et les besoins des deux sexes, peuvent aider les décideurs et les parties prenantes à mettre en œuvre le Programme 2030 en contribuant à déterminer les défis à relever et les possibilités à exploiter de manière stratégique, et considérant que les tendances technologiques doivent être analysées en tenant compte du contexte socioéconomique au sens large,",
+        "dimensions": [
+            "Cross-cutting themes & skills",
+            "Policy theme",
+            "Stakeholder focus"
+        ],
+        "type": "",
+        "Cross-cutting themes & skills": [
+            "Global citizenship and peace education",
+            "Human rights and equality",
+            "Digital and ICT literacy",
+            "Life skills and 21st century competencies",
+            "Sustainable development and climate action"
+        ],
+        "Policy theme": [
+            "Innovation and technology policies",
+            "Inclusion and diversity",
+            "Sustainable development and environment"
+        ],
+        "Stakeholder focus": [
+            "Government and policy makers",
+            "Other"
+        ]
+    },
+    {
+        "text_en": "Recognizing also that developed innovation and digital ecosystems 5 play a leading role in ensuring effective digital development and in promoting science, technology and innovation,",
+        "text_fr": "Reconnaissant  également que  les  écosystèmes  relatifs  à  l'innovation  et  au numérique développés 5 jouent un rôle de premier plan pour assurer un développement numérique efficace et favoriser la science, la technologie et l'innovation,",
+        "dimensions": [
+            "Curriculum",
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme"
+        ],
+        "type": "",
+        "Curriculum": [
+            "Content and learning areas",
+            "Competency-based and learning outcomes"
+        ],
+        "Subject domain": [
+            "Science and technology (STEM)"
+        ],
+        "Cross-cutting themes & skills": [
+            "Digital and ICT literacy"
+        ],
+        "Policy theme": [
+            "Innovation and technology policies"
+        ]
+    },
+    {
+        "text_en": "Recognizing further the intensification of regional integration efforts throughout the world and the resulting regional dimension of science, technology and innovation issues,",
+        "text_fr": "Reconnaissant  en  outre l'intensification  des  efforts  d'intégration  régionale  à travers le monde et la dimension régionale que prennent de ce fait les questions liées à la science, à la technologie et à l'innovation,",
+        "dimensions": [
+            "Subject domain",
+            "Policy theme"
+        ],
+        "type": "",
+        "Subject domain": [
+            "Science and technology (STEM)",
+            "Social sciences and humanities"
+        ],
+        "Policy theme": [
+            "Innovation and technology policies",
+            "International cooperation and partnerships"
+        ]
+    },
+    {
+        "text_en": "Recalling the outcome document of the United Nations Conference on Sustainable Development, held in Rio de Janeiro, Brazil, from 20 to 22 June 2012, entitled \"The future we want\", 6 including the principles contained therein,",
+        "text_fr": "Rappelant le  document  final  de  la  Conférence  des  Nations  Unies  sur  le développement durable, tenue à Rio de Janeiro (Brésil) du 20 au 22 juin 2012, intitulé « L'avenir que nous voulons » 6 , notamment les principes qui y sont énoncés,",
+        "dimensions": [
+            "Cross-cutting themes & skills",
+            "Policy theme"
+        ],
+        "type": "",
+        "Cross-cutting themes & skills": [
+            "Sustainable development and climate action"
+        ],
+        "Policy theme": [
+            "Sustainable development and environment"
+        ]
+    },
+    {
+        "text_en": "Recognizing the need to mobilize and increase financing for innovation, in particular in developing countries, in support of sustainable development goals,",
+        "text_fr": "Conscient de  la  nécessité  de  mobiliser  et  d'accroître  le  financement  de l'innovation, en particulier dans les pays en développement, à l'appui des objectifs de développement durable,",
+        "dimensions": [],
+        "type": ""
+    },
+    {
+        "text_en": "Noting with concern that, in today's world, 1.1 billion people do not have access to electricity and 2.8 billion cook and heat themselves using open fires and simple biomass or wood stoves, with the health, social and environmental consequences that are known,",
+        "text_fr": "Notant avec préoccupation que,  dans  le  monde d'aujourd'hui, 1,1  milliard de personnes n'ont pas accès à l'électricité et 2,8 milliards cuisinent et se chauffent en utilisant  des  feux  ouverts  et  de  simples  fourneaux  à  biomasse  ou  à  bois,  avec  les conséquences sanitaires, sociales et environnementales que l'on connaît,",
+        "dimensions": [
+            "Infrastructure & resources",
+            "Cross-cutting themes & skills",
+            "Policy theme"
+        ],
+        "type": "",
+        "Infrastructure & resources": [
+            "School buildings and physical infrastructure"
+        ],
+        "Cross-cutting themes & skills": [
+            "Human rights and equality",
+            "Health and well-being education",
+            "Sustainable development and climate action"
+        ],
+        "Policy theme": [
+            "Access and equity",
+            "Sustainable development and environment",
+            "Health and well-being policies"
+        ]
+    },
+    {
+        "text_en": "Recognizing that the achievement of sustainable development goals depends heavily on improving access to clean energy, and that the deployment of renewable energy has a significant impact on income generation and other development goals such as gender equality, health, environmental protection and poverty eradication,",
+        "text_fr": "Considérant que  la  réalisation  des  objectifs  de  développement  durable  est fortement  tributaire  de  l'amélioration  de  l'accès  aux  énergies  propres,  et  que  le déploiement des énergies renouvelables a une incidence notable sur la formation de revenu et d'autres objectifs de développement tels que l'égalité femmes-hommes, la santé, la protection de l'environnement et l'élimination de la pauvreté,",
+        "dimensions": [
+            "Cross-cutting themes & skills",
+            "Policy theme"
+        ],
+        "type": "",
+        "Cross-cutting themes & skills": [
+            "Human rights and equality",
+            "Health and well-being education",
+            "Sustainable development and climate action"
+        ],
+        "Policy theme": [
+            "Sustainable development and environment",
+            "Inclusion and diversity",
+            "Health and well-being policies"
+        ]
+    },
+    {
+        "text_en": "Recognizing also that renewable energy policies need to be integrated into national development strategies, that it is essential to combine different types of measures and to take innovation into account in a systematic manner, taking into account the role that international cooperation can play in increasing the share of renewable energy, as well as to provide a variety of support measures aimed at stimulating research and development, developing skills at the local level, ensuring affordable prices and creating an enabling regulatory framework,",
+        "text_fr": "Considérant également que les politiques relatives aux énergies renouvelables doivent  être  intégrées  aux  stratégies  de  développement  nationales,  qu'il  est indispensable  de  combiner  différents  types  de  mesures  et  de  prendre  en  compte l'innovation  de  manière  systématique,  compte  tenu  du  rôle  que  peut  jouer  la coopération internationale dans l'accroissement de la part des énergies renouvelables, ainsi  que  de  panacher  diverses  mesures  d'appui  visant  à  stimuler  la  recherchedéveloppement,  développer  les  compétences  à  l'échelle  locale,  garantir  des  prix abordables et mettre en place une cadre réglementaire propice,",
+        "dimensions": [
+            "Policy theme",
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Legal frameworks"
+        ],
+        "type": "",
+        "Policy theme": [
+            "Access and equity",
+            "Governance and planning",
+            "Teachers and workforce policies",
+            "Innovation and technology policies",
+            "International cooperation and partnerships",
+            "Sustainable development and environment"
+        ],
+        "Subject domain": [
+            "Science and technology (STEM)",
+            "Social sciences and humanities",
+            "Environmental education and sustainable development"
+        ],
+        "Cross-cutting themes & skills": [
+            "Life skills and 21st century competencies",
+            "Sustainable development and climate action"
+        ],
+        "Legal frameworks": [
+            "International conventions and treaties",
+            "Policy implementation and enforcement"
+        ]
+    },
+    {
+        "text_en": "Noting the important achievements in the fields of science, technology and innovation and information and communication technologies and the continuing contribution of these technologies to the well-being of the people, economic prosperity and employment,",
+        "text_fr": "Notant les réalisations importantes accomplies dans les domaines de la science, de  la  technologie  et  de  l'innovation  et  des  technologies  de  l'information  et  des communications et la contribution que ces technologies peuvent continuer d'apporter sur les plans du bien-être des populations, de la prospérité économique et de l'emploi,",
+        "dimensions": [
+            "Subject domain",
+            "Policy theme",
+            "Stakeholder focus"
+        ],
+        "type": "",
+        "Subject domain": [
+            "Science and technology (STEM)"
+        ],
+        "Policy theme": [
+            "Innovation and technology policies"
+        ],
+        "Stakeholder focus": [
+            "Parents and communities",
+            "Private sector and industry"
+        ]
+    },
+    {
+        "text_en": "Noting also that science, technology and innovation policies need to be adjusted to address the three dimensions of sustainable development, namely, economic development, social progress and environmental protection,",
+        "text_fr": "Notant également que les politiques relatives à la science, à la technologie et à l'innovation  doivent  être  ajustées  pour  permettre  de  prendre  en  main  les  trois dimensions  du  développement  durable,  à  savoir  le  développement  économique,  le progrès social et la protection de l'environnement,",
+        "dimensions": [
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme"
+        ],
+        "type": "",
+        "Subject domain": [
+            "Science and technology (STEM)",
+            "Environmental education and sustainable development",
+            "Social sciences and humanities"
+        ],
+        "Cross-cutting themes & skills": [
+            "Financial and economic literacy",
+            "Sustainable development and climate action"
+        ],
+        "Policy theme": [
+            "Innovation and technology policies",
+            "Sustainable development and environment"
+        ]
+    },
+    {
+        "text_en": "Taking into account the fact that traditional knowledge can serve as a basis for technological development and for the sustainable management and use of natural resources,",
+        "text_fr": "Prenant en considération le fait que les savoirs traditionnels peuvent servir de base au développement technologique ainsi qu'à la gestion et à l'utilisation durables des ressources naturelles,",
+        "dimensions": [
+            "Education orientation",
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme"
+        ],
+        "type": "",
+        "Education orientation": [
+            "Vocational/technical (TVET)"
+        ],
+        "Subject domain": [
+            "Science and technology (STEM)",
+            "Social sciences and humanities",
+            "Environmental education and sustainable development"
+        ],
+        "Cross-cutting themes & skills": [
+            "Sustainable development and climate action"
+        ],
+        "Policy theme": [
+            "Innovation and technology policies",
+            "Sustainable development and environment"
+        ]
+    },
+    {
+        "text_en": "Encouraging the development and implementation of public policies that take into account the impact of rapid technological change on the achievement of sustainable development goals,",
+        "text_fr": "Encourageant l'élaboration  et  la  mise  en  œuvre  de  politiques  publiques  qui tiennent compte de l'incidence de l'évolution rapide de la technique sur la réalisation des objectifs de développement durable,",
+        "dimensions": [
+            "Policy theme"
+        ],
+        "type": "",
+        "Policy theme": [
+            "Innovation and technology policies",
+            "Sustainable development and environment"
+        ]
+    },
+    {
+        "text_en": "Recognizing that, in order for national technology and innovation policies to produce results, conditions must, inter alia, be created to enable educational institutions, research institutions, commercial and industrial enterprises to innovate, invest and put science, technology and innovation at the service of employment and economic growth by incorporating all interrelated elements, including knowledge transfer,",
+        "text_fr": "Constatant que,  pour  que  les  politiques  en  matière  de  technologie  et d'innovation appliquées au niveau national donnent des résultats, il faut notamment que soient créées des conditions qui permettent aux établissements d'enseignement, aux instituts de recherche, aux entreprises commerciales et industrielles d'innover, d'investir et de mettre la science, la technologie et l'innovation au service de l'emploi et  de  la  croissance  économique  en  incorporant  tous  les  éléments  interdépendants, y compris le transfert des connaissances,",
+        "dimensions": [
+            "Education orientation",
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme",
+            "Stakeholder focus"
+        ],
+        "type": "",
+        "Education orientation": [
+            "Vocational/technical (TVET)"
+        ],
+        "Subject domain": [
+            "Science and technology (STEM)",
+            "Vocational and technical skills"
+        ],
+        "Cross-cutting themes & skills": [
+            "Entrepreneurship and business skills",
+            "Life skills and 21st century competencies"
+        ],
+        "Policy theme": [
+            "Innovation and technology policies"
+        ],
+        "Stakeholder focus": [
+            "Government and policy makers",
+            "Teachers and educators",
+            "Learners and students",
+            "Private sector and industry"
+        ]
+    },
+    {
+        "text_en": "Recognizing also that various ongoing and future science, technology and innovation initiatives address key issues related to the sustainable development goals,",
+        "text_fr": "Constatant également que diverses initiatives en cours ou à venir relatives à la science, à la technologie et à l'innovation portent sur des questions majeures liées aux objectifs de développement durable,",
+        "dimensions": [
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme"
+        ],
+        "type": "",
+        "Subject domain": [
+            "Science and technology (STEM)",
+            "Environmental education and sustainable development"
+        ],
+        "Cross-cutting themes & skills": [
+            "Sustainable development and climate action"
+        ],
+        "Policy theme": [
+            "Innovation and technology policies",
+            "Sustainable development and environment"
+        ]
+    },
+    {
+        "text_en": "Makes the following recommendations for consideration by Governments, the Commission on Science and Technology for Development and UNCTAD:",
+        "text_fr": "Fait les recommandations ci-après aux gouvernements, à la Commission de la science  et  de  la  technique  au  service  du  développement  et  à  la  CNUCED,  pour examen :",
+        "dimensions": [
+            "Policy theme",
+            "Stakeholder focus"
+        ],
+        "type": "",
+        "Policy theme": [
+            "Governance and planning",
+            "Innovation and technology policies",
+            "International cooperation and partnerships"
+        ],
+        "Stakeholder focus": [
+            "Government and policy makers",
+            "International organizations and donors"
+        ]
+    },
+    {
+        "text_en": "(a) Governments are invited, individually and collectively, to take into account the findings of the Commission and to consider the following actions:",
+        "text_fr": "a) Les  gouvernements  sont  invités,  individuellement  et  collectivement,  à tenir compte des conclusions de la Commission et à envisager de prendre les mesures suivantes :",
+        "dimensions": [
+            "Policy theme",
+            "Stakeholder focus"
+        ],
+        "type": "",
+        "Policy theme": [],
+        "Stakeholder focus": [
+            "Government and policy makers"
+        ]
+    },
+    {
+        "text_en": "(i) Closely link science, technology and innovation to sustainable development strategies by giving priority to capacity-building related to information and communication technologies, science, technology and innovation in national development plans;",
+        "text_fr": "i) Relier étroitement la science, la technologie et l'innovation aux stratégies de développement durable en accordant une place de choix au renforcement des capacités liées aux technologies de l'information et des communications, à la science,  à  la  technologie  et  à  l'innovation  dans  les  plans  nationaux  de développement ;",
+        "dimensions": [
+            "Education orientation",
+            "Curriculum",
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme"
+        ],
+        "type": "",
+        "Education orientation": [
+            "Vocational/technical (TVET)"
+        ],
+        "Curriculum": [
+            "Design and development",
+            "Content and learning areas",
+            "Competency-based and learning outcomes"
+        ],
+        "Subject domain": [
+            "Science and technology (STEM)",
+            "Environmental education and sustainable development"
+        ],
+        "Cross-cutting themes & skills": [
+            "Digital and ICT literacy",
+            "Life skills and 21st century competencies",
+            "Sustainable development and climate action"
+        ],
+        "Policy theme": [
+            "Innovation and technology policies",
+            "Sustainable development and environment",
+            "Governance and planning"
+        ]
+    },
+    {
+        "text_en": "(ii) To promote local innovation capacities for inclusive and sustainable economic development by bringing together local scientific, professional and technical knowledge, mobilizing diverse sources, improving basic information and communications technologies and supporting smart infrastructure, including through collaboration with and among national programmes;",
+        "text_fr": "ii) Promouvoir les capacités d'innovation locales aux fins d'un développement économique inclusif et durable en rassemblant les connaissances scientifiques, professionnelles et techniques locales, en mobilisant des moyens d'origines  diverses,  en  améliorant  les  technologies  de  l'information  et  des communications  de  base  et  en  soutenant  les  infrastructures  intelligentes, notamment  par  la  collaboration  avec  les  programmes  nationaux  et  entre  ces programmes ;",
+        "dimensions": [
+            "Education orientation",
+            "Ownership/Provision",
+            "Infrastructure & resources",
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme",
+            "Stakeholder focus"
+        ],
+        "type": "",
+        "Education orientation": [
+            "Combined general and vocational"
+        ],
+        "Ownership/Provision": [
+            "Public (state-run)"
+        ],
+        "Infrastructure & resources": [
+            "ICT and digital infrastructure"
+        ],
+        "Subject domain": [
+            "Science and technology (STEM)",
+            "Social sciences and humanities",
+            "Environmental education and sustainable development",
+            "Vocational and technical skills"
+        ],
+        "Cross-cutting themes & skills": [
+            "Digital and ICT literacy",
+            "Financial and economic literacy",
+            "Entrepreneurship and business skills",
+            "Life skills and 21st century competencies",
+            "Sustainable development and climate action"
+        ],
+        "Policy theme": [
+            "Access and equity",
+            "Governance and planning",
+            "Innovation and technology policies",
+            "Inclusion and diversity",
+            "Sustainable development and environment"
+        ],
+        "Stakeholder focus": [
+            "Government and policy makers",
+            "Teachers and educators",
+            "Private sector and industry"
+        ]
+    },
+    {
+        "text_en": "(iii) Encourage and support efforts in the areas of science, technology and innovation that have led to the development of infrastructure and policies conducive to the global expansion of information and communications technology infrastructure, products and services, including access for all, including women, girls and young people, persons with special needs and those living in rural or remote areas, with high-speed Internet access, stimulating multi-stakeholder work to connect 1.5 billion new Internet users by 2020 to make these products and services more affordable;",
+        "text_fr": "iii) Encourager  et  appuyer  les  efforts  déployés  dans  les  domaines  de  la science, de la technologie et de l'innovation qui ont conduit à la mise en place d'infrastructures et de politiques favorisant l'expansion mondiale  des infrastructures, produits et services relatifs aux technologies de l'information et des communications, y compris l'accès pour tous, notamment les femmes, les filles  et  les  jeunes,  les  personnes  ayant  des  besoins  particuliers  et  celles  qui vivent dans des zones rurales ou isolées, à Internet à haut débit, stimulant les travaux  multipartites  menés  afin  de  connecter  1,5  milliard  de  nouveaux utilisateurs à Internet d'ici à 2020 et visant à rendre ces produits et services plus abordables ;",
+        "dimensions": [
+            "Infrastructure & resources",
+            "Subject domain",
+            "Policy theme",
+            "Stakeholder focus",
+            "Learner population"
+        ],
+        "type": "",
+        "Infrastructure & resources": [
+            "ICT and digital infrastructure"
+        ],
+        "Subject domain": [
+            "Science and technology (STEM)"
+        ],
+        "Policy theme": [
+            "Access and equity",
+            "Innovation and technology policies",
+            "Inclusion and diversity"
+        ],
+        "Stakeholder focus": [
+            "Learners and students",
+            "Parents and communities",
+            "Private sector and industry"
+        ],
+        "Learner population": [
+            "All learners",
+            "Children (0-17)",
+            "Youth and adolescents",
+            "Women and girls",
+            "Learners with disabilities",
+            "Rural and remote learners"
+        ]
+    },
+    {
+        "text_en": "(iv) Undertake systemic research, including gender perspectives, for forward-looking activities, on emerging trends in science, technology and innovation and information and communication technologies and their impact on development, in particular in the context of the 2030 Sustainable Development Agenda;",
+        "text_fr": "iv) Entreprendre des travaux de recherche systémiques, incluant les aspects liés  aux  disparités  entre  les  sexes,  en  vue  d'activités  de  prospective,  sur  les nouvelles  tendances dans  les  domaines de la  science, de  la technologie et  de l'innovation et des technologies de l'information et des communications et sur leurs effets sur le développement, en particulier dans le contexte du Programme de développement durable à l'horizon 2030 1 ;",
+        "dimensions": [
+            "Curriculum",
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme",
+            "Education system monitoring & evaluation"
+        ],
+        "type": "",
+        "Curriculum": [
+            "Design and development",
+            "Content and learning areas"
+        ],
+        "Subject domain": [
+            "Science and technology (STEM)",
+            "Social sciences and humanities",
+            "Environmental education and sustainable development"
+        ],
+        "Cross-cutting themes & skills": [
+            "Human rights and equality",
+            "Digital and ICT literacy",
+            "Sustainable development and climate action"
+        ],
+        "Policy theme": [
+            "Inclusion and diversity",
+            "Innovation and technology policies",
+            "Sustainable development and environment"
+        ],
+        "Education system monitoring & evaluation": [
+            "Research and surveys"
+        ]
+    },
+    {
+        "text_en": "(v) To strive, with the assistance of various stakeholders, including relevant United Nations bodies and all relevant forums and entities, such as the Commission and the Multi-stakeholder Collaborative Forum on Science, Technology and Innovation to achieve sustainable development goals, to formulate, adopt and implement science, technology and innovation policies that contribute to the achievement of sustainable development goals;",
+        "text_fr": "v) S'efforcer, avec le concours de diverses parties prenantes,  y compris les organismes  compétents  des  Nations  Unies  et  tous  les  forums  et  entités concernés, tels que la Commission et le Forum de collaboration multipartite sur la  science,  la  technologie  et  l'innovation  pour  la  réalisation  des  objectifs  de développement  durable,  de  formuler,  d'adopter  et  de  mettre  en  œuvre  des politiques relatives à la science, à la technologie et à l'innovation contribuant à la concrétisation des objectifs de développement durable ;",
+        "dimensions": [
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme",
+            "Stakeholder focus"
+        ],
+        "type": "",
+        "Subject domain": [
+            "Science and technology (STEM)",
+            "Environmental education and sustainable development"
+        ],
+        "Cross-cutting themes & skills": [
+            "Digital and ICT literacy",
+            "Sustainable development and climate action"
+        ],
+        "Policy theme": [
+            "Innovation and technology policies",
+            "Sustainable development and environment",
+            "International cooperation and partnerships"
+        ],
+        "Stakeholder focus": [
+            "Government and policy makers",
+            "International organizations and donors"
+        ]
+    },
+    {
+        "text_en": "(vi) To continue to pay due attention to the impact of major rapid technological developments on the achievement of sustainable development goals, within their respective mandates and available resources, in accordance with the provisions of General Assembly resolution 72/242;",
+        "text_fr": "vi) Continuer  d'accorder  toute  l'attention  voulue  à  l'incidence  qu'ont  les principales évolutions rapides de la technique sur la réalisation des objectifs de développement  durable,  dans  la  limite  de  leurs  mandats  respectifs  et  des ressources disponibles, conformément aux dispositions de la résolution 72/242 de l'Assemblée générale ;",
+        "dimensions": [
+            "Infrastructure & resources",
+            "Policy theme",
+            "Legal frameworks"
+        ],
+        "type": "",
+        "Infrastructure & resources": [
+            "ICT and digital infrastructure"
+        ],
+        "Policy theme": [
+            "Innovation and technology policies",
+            "Sustainable development and environment"
+        ],
+        "Legal frameworks": [
+            "International conventions and treaties",
+            "Policy implementation and enforcement",
+            "Rights and obligations of stakeholders"
+        ]
+    },
+    {
+        "text_en": "(vii) Conduct strategic foresight activities to identify and address potential gaps in medium- and long-term education through a range of measures, including the promotion of science, technology, engineering and mathematics education, as well as vocational training and training in the use of digital data and tools, taking into account the gender perspective;",
+        "text_fr": "vii) Mener  des  activités  de  prospective  stratégique  en  vue  de  recenser  les éventuelles lacunes en matière d'éducation à moyen et à long terme et de les combler  au  moyen  d'un  ensemble  de  mesures,  notamment  la  promotion  de l'enseignement  de  la  science,  de  la  technologie,  de  l'ingénierie  et  des mathématiques,  ainsi  que  la  formation  professionnelle  et  la  formation  à l'utilisation  des  données  et  des  outils  numériques,  en  tenant  compte  de  la problématique femmes-hommes ;",
+        "dimensions": [
+            "Education orientation",
+            "Curriculum",
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme",
+            "Education system monitoring & evaluation",
+            "Learner population"
+        ],
+        "type": "",
+        "Education orientation": [
+            "Combined general and vocational"
+        ],
+        "Curriculum": [
+            "Design and development",
+            "Content and learning areas",
+            "Curriculum evaluation and reform",
+            "Competency-based and learning outcomes"
+        ],
+        "Subject domain": [
+            "Science and technology (STEM)",
+            "Vocational and technical skills"
+        ],
+        "Cross-cutting themes & skills": [
+            "Human rights and equality",
+            "Digital and ICT literacy",
+            "Life skills and 21st century competencies"
+        ],
+        "Policy theme": [
+            "Governance and planning",
+            "Curriculum and pedagogy policies",
+            "Innovation and technology policies",
+            "Inclusion and diversity",
+            "Lifelong learning and adult education"
+        ],
+        "Education system monitoring & evaluation": [
+            "Research and surveys"
+        ],
+        "Learner population": [
+            "All learners",
+            "Women and girls"
+        ]
+    },
+    {
+        "text_en": "(viii) Use strategic foresight to promote structured discussions among all stakeholders, including representatives of Governments, the scientific community, major sectors of activity, civil society and the private sector, in particular small and medium-sized enterprises, in order to develop a common vision of long-term problems such as labour market developments, to build consensus on the direction to be taken on these issues, and to help meet the new requirements for skills and adaptability to change;",
+        "text_fr": "viii)  Utiliser  la  prospective  stratégique  pour  promouvoir  la  tenue  de  débats structurés  entre  toutes  les  parties  prenantes,  y compris  les  représentants  des pouvoirs publics, de la communauté scientifique, des grands secteurs d'activité, de  la  société  civile  et  du  secteur  privé,  en  particulier  les  petites  et  moyennes entreprises, afin de développer une vision commune des problèmes à long terme tels que l'évolution du marché du travail, de dégager un consensus concernant les orientations à prendre sur ces questions, et d'aider à répondre aux nouvelles exigences  en  matière  de  compétences  et  de  capacité  d'adaptation  aux changements ;",
+        "dimensions": [
+            "Stakeholder focus",
+            "Policy theme",
+            "Curriculum",
+            "Cross-cutting themes & skills"
+        ],
+        "type": "",
+        "Stakeholder focus": [
+            "Government and policy makers",
+            "Civil society and NGOs",
+            "Private sector and industry",
+            "Other"
+        ],
+        "Policy theme": [
+            "Governance and planning",
+            "Teachers and workforce policies",
+            "Lifelong learning and adult education"
+        ],
+        "Curriculum": [
+            "Design and development",
+            "Competency-based and learning outcomes"
+        ],
+        "Cross-cutting themes & skills": [
+            "Citizenship and civic education",
+            "Financial and economic literacy",
+            "Entrepreneurship and business skills",
+            "Life skills and 21st century competencies"
+        ]
+    },
+    {
+        "text_en": "(ix) Integrate digital skills education as well as entrepreneurship and other non-technical skills into formal school curricula and continuing training initiatives, while taking into account good practices, local context and needs, and ensuring the technological neutrality of such education;",
+        "text_fr": "ix) Intégrer aux programmes scolaires officiels et aux initiatives de formation continue l'enseignement de compétences numériques ainsi que de l'entrepreneuriat et autres compétences non techniques, tout en tenant compte des bonnes pratiques, du contexte et des besoins locaux, et en veillant à assurer la neutralité technologique de cet enseignement ;",
+        "dimensions": [
+            "Education level",
+            "Curriculum",
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme",
+            "Learner population"
+        ],
+        "type": "",
+        "Education level": [
+            "Multiple levels"
+        ],
+        "Curriculum": [
+            "Design and development",
+            "Content and learning areas"
+        ],
+        "Subject domain": [
+            "Science and technology (STEM)",
+            "Vocational and technical skills"
+        ],
+        "Cross-cutting themes & skills": [
+            "Digital and ICT literacy",
+            "Entrepreneurship and business skills",
+            "Life skills and 21st century competencies"
+        ],
+        "Policy theme": [
+            "Curriculum and pedagogy policies",
+            "Innovation and technology policies",
+            "Lifelong learning and adult education"
+        ],
+        "Learner population": [
+            "Children (0-17)",
+            "Youth and adolescents",
+            "Adults and lifelong learners"
+        ]
+    },
+    {
+        "text_en": "(x) Addressing the impact of the drastic evolution of the digital economy on labour markets;",
+        "text_fr": "x) Se pencher sur les conséquences de l'évolution drastique de l'économie numérique pour les marchés du travail ;",
+        "dimensions": [
+            "Policy theme",
+            "Education orientation",
+            "Cross-cutting themes & skills"
+        ],
+        "type": "",
+        "Policy theme": [
+            "Teachers and workforce policies",
+            "Innovation and technology policies",
+            "Lifelong learning and adult education"
+        ],
+        "Education orientation": [
+            "Vocational/technical (TVET)"
+        ],
+        "Cross-cutting themes & skills": [
+            "Digital and ICT literacy",
+            "Financial and economic literacy"
+        ]
+    },
+    {
+        "text_en": "(xi) Conducting regular strategic forecasting analyses of global and regional issues and working with other Member States to establish, through existing regional mechanisms and in collaboration with relevant stakeholders, a system of matching the results of technology foresight activities, including pilot projects, to review and disseminate them;",
+        "text_fr": "xi) Réaliser  régulièrement  des  analyses  prévisionnelles  stratégiques  des problèmes mondiaux et régionaux et collaborer avec d'autres États Membres en vue d'établir, au moyen des mécanismes régionaux existants et en collaboration avec les parties prenantes concernées, un système de correspondance entre les résultats  des  activités  de  prospective  technologique,  y compris  des  projets pilotes, afin de les examiner et de les diffuser ;",
+        "dimensions": [
+            "Policy theme",
+            "Stakeholder focus"
+        ],
+        "type": "",
+        "Policy theme": [
+            "Governance and planning",
+            "Innovation and technology policies",
+            "International cooperation and partnerships"
+        ],
+        "Stakeholder focus": [
+            "Government and policy makers"
+        ]
+    },
+    {
+        "text_en": "(xii) Encourage the review of progress in integrating science, technology and innovation to achieve sustainable development goals;",
+        "text_fr": "xii) Encourager  l'examen  des  progrès  accomplis  dans  l'intégration  de  la science,  de  la  technologie  et  de  l'innovation  pour  atteindre  les  objectifs  de développement durable ;",
+        "dimensions": [
+            "Curriculum",
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme",
+            "Education system monitoring & evaluation"
+        ],
+        "type": "",
+        "Curriculum": [
+            "Content and learning areas",
+            "Curriculum implementation",
+            "Curriculum evaluation and reform"
+        ],
+        "Subject domain": [
+            "Science and technology (STEM)",
+            "Environmental education and sustainable development"
+        ],
+        "Cross-cutting themes & skills": [
+            "Sustainable development and climate action"
+        ],
+        "Policy theme": [
+            "Innovation and technology policies",
+            "Sustainable development and environment"
+        ],
+        "Education system monitoring & evaluation": [
+            "Education statistics and indicators",
+            "Quality assurance and accreditation",
+            "Research and surveys"
+        ]
+    },
+    {
+        "text_en": "(xiii) Regularly assess, including from a gender perspective, national innovation systems, including digital ecosystems, using forecasting analysis, in order to identify their weaknesses and modify their policies with a view to eliminating them, and share the results of this work with other Member States;",
+        "text_fr": "xiii)  Évaluer  régulièrement  notamment  sous  l'angle  de  la  problématique femmes-hommes,  les  systèmes  nationaux  d'innovation,  notamment  les écosystèmes  numériques,  en  s'appuyant  sur  l'analyse  prévisionnelle,  afin  de repérer leurs faiblesses et de modifier leurs politiques en vue de les éliminer, et partager les résultats de ces travaux avec les autres États Membres ;",
+        "dimensions": [
+            "Infrastructure & resources",
+            "Cross-cutting themes & skills",
+            "Policy theme"
+        ],
+        "type": "",
+        "Infrastructure & resources": [
+            "ICT and digital infrastructure"
+        ],
+        "Cross-cutting themes & skills": [
+            "Human rights and equality",
+            "Digital and ICT literacy",
+            "Life skills and 21st century competencies"
+        ],
+        "Policy theme": [
+            "Access and equity",
+            "Governance and planning",
+            "Innovation and technology policies",
+            "Inclusion and diversity",
+            "International cooperation and partnerships",
+            "Accountability and transparency"
+        ]
+    },
+    {
+        "text_en": "(xiv) To take into account the need to promote the functional dynamics of innovation systems and other relevant methodologies through various policy instruments supporting development priorities related to science, technology and innovation, in order to enhance the coherence of those systems for sustainable development;",
+        "text_fr": "xiv)  Prendre en compte la nécessité de promouvoir la dynamique fonctionnelle des  systèmes  d'innovation  et  d'autres  méthodes  pertinentes  grâce  à  divers instruments  politiques  appuyant  les  priorités  de  développement  relatives  à  la science,  la  technologie  et  l'innovation,  afin  de  renforcer  la  cohérence  de  ces systèmes aux fins du développement durable ;",
+        "dimensions": [
+            "Subject domain",
+            "Policy theme"
+        ],
+        "type": "",
+        "Subject domain": [
+            "Science and technology (STEM)",
+            "Environmental education and sustainable development"
+        ],
+        "Policy theme": [
+            "Innovation and technology policies",
+            "Sustainable development and environment"
+        ]
+    },
+    {
+        "text_en": "(xv) Encourage the digital generation to play a leading role in local capacity-building programmes on science, technology and innovation, taking into account the gender perspective, and facilitate the use of information and communication technologies for the implementation of the 2030 Agenda;",
+        "text_fr": "xv) Encourager la  génération  numérique  à  assumer  un  rôle  de  premier  rang dans  les  programmes  locaux  de  renforcement  des  capacités  relatives  à  la science, à la technologie et à l'innovation, en tenant compte de la problématique femmes-hommes, et faciliter l'utilisation des technologies de l'information et des communications aux fins de l'application du Programme 2030 ;",
+        "dimensions": [
+            "Education orientation",
+            "Learning modality",
+            "Infrastructure & resources",
+            "Curriculum",
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme",
+            "Learner population"
+        ],
+        "type": "",
+        "Education orientation": [
+            "Vocational/technical (TVET)"
+        ],
+        "Learning modality": [
+            "Non-formal education",
+            "Lifelong learning"
+        ],
+        "Infrastructure & resources": [
+            "ICT and digital infrastructure"
+        ],
+        "Curriculum": [
+            "Content and learning areas",
+            "Competency-based and learning outcomes"
+        ],
+        "Subject domain": [
+            "Science and technology (STEM)"
+        ],
+        "Cross-cutting themes & skills": [
+            "Human rights and equality",
+            "Digital and ICT literacy",
+            "Sustainable development and climate action"
+        ],
+        "Policy theme": [
+            "Innovation and technology policies",
+            "Inclusion and diversity",
+            "Sustainable development and environment"
+        ],
+        "Learner population": [
+            "Youth and adolescents",
+            "Women and girls"
+        ]
+    },
+    {
+        "text_en": "(xvi) To develop, bearing in mind the potential for new digital technologies to go beyond existing development technologies, policies that promote the creation of inclusive digital ecosystems that take into account the socio-economic and political context of countries and that attract and encourage private investment and innovation, in particular with regard to business creation and content development at the local level;",
+        "text_fr": "xvi)  Instaurer, sans perdre de vue la possibilité que les nouvelles technologies numériques dépassent les techniques existantes en matière de développement, des  politiques  favorisant  la  création  d'écosystèmes  numériques  inclusifs  qui tiennent  compte  du  contexte  socioéconomique  et  politique  des  pays  et  qui attirent et encouragent l'investissement privé et l'innovation, notamment en ce qui concerne la création d'entreprises et le développement de contenu au niveau local ;",
+        "dimensions": [
+            "Policy theme",
+            "Infrastructure & resources",
+            "Cross-cutting themes & skills"
+        ],
+        "type": "",
+        "Policy theme": [
+            "Access and equity",
+            "Financing and resource mobilization",
+            "Innovation and technology policies",
+            "Inclusion and diversity"
+        ],
+        "Infrastructure & resources": [
+            "ICT and digital infrastructure"
+        ],
+        "Cross-cutting themes & skills": [
+            "Digital and ICT literacy",
+            "Financial and economic literacy",
+            "Entrepreneurship and business skills"
+        ]
+    },
+    {
+        "text_en": "(xvii) Implement initiatives and programmes that encourage and facilitate investment in and participation in the digital economy;",
+        "text_fr": "xvii) Mettre  en  œuvre  des  initiatives  et  des  programmes  qui  encouragent  et facilitent l'investissement dans l'économie numérique et la participation à cette économie ;",
+        "dimensions": [
+            "Cross-cutting themes & skills",
+            "Policy theme"
+        ],
+        "type": "",
+        "Cross-cutting themes & skills": [
+            "Digital and ICT literacy",
+            "Financial and economic literacy",
+            "Entrepreneurship and business skills"
+        ],
+        "Policy theme": [
+            "Innovation and technology policies"
+        ]
+    },
+    {
+        "text_en": "(xviii) Collaborate with all stakeholders, promote the use of information and communication technologies in all sectors, improve environmental protection, stimulate the creation of appropriate facilities for recycling and disposal of waste electrical and electronic equipment and promote sustainable production and consumption;",
+        "text_fr": "xviii) Collaborer avec toutes les parties prenantes, promouvoir l'utilisation des technologies  de  l'information  et  des  communications  dans  tous  les  secteurs, mieux préserver l'environnement, stimuler la création d'installations adaptées pour recycler et éliminer les déchets d'équipements électriques et électroniques et promouvoir des modes de production et de consommation durables ;",
+        "dimensions": [
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme",
+            "Stakeholder focus"
+        ],
+        "type": "",
+        "Subject domain": [
+            "Science and technology (STEM)",
+            "Environmental education and sustainable development"
+        ],
+        "Cross-cutting themes & skills": [
+            "Digital and ICT literacy",
+            "Sustainable development and climate action"
+        ],
+        "Policy theme": [
+            "Innovation and technology policies",
+            "Sustainable development and environment"
+        ],
+        "Stakeholder focus": [
+            "Government and policy makers",
+            "Parents and communities",
+            "Civil society and NGOs",
+            "Private sector and industry",
+            "International organizations and donors"
+        ]
+    },
+    {
+        "text_en": "(xix) Promote the teaching of science, technology, engineering and mathematics, in particular among female students, while recognizing the importance of complementary non-technical skills such as entrepreneurship, encouraging mentoring and supporting efforts to attract and retain women and girls in these fields, and considering from a gender perspective the development and implementation of policies that mobilize science, technology and innovation;",
+        "text_fr": "xix)  Promouvoir l'enseignement des sciences, de la technologie, de l'ingénierie et des mathématiques, en particulier auprès des étudiantes, tout en reconnaissant l'importance  de  compétences  non  techniques  complémentaires  telles  que l'esprit  d'entreprise,  en  encourageant  le  mentorat  et  en  soutenant  les  efforts visant à attirer et à retenir les femmes et les filles dans ces filières, et envisager sous l'angle de la problématique femmes-hommes l'élaboration et l'application de politiques qui mobilisent la science, la technologie et l'innovation ;",
+        "dimensions": [
+            "Cross-cutting themes & skills",
+            "Curriculum",
+            "Education orientation",
+            "Learner population",
+            "Pedagogy & assessment",
+            "Policy theme",
+            "Subject domain"
+        ],
+        "type": "",
+        "Cross-cutting themes & skills": [
+            "Human rights and equality",
+            "Entrepreneurship and business skills"
+        ],
+        "Curriculum": [
+            "Design and development",
+            "Content and learning areas",
+            "Curriculum implementation",
+            "Competency-based and learning outcomes"
+        ],
+        "Education orientation": [
+            "Combined general and vocational"
+        ],
+        "Learner population": [
+            "Women and girls"
+        ],
+        "Pedagogy & assessment": [
+            "Teaching methods and approaches"
+        ],
+        "Policy theme": [
+            "Access and equity",
+            "Curriculum and pedagogy policies",
+            "Innovation and technology policies",
+            "Inclusion and diversity"
+        ],
+        "Subject domain": [
+            "Science and technology (STEM)",
+            "Vocational and technical skills"
+        ]
+    },
+    {
+        "text_en": "(xx) Supporting policies and activities of developing countries in the fields of science and technology in the framework of North-South and South-South cooperation, as complementary and non-exchangeable, by promoting financial assistance, technical assistance, capacity-building, technology transfer in mutually agreed modalities and technical training programmes or courses;",
+        "text_fr": "xx) Soutenir  les  politiques  adoptées  et  les  activités  menées  par  les  pays  en développement dans les domaines de la science et de la technique dans le cadre de la coopération Nord-Sud et Sud-Sud, considérées comme complémentaires et non  interchangeables,  en  encourageant  l'aide  financière,  l'assistance technique, le renforcement des capacités, le transfert de technologie selon des modalités  arrêtées  d'un  commun  accord  et  les  programmes  ou  cours  de formation technique ;",
+        "dimensions": [
+            "Education orientation",
+            "Learning modality",
+            "Infrastructure & resources",
+            "Subject domain",
+            "Policy theme",
+            "Stakeholder focus"
+        ],
+        "type": "",
+        "Education orientation": [
+            "Vocational/technical (TVET)"
+        ],
+        "Learning modality": [
+            "Non-formal education",
+            "Lifelong learning"
+        ],
+        "Infrastructure & resources": [
+            "Teaching and learning materials",
+            "ICT and digital infrastructure"
+        ],
+        "Subject domain": [
+            "Science and technology (STEM)",
+            "Vocational and technical skills"
+        ],
+        "Policy theme": [
+            "Financing and resource mobilization",
+            "Teachers and workforce policies",
+            "Innovation and technology policies",
+            "International cooperation and partnerships",
+            "Lifelong learning and adult education"
+        ],
+        "Stakeholder focus": [
+            "Government and policy makers",
+            "Teachers and educators",
+            "Learners and students",
+            "International organizations and donors"
+        ]
+    },
+    {
+        "text_en": "(xxi) Encourage countries to gradually increase the pace of production of quality qualified human resources at all levels by creating an enabling environment for critical mass capacity building human beings, who participate in the application of science, technology and innovation, and put them at the service of activities that create added value that provide solutions to problems and improve human well-being;",
+        "text_fr": "xxi) Encourager les pays à augmenter progressivement le rythme de production de ressources humaines qualifiées de qualité à tous les niveaux en créant un environnement propice à la constitution d'une masse critique de capacités humaines, qui participent à l'application de la science, de la technologie et de l'innovation, et mettent celles-ci au service d'activités créatrices de valeur ajoutée qui apportent des solutions à des problèmes et améliorent le bien-être humain ;",
+        "dimensions": [
+            "Education level",
+            "Education orientation",
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme",
+            "Learner population"
+        ],
+        "type": "",
+        "Education level": [
+            "Multiple levels"
+        ],
+        "Education orientation": [
+            "Vocational/technical (TVET)"
+        ],
+        "Subject domain": [
+            "Science and technology (STEM)",
+            "Vocational and technical skills"
+        ],
+        "Cross-cutting themes & skills": [
+            "Life skills and 21st century competencies",
+            "Health and well-being education"
+        ],
+        "Policy theme": [
+            "Quality and learning outcomes",
+            "Teachers and workforce policies",
+            "Innovation and technology policies",
+            "Sustainable development and environment",
+            "Health and well-being policies"
+        ],
+        "Learner population": [
+            "All learners"
+        ]
+    },
+    {
+        "text_en": "(xxii) Increase support for research and development in the field of renewable energy and ensure that related policies are better coordinated and more consistent with sectoral policies such as those on science, technology and innovation;",
+        "text_fr": "xxii) Accroître  l'appui  à  la  recherche-développement  dans  le  domaine  des énergies  renouvelables  et  faire  en  sorte  que  les  politiques  y  afférentes  soient mieux coordonnées et plus en accord avec les politiques sectorielles telles que celles relatives à la science, à la technologie et à l'innovation ;",
+        "dimensions": [
+            "Subject domain",
+            "Policy theme"
+        ],
+        "type": "",
+        "Subject domain": [
+            "Science and technology (STEM)",
+            "Environmental education and sustainable development"
+        ],
+        "Policy theme": [
+            "Innovation and technology policies",
+            "Sustainable development and environment"
+        ]
+    },
+    {
+        "text_en": "(xxiii) Promote policies that improve financial inclusion and increase sources of finance and direct investment in innovations that support sustainable development goals;",
+        "text_fr": "xxiii) Favoriser les politiques qui améliorent l'inclusion financière et accroissent les sources de financement et les investissements directs dans des innovations qui vont dans le sens des objectifs de développement durable ;",
+        "dimensions": [
+            "Policy theme"
+        ],
+        "type": "",
+        "Policy theme": [
+            "Access and equity",
+            "Financing and resource mobilization",
+            "Innovation and technology policies",
+            "Inclusion and diversity",
+            "Sustainable development and environment"
+        ]
+    },
+    {
+        "text_en": "(xiv) Promote inclusive innovation, in particular towards local communities, women and youth, so that the development and diffusion of new technologies benefit all and do not create new fractures;",
+        "text_fr": "xiv)  Promouvoir  une  innovation  sans  exclusive,  en  particulier  vis-à-vis  des communautés locales, des femmes et des jeunes, afin que le développement et la  diffusion  des  nouvelles  technologies  profitent  à  tous  et  ne  créent  pas  de nouvelles fractures ;",
+        "dimensions": [
+            "Cross-cutting themes & skills",
+            "Policy theme",
+            "Stakeholder focus",
+            "Learner population"
+        ],
+        "type": "",
+        "Cross-cutting themes & skills": [
+            "Human rights and equality",
+            "Digital and ICT literacy",
+            "Inclusive education and special needs"
+        ],
+        "Policy theme": [
+            "Access and equity",
+            "Innovation and technology policies",
+            "Inclusion and diversity"
+        ],
+        "Stakeholder focus": [
+            "Learners and students",
+            "Parents and communities"
+        ],
+        "Learner population": [
+            "All learners",
+            "Youth and adolescents",
+            "Women and girls"
+        ]
+    },
+    {
+        "text_en": "(b) The Commission is invited to take the following actions:",
+        "text_fr": "b) La Commission est invitée à prendre les mesures suivantes :",
+        "dimensions": [
+            "Policy theme"
+        ],
+        "type": "",
+        "Policy theme": []
+    },
+    {
+        "text_en": "(i) To continue to serve as a flagship for science, technology and innovation and to provide high-level advice to the General Assembly and the General Assembly on science, technology, engineering and innovation matters of interest to their work;",
+        "text_fr": "i) Demeurer  un  porte-drapeau  en  matière  de  science,  de  technologie  et d'innovation et lui donner ainsi qu'à l'Assemblée générale des conseils de haut niveau sur les questions de science, de technologie, d'ingénierie et d'innovation qui intéressent leurs travaux ;",
+        "dimensions": [
+            "Subject domain",
+            "Policy theme",
+            "Stakeholder focus"
+        ],
+        "type": "",
+        "Subject domain": [
+            "Science and technology (STEM)"
+        ],
+        "Policy theme": [
+            "Governance and planning",
+            "Innovation and technology policies"
+        ],
+        "Stakeholder focus": [
+            "Government and policy makers",
+            "International organizations and donors"
+        ]
+    },
+    {
+        "text_en": "(ii) To contribute to a clear definition of the fundamental role that information and communication technologies, science, technology and innovation play in the implementation of the 2030 Agenda by providing a framework for strategic planning and analysis of the evolving role of science, technology and innovation in key sectors of the economy and by highlighting new and emerging technologies;",
+        "text_fr": "ii) Contribuer à définir clairement le rôle fondamental que les  technologies de  l'information  et  des  communications,  la  science,  la  technologie  et l'innovation jouent dans la mise en œuvre du Programme 2030 en offrant un cadre pour la planification stratégique et l'analyse de l'évolution du rôle de la science,  de  la  technologie  et  de  l'innovation  dans  des  secteurs  clefs  de l'économie et en mettant en lumière les technologies nouvelles et émergentes ;",
+        "dimensions": [
+            "Curriculum",
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme"
+        ],
+        "type": "",
+        "Curriculum": [
+            "Design and development",
+            "Content and learning areas"
+        ],
+        "Subject domain": [
+            "Science and technology (STEM)",
+            "Social sciences and humanities",
+            "Environmental education and sustainable development"
+        ],
+        "Cross-cutting themes & skills": [
+            "Digital and ICT literacy",
+            "Sustainable development and climate action"
+        ],
+        "Policy theme": [
+            "Governance and planning",
+            "Innovation and technology policies",
+            "Sustainable development and environment"
+        ]
+    },
+    {
+        "text_en": "(iii) To consider how the work of the Commission aligns with the work of other international forums specialized in science, technology and innovation and with efforts to support the implementation of the 2030 Agenda while feeding and complementing them;",
+        "text_fr": "iii) Examiner la façon dont les travaux de la Commission s'alignent sur ceux d'autres instances internationales spécialisées dans la science, la technologie et l'innovation et sur les efforts visant à appuyer la mise en œuvre du Programme 2030 tout en les alimentant et en les complétant ;",
+        "dimensions": [
+            "Subject domain",
+            "Policy theme",
+            "Stakeholder focus"
+        ],
+        "type": "",
+        "Subject domain": [
+            "Science and technology (STEM)",
+            "Environmental education and sustainable development"
+        ],
+        "Policy theme": [
+            "Innovation and technology policies",
+            "International cooperation and partnerships",
+            "Sustainable development and environment"
+        ],
+        "Stakeholder focus": [
+            "Government and policy makers",
+            "International organizations and donors"
+        ]
+    },
+    {
+        "text_en": "(iv) To conduct awareness-raising activities and facilitate networking and partnerships among various technology foresight organizations and networks, in collaboration with other stakeholders;",
+        "text_fr": "iv) Mener des activités de sensibilisation et faciliter la constitution de réseaux et de  partenariats  entre  divers  organismes  et  réseaux  de  prospective technologique, en collaboration avec d'autres parties prenantes ;",
+        "dimensions": [
+            "Stakeholder focus"
+        ],
+        "type": "",
+        "Stakeholder focus": [
+            "Other"
+        ]
+    },
+    {
+        "text_en": "(v) To promote, in accordance with the spirit of the 2030 Agenda and the Addis Ababa Programme of Action of the Third International Conference on Financing for Development, 7 international cooperation in the field of science and technology for development, in particular capacity-building and technology transfer in a mutually agreed manner;",
+        "text_fr": "v) Promouvoir,  conformément  à  l'esprit  du  Programme  2030  et  du Programme  d'action  d'Addis-Abeba  issu  de  la  troisième  Conférence internationale  sur  le  financement  du  développement 7 , la coopération internationale dans le domaine de la science et de la technique au service du développement, en particulier le renforcement des capacités et le transfert de technologie selon des modalités arrêtées d'un commun accord ;",
+        "dimensions": [
+            "Education orientation",
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme",
+            "Legal frameworks"
+        ],
+        "type": "",
+        "Education orientation": [
+            "Vocational/technical (TVET)"
+        ],
+        "Subject domain": [
+            "Science and technology (STEM)",
+            "Environmental education and sustainable development"
+        ],
+        "Cross-cutting themes & skills": [
+            "Global citizenship and peace education",
+            "Sustainable development and climate action"
+        ],
+        "Policy theme": [
+            "Innovation and technology policies",
+            "International cooperation and partnerships",
+            "Financing and resource mobilization"
+        ],
+        "Legal frameworks": [
+            "International conventions and treaties"
+        ]
+    },
+    {
+        "text_en": "(vi) Raising policy awareness of the innovation process and identifying opportunities for developing countries to benefit from it, with special attention to emerging trends that could provide new opportunities for developing countries;",
+        "text_fr": "vi) Sensibiliser  les  décideurs  au  processus  d'innovation  et  recenser  les possibilités  qui  permettraient  aux  pays  en  développement  d'en  bénéficier,  en s'intéressant  spécialement  aux  nouvelles  tendances  qui  pourraient  offrir  des possibilités nouvelles à ces pays ;",
+        "dimensions": [
+            "Policy theme",
+            "Stakeholder focus"
+        ],
+        "type": "",
+        "Policy theme": [
+            "Innovation and technology policies"
+        ],
+        "Stakeholder focus": [
+            "Government and policy makers"
+        ]
+    },
+    {
+        "text_en": "(vii) Support initiatives to strengthen the capacity of developing countries, in particular least developed countries, small island developing States and landlocked developing countries, to develop, use and disseminate new and existing technologies;",
+        "text_fr": "vii) Soutenir  les  initiatives  visant  à  renforcer  les  moyens  dont  disposent  les pays en développement, et en particulier les pays les moins avancés, les petits États  insulaires en  développement et les pays  en développement sans littoral, pour développer, utiliser et diffuser des technologies nouvelles ou existantes ;",
+        "dimensions": [
+            "Infrastructure & resources",
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme",
+            "Stakeholder focus",
+            "Learner population"
+        ],
+        "type": "",
+        "Infrastructure & resources": [
+            "ICT and digital infrastructure"
+        ],
+        "Subject domain": [
+            "Science and technology (STEM)"
+        ],
+        "Cross-cutting themes & skills": [
+            "Digital and ICT literacy"
+        ],
+        "Policy theme": [
+            "Innovation and technology policies"
+        ],
+        "Stakeholder focus": [
+            "Government and policy makers"
+        ],
+        "Learner population": [
+            "Low-income and disadvantaged groups"
+        ]
+    },
+    {
+        "text_en": "(viii) To identify mechanisms to strengthen the renewable energy capacity of developing countries, including their capacity to develop flexible policies, plans and regulations, as well as measures to improve their capacity to absorb and maintain renewable energy technologies and to adapt them to the local context;",
+        "text_fr": "viii)  Identifier des mécanismes permettant de renforcer les capacités des pays en développement dans le domaine des énergies renouvelables, y compris leur capacité à élaborer des politiques, des plans et des réglementations souples, ainsi que des mesures visant à améliorer la capacité de ces pays à absorber et à entretenir les technologies liées aux énergies renouvelables, et à les adapter au contexte local ;",
+        "dimensions": [
+            "Subject domain",
+            "Policy theme",
+            "Legal frameworks",
+            "Infrastructure & resources",
+            "Learner population"
+        ],
+        "type": "",
+        "Subject domain": [
+            "Science and technology (STEM)",
+            "Social sciences and humanities",
+            "Environmental education and sustainable development"
+        ],
+        "Policy theme": [
+            "Governance and planning",
+            "Innovation and technology policies",
+            "Sustainable development and environment"
+        ],
+        "Legal frameworks": [
+            "Policy implementation and enforcement"
+        ],
+        "Infrastructure & resources": [
+            "Other"
+        ],
+        "Learner population": [
+            "Adults and lifelong learners"
+        ]
+    },
+    {
+        "text_en": "(ix) To strengthen, as a preventive measure, and revitalize global partnerships on science, technology and innovation for sustainable development, and to do so, begin to: (a) use the results of technology foresight activities to define the scope of international projects on targeted research, development and deployment of technologies, and human resources capacity-building programmes in the fields of science, technology and innovation; (b) seek innovative financing models and other resources to strengthen the capacities of developing countries so that they can participate in projects and collaborative initiatives in these areas;",
+        "text_fr": "ix) Renforcer à titre préventif et revitaliser les partenariats mondiaux relatifs à la science, à la technologie et à l'innovation au service du développement durable et,  pour  ce  faire,  commencer  à :  a)  exploiter  les  résultats  des  activités  de prospective  technologique  pour  définir  la  portée,  d'une  part,  de  projets internationaux portant sur des activités ciblées de recherche, de développement et de déploiement de technologies, et, d'autre part, de programmes de renforcement des capacités en matière de ressources humaines dans les domaines de la science, de  la  technologie  et  de  l'innovation;  b) chercher  des  modèles  de  financement novateurs et d'autres ressources permettant de renforcer les capacités des pays en développement de façon à ce qu'ils puissent prendre part à des projets et à des initiatives collaboratifs dans ces mêmes domaines ;",
+        "dimensions": [
+            "Education orientation",
+            "Infrastructure & resources",
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme",
+            "Stakeholder focus",
+            "Learner population"
+        ],
+        "type": "",
+        "Education orientation": [
+            "Vocational/technical (TVET)"
+        ],
+        "Infrastructure & resources": [
+            "ICT and digital infrastructure",
+            "Other"
+        ],
+        "Subject domain": [
+            "Science and technology (STEM)",
+            "Environmental education and sustainable development"
+        ],
+        "Cross-cutting themes & skills": [
+            "Digital and ICT literacy",
+            "Financial and economic literacy",
+            "Life skills and 21st century competencies",
+            "Sustainable development and climate action"
+        ],
+        "Policy theme": [
+            "Access and equity",
+            "Financing and resource mobilization",
+            "Teachers and workforce policies",
+            "Innovation and technology policies",
+            "International cooperation and partnerships",
+            "Sustainable development and environment"
+        ],
+        "Stakeholder focus": [
+            "Government and policy makers",
+            "International organizations and donors"
+        ],
+        "Learner population": [
+            "Low-income and disadvantaged groups"
+        ]
+    },
+    {
+        "text_en": "(x) Explore ways and means of conducting international foresight and assessment activities on new, existing and emerging technologies and their implications for renewable energy and digital skills, including discussions on governance models for new areas of scientific and technological change;",
+        "text_fr": "x) Explorer  les  voies  et  moyens  de  mener  des  activités  internationales  de prospective et d'évaluation portant sur les technologies nouvelles, existantes ou émergentes et leurs incidences sur les énergies renouvelables et les compétences numériques, y compris des débats sur les modèles de gouvernance applicables aux nouveaux domaines de l'évolution scientifique et technologique ;",
+        "dimensions": [
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme",
+            "Education system monitoring & evaluation"
+        ],
+        "type": "",
+        "Subject domain": [
+            "Science and technology (STEM)",
+            "Environmental education and sustainable development"
+        ],
+        "Cross-cutting themes & skills": [
+            "Digital and ICT literacy",
+            "Sustainable development and climate action"
+        ],
+        "Policy theme": [
+            "Governance and planning",
+            "Quality and learning outcomes",
+            "Innovation and technology policies",
+            "International cooperation and partnerships",
+            "Sustainable development and environment"
+        ],
+        "Education system monitoring & evaluation": [
+            "Research and surveys"
+        ]
+    },
+    {
+        "text_en": "(xi) Assist countries in anticipating future trends in capacity-building, including through forward-looking work;",
+        "text_fr": "xi) Aider les pays à anticiper les tendances futures en termes de renforcement des capacités, notamment grâce à un travail de prospective ;",
+        "dimensions": [
+            "Education orientation",
+            "Cross-cutting themes & skills",
+            "Policy theme",
+            "Stakeholder focus"
+        ],
+        "type": "",
+        "Education orientation": [
+            "General (academic)"
+        ],
+        "Cross-cutting themes & skills": [
+            "Life skills and 21st century competencies"
+        ],
+        "Policy theme": [
+            "Governance and planning",
+            "International cooperation and partnerships"
+        ],
+        "Stakeholder focus": [
+            "Government and policy makers"
+        ]
+    },
+    {
+        "text_en": "(xii) To explore and examine innovative financing models such as social and environmental impact investment, which can attract new stakeholders, innovators and capital of new origin to science, technology, engineering and innovation-based solutions, working with other organizations where appropriate;",
+        "text_fr": "xii) Étudier  et  examiner  des  modèles  de  financement  novateurs  tels  que l'investissement  à  impact  social  et  environnemental,  à  même  d'attirer  de nouvelles parties prenantes, des innovateurs et des capitaux d'origine nouvelle vers  des  solutions  fondées  sur  la  science,  la  technologie,  l'ingénierie  et l'innovation, en collaborant avec d'autres organisations s'il y a lieu ;",
+        "dimensions": [
+            "Subject domain",
+            "Policy theme",
+            "Stakeholder focus"
+        ],
+        "type": "",
+        "Subject domain": [
+            "Science and technology (STEM)",
+            "Social sciences and humanities",
+            "Environmental education and sustainable development"
+        ],
+        "Policy theme": [
+            "Financing and resource mobilization",
+            "Sustainable development and environment"
+        ],
+        "Stakeholder focus": [
+            "Private sector and industry",
+            "Other"
+        ]
+    },
+    {
+        "text_en": "(xiii) To promote capacity-building and cooperation in research and development, in collaboration with relevant institutions, including the United Nations system, to facilitate the strengthening of innovation systems supporting innovators, particularly in developing countries, to enhance their efforts to achieve sustainable development;",
+        "text_fr": "xiii)  Promouvoir le renforcement des capacités et la coopération en matière de recherche  et  de  développement,  en  collaboration  avec  les  institutions compétentes, y compris des organismes des Nations Unies, afin de faciliter le renforcement des systèmes d'innovation appuyant les innovateurs, notamment dans les pays en développement, pour accroître les efforts qu'ils déploient en vue de la réalisation du développement durable ;",
+        "dimensions": [
+            "Education orientation",
+            "Ownership/Provision",
+            "Curriculum",
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme",
+            "Stakeholder focus",
+            "Learner population"
+        ],
+        "type": "",
+        "Education orientation": [
+            "General (academic)"
+        ],
+        "Ownership/Provision": [
+            "Public (state-run)"
+        ],
+        "Curriculum": [],
+        "Subject domain": [
+            "Science and technology (STEM)",
+            "Environmental education and sustainable development"
+        ],
+        "Cross-cutting themes & skills": [
+            "Entrepreneurship and business skills",
+            "Sustainable development and climate action"
+        ],
+        "Policy theme": [
+            "Innovation and technology policies",
+            "International cooperation and partnerships",
+            "Sustainable development and environment"
+        ],
+        "Stakeholder focus": [
+            "Teachers and educators",
+            "Learners and students",
+            "Private sector and industry",
+            "International organizations and donors"
+        ],
+        "Learner population": [
+            "Low-income and disadvantaged groups"
+        ]
+    },
+    {
+        "text_en": "(xiv) To provide space to share not only successes and good practices but also major failures and challenges, and to be informed about the results of technology foresight activities, successful local innovation models, case studies and experiences in the use of science, technology and engineering, including all new technologies, for innovation, in symbiosis with information and communications technologies, for inclusive and sustainable development, and to disseminate the findings to all relevant United Nations agencies, in particular through the Technology Facilitation Mechanism and its Multi-stakeholder Collaborative Forum on Science, Technology and Innovation for the achievement of sustainable development goals;",
+        "text_fr": "xiv)  Offrir un espace pour mettre en commun non seulement les réussites et les bonnes pratiques mais aussi les échecs et les difficultés majeures, et être informé des  résultats  des  activités  de  prospective  technologique,  des  modèles d'innovation  locale  qui  ont  donné  de  bons  résultats,  des  études  de  cas  et  des données d'expérience concernant l'utilisation de la science, de la technologie et de  l'ingénierie,  y compris  de  toutes  nouvelles  technologies,  à  des  fins d'innovation,  en  symbiose  avec  les  technologies  de  l'information  et  des communications, aux fins d'un développement inclusif et durable, et diffuser les  conclusions  à  tous  les  organismes  des  Nations  Unies  concernés,  en particulier par l'intermédiaire du Mécanisme de facilitation des technologies et de  son  Forum  de  collaboration  multipartite  sur  la  science,  la  technologie  et l'innovation pour la réalisation des objectifs de développement durable ;",
+        "dimensions": [
+            "Infrastructure & resources",
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme",
+            "Stakeholder focus"
+        ],
+        "type": "",
+        "Infrastructure & resources": [
+            "ICT and digital infrastructure"
+        ],
+        "Subject domain": [
+            "Science and technology (STEM)",
+            "Environmental education and sustainable development"
+        ],
+        "Cross-cutting themes & skills": [
+            "Digital and ICT literacy",
+            "Human rights and equality",
+            "Sustainable development and climate action"
+        ],
+        "Policy theme": [
+            "Innovation and technology policies",
+            "Inclusion and diversity",
+            "Sustainable development and environment"
+        ],
+        "Stakeholder focus": [
+            "International organizations and donors"
+        ]
+    },
+    {
+        "text_en": "(xv) Continue its active efforts to raise awareness of the contribution that science, technology and innovation can make to the 2030 Agenda through the provision of substantive support to relevant United Nations mechanisms and bodies, as appropriate, and through the dissemination of information on the lessons learned and good practices in science, technology and innovation with Member States and other entities;",
+        "text_fr": "xv) Continuer de s'employer activement à faire mieux connaître la contribution que la science, la technologie et l'innovation peuvent apporter au Programme 2030 en fournissant un appui fonctionnel aux mécanismes et aux organes compétents des Nations Unies, selon que de besoin, et en diffusant les enseignements et les bonnes pratiques touchant à la science, à la technologie et à l'innovation auprès des États Membres et d'autres entités ;",
+        "dimensions": [
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme",
+            "Stakeholder focus"
+        ],
+        "type": "",
+        "Subject domain": [
+            "Science and technology (STEM)"
+        ],
+        "Cross-cutting themes & skills": [
+            "Sustainable development and climate action",
+            "Life skills and 21st century competencies"
+        ],
+        "Policy theme": [
+            "Innovation and technology policies",
+            "International cooperation and partnerships",
+            "Sustainable development and environment"
+        ],
+        "Stakeholder focus": [
+            "Government and policy makers",
+            "International organizations and donors"
+        ]
+    },
+    {
+        "text_en": "(xvi) To emphasize the importance of the work of the Commission in the implementation and monitoring of the information and communication technologies, science, technology and innovation aspects of the achievement of the sustainable development goals, with the Chair reporting at meetings and review sessions of the Economic and Social Council, the High-level Political Forum on Sustainable Development and other relevant forums;",
+        "text_fr": "xvi)  Souligner l'importance des travaux de la Commission en ce qui concerne la mise en œuvre et le suivi des aspects des technologies de l'information et des communications,  de  la  science,  de  la  technologie  et  de  l'innovation  qui interviennent dans la réalisation  des  objectifs  de  développement  durable,  son président  faisant  rapport  lors  de  réunions  et  séances  d'examen  tenues  par  le Conseil  économique  et  social,  le  Forum  politique  de  haut  niveau  pour  le développement durable et d'autres instances pertinentes ;",
+        "dimensions": [
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme",
+            "Education system monitoring & evaluation"
+        ],
+        "type": "",
+        "Subject domain": [
+            "Science and technology (STEM)",
+            "Environmental education and sustainable development"
+        ],
+        "Cross-cutting themes & skills": [
+            "Digital and ICT literacy",
+            "Sustainable development and climate action"
+        ],
+        "Policy theme": [
+            "Innovation and technology policies",
+            "Sustainable development and environment",
+            "Governance and planning",
+            "Accountability and transparency"
+        ],
+        "Education system monitoring & evaluation": []
+    },
+    {
+        "text_en": "(xvii) Strengthen and deepen collaboration between the Commission on Science and Technology for Development and the Commission on the Status of Women, including sharing good practices and lessons learned on mainstreaming a gender perspective in science, technology and innovation policy development and implementation;",
+        "text_fr": "xvii) Renforcer  et  approfondir  la  collaboration  entre  la  Commission  de  la science et de la technique au service du développement et la Commission de la condition  de  la  femme,  et  notamment  partager  les  bonnes  pratiques  et  les enseignements tirés de l'expérience concernant la prise en compte systématique de la problématique femmes-hommes dans l'élaboration et la mise en œuvre des politiques en matière de science, de technologie et d'innovation ;",
+        "dimensions": [
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme",
+            "Stakeholder focus"
+        ],
+        "type": "",
+        "Subject domain": [
+            "Science and technology (STEM)",
+            "Social sciences and humanities"
+        ],
+        "Cross-cutting themes & skills": [
+            "Human rights and equality",
+            "Digital and ICT literacy"
+        ],
+        "Policy theme": [
+            "Innovation and technology policies",
+            "Inclusion and diversity",
+            "International cooperation and partnerships"
+        ],
+        "Stakeholder focus": [
+            "Government and policy makers",
+            "International organizations and donors"
+        ]
+    },
+    {
+        "text_en": "(c) UNCTAD is invited to take the following actions:",
+        "text_fr": "c) La CNUCED est invitée à prendre les mesures suivantes :",
+        "dimensions": [
+            "Policy theme"
+        ],
+        "type": "",
+        "Policy theme": []
+    },
+    {
+        "text_en": "(i) Actively seek funds for further analysis of science, technology and innovation policies, which will focus on the critical role of information and communications technologies in the use of science, technology and innovation and in building and exploiting engineering capacity, and implement the recommendations of these analyses, as appropriate, in close cooperation with United Nations agencies and other international organizations;",
+        "text_fr": "i) S'employer  activement  à  trouver  des  fonds  pour  faire  davantage d'analyses  des  politiques  relatives  à  la  science,  à  la  technologie  et  à l'innovation, lesquelles seront axées sur le rôle déterminant des technologies de l'information et des communications dans la mise à profit de la science, de la technologie  et  de  l'innovation  et  dans  le  renforcement  et  l'exploitation  des capacités  en  matière  d'ingénierie,  et  à  mettre  en  œuvre  les  recommandations issues de ces analyses, s'il y a lieu, en étroite coopération avec les organismes des Nations Unies et d'autres organisations internationales ;",
+        "dimensions": [
+            "Subject domain",
+            "Policy theme",
+            "Education system monitoring & evaluation",
+            "Stakeholder focus"
+        ],
+        "type": "",
+        "Subject domain": [
+            "Science and technology (STEM)"
+        ],
+        "Policy theme": [
+            "Financing and resource mobilization",
+            "Innovation and technology policies",
+            "International cooperation and partnerships"
+        ],
+        "Education system monitoring & evaluation": [
+            "Research and surveys"
+        ],
+        "Stakeholder focus": [
+            "Government and policy makers",
+            "International organizations and donors"
+        ]
+    },
+    {
+        "text_en": "(ii) To explore possibilities for integrating elements of strategic forecasting analysis and assessment of the digital ecosystem into policy analyses in science, technology, innovation and information and communications technologies, for example, by adding a chapter;",
+        "text_fr": "ii) Examiner  les  possibilités  d'intégrer  des  éléments  issus  de  l'analyse prévisionnelle stratégique et de l'évaluation de l'écosystème numérique dans les analyses des politiques relatives à la science, à la technologie, à l'innovation et aux  technologies  de  l'information  et  des  communications,  par  exemple  en y ajoutant un chapitre ;",
+        "dimensions": [
+            "Policy theme",
+            "Subject domain"
+        ],
+        "type": "",
+        "Policy theme": [
+            "Governance and planning",
+            "Innovation and technology policies"
+        ],
+        "Subject domain": [
+            "Science and technology (STEM)"
+        ]
+    },
+    {
+        "text_en": "(iii) Expand the area of analysis of national science, technology and innovation policies to include sustainable development goals, in particular innovation strategies targeting the bottom of the pyramid, and social inclusion;",
+        "text_fr": "iii) Élargir  le  domaine  des  analyses  des  politiques  nationales  relatives  à  la science, à la technologie et à l'innovation de manière à y intégrer les objectifs de développement durable, en particulier les stratégies d'innovation ciblant le bas de la pyramide, et l'inclusion sociale ;",
+        "dimensions": [
+            "Education orientation",
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme",
+            "Education system monitoring & evaluation",
+            "Learner population"
+        ],
+        "type": "",
+        "Education orientation": [],
+        "Subject domain": [
+            "Science and technology (STEM)",
+            "Social sciences and humanities",
+            "Environmental education and sustainable development"
+        ],
+        "Cross-cutting themes & skills": [
+            "Human rights and equality",
+            "Sustainable development and climate action",
+            "Inclusive education and special needs"
+        ],
+        "Policy theme": [
+            "Innovation and technology policies",
+            "Sustainable development and environment",
+            "Inclusion and diversity",
+            "Access and equity"
+        ],
+        "Education system monitoring & evaluation": [
+            "Research and surveys"
+        ],
+        "Learner population": [
+            "Low-income and disadvantaged groups"
+        ]
+    },
+    {
+        "text_en": "(iv) To provide periodic reviews of progress made in countries for which science, technology and innovation policy analyses have been conducted, and to invite those countries to report to the Commission on Science and Technology for Development on progress made, lessons learned and challenges encountered in the implementation of the recommendations;",
+        "text_fr": "iv) Prévoir des bilans périodiques des progrès accomplis dans les pays pour lesquels des analyses des politiques relatives à la science, à la technologie et à l'innovation ont été réalisées et inviter ces pays à faire rapport à la Commission de  la  science  et  de  la  technique  au  service  du  développement  sur  les  progrès accomplis,  les  enseignements  tirés  et  les problèmes  rencontrés  dans l'application des recommandations ;",
+        "dimensions": [
+            "Policy theme",
+            "Education system monitoring & evaluation"
+        ],
+        "type": "",
+        "Policy theme": [
+            "Governance and planning",
+            "Innovation and technology policies",
+            "Accountability and transparency"
+        ],
+        "Education system monitoring & evaluation": [
+            "Institutional evaluation and inspection"
+        ]
+    },
+    {
+        "text_en": "(v) Encourage the Advisory Board on Gender Equality of the Commission to contribute to the discussions and documentation of the Commission, to report on progress made at the annual sessions of the Commission and to mainstream a gender perspective more systematically into science, technology and innovation policy analyses.",
+        "text_fr": "v) Encourager  le  Conseil  consultatif  pour  l'égalité  des  sexes  de  la Commission  à  apporter  sa  contribution  aux  débats  et  à  l'établissement  de  la documentation de la Commission, à faire rapport sur les progrès accomplis lors des sessions annuelles de la Commission et à intégrer plus systématiquement la problématique femmes-hommes dans les analyses des politiques relatives à la science, à la technologie et à l'innovation.",
+        "dimensions": [
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme"
+        ],
+        "type": "",
+        "Subject domain": [
+            "Science and technology (STEM)"
+        ],
+        "Cross-cutting themes & skills": [
+            "Human rights and equality"
+        ],
+        "Policy theme": [
+            "Access and equity",
+            "Innovation and technology policies",
+            "Inclusion and diversity"
+        ]
+    },
+    {
+        "text_en": "51st plenary meeting 24 July 2018",
+        "text_fr": "51 e séance plénière 24 juillet 2018",
+        "dimensions": [],
+        "type": ""
+    }
+]

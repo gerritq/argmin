@@ -1,0 +1,820 @@
+[
+    {
+        "text_en": "Guided by the Charter of the United Nations,",
+        "text_fr": "Guidé par la Charte des Nations Unies,",
+        "dimensions": [
+            "Policy theme",
+            "Legal frameworks"
+        ],
+        "type": "",
+        "Policy theme": [
+            "Governance and planning",
+            "International cooperation and partnerships"
+        ],
+        "Legal frameworks": [
+            "International conventions and treaties"
+        ]
+    },
+    {
+        "text_en": "Recalling the Universal Declaration of Human Rights, the International Covenants on Human Rights and other relevant international human rights instruments,",
+        "text_fr": "Rappelant la Déclaration universelle des droits de l'homme,  les  Pactes internationaux  relatifs  aux  droits  de  l'homme  et  les  autres  instruments  internationaux relatifs aux droits de l'homme pertinents ,",
+        "dimensions": [
+            "Policy theme",
+            "Legal frameworks"
+        ],
+        "type": "",
+        "Policy theme": [
+            "Access and equity",
+            "Inclusion and diversity",
+            "International cooperation and partnerships"
+        ],
+        "Legal frameworks": [
+            "Constitution and fundamental rights",
+            "International conventions and treaties"
+        ]
+    },
+    {
+        "text_en": "Reiterating the call of the World Conference on Human Rights, held in Vienna in 1993, for all States and institutions to include human rights, humanitarian law, democracy and the rule of law in the curricula of all educational institutions, and affirmed that human rights education should focus on peace, democracy, development and social justice, as provided for in international and regional human rights instruments, in order to generate a common understanding and awareness that reinforces universal commitment to them,",
+        "text_fr": "Renouvelant l'appel de la Conférence mondiale sur les droits de l'homme, tenue à Vienne en 1993, qui a invité tous les États et institutions à inscrire les droits de l'homme, le droit humanitaire, la démocratie et l'état de droit au programme de tous les établissements d'enseignement et a affirmé que l'éducation en matière de droits de l'homme devrait porter sur la paix, la démocratie, le développement et la justice sociale, comme le prévoient les instruments internationaux et régionaux relatifs aux droits de l'homme, afin de susciter une compréhension commune et une prise de conscience qui renforcent l'engagement universel en leur faveur,",
+        "dimensions": [
+            "Education orientation",
+            "Curriculum",
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme",
+            "Legal frameworks",
+            "Stakeholder focus",
+            "Learner population"
+        ],
+        "type": "",
+        "Education orientation": [
+            "General (academic)"
+        ],
+        "Curriculum": [
+            "Design and development",
+            "Content and learning areas"
+        ],
+        "Subject domain": [
+            "Social sciences and humanities"
+        ],
+        "Cross-cutting themes & skills": [
+            "Citizenship and civic education",
+            "Global citizenship and peace education",
+            "Human rights and equality"
+        ],
+        "Policy theme": [
+            "Curriculum and pedagogy policies",
+            "Quality and learning outcomes"
+        ],
+        "Legal frameworks": [
+            "Education laws and regulations",
+            "International conventions and treaties",
+            "Policy implementation and enforcement",
+            "Rights and obligations of stakeholders"
+        ],
+        "Stakeholder focus": [
+            "Government and policy makers",
+            "Teachers and educators",
+            "Learners and students"
+        ],
+        "Learner population": [
+            "All learners"
+        ]
+    },
+    {
+        "text_en": "Reaffirming also the United Nations Declaration on Human Rights Education and Training, adopted by the General Assembly in its resolution 66/137, of 19 December 2011, and the obligation of States, as stipulated in the Universal Declaration of Human Rights and the International Covenant on Economic, Social and Cultural Rights, to ensure that education is aimed at strengthening respect for human rights and fundamental freedoms and that all individuals and organs of society must strive through education and education to promote respect for human rights and fundamental freedoms,",
+        "text_fr": "Réaffirmant aussi la  Déclaration des Nations Unies sur l'éducation et la formation aux  droits  de  l'homme,  adoptée  par  l'Assemblée  générale  dans  sa  résolution  66/137,  le 19 décembre 2011, et que les États sont tenus, comme le stipulent la Déclaration universelle des droits de l'homme et le Pacte international relatif aux droits économiques, sociaux et culturels, de veiller à ce que l'éducation vise à renforcer le respect des droits de l'homme et des libertés fondamentales et que tous les individus et tous les organes de la société doivent s'efforcer,  par  l'enseignement  et  l'éducation,  de  promouvoir  le  respect  des  droits  de l'homme et des libertés fondamentales,",
+        "dimensions": [
+            "Curriculum",
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme",
+            "Legal frameworks",
+            "Stakeholder focus"
+        ],
+        "type": "",
+        "Curriculum": [
+            "Content and learning areas",
+            "Curriculum implementation",
+            "Competency-based and learning outcomes"
+        ],
+        "Subject domain": [
+            "Social sciences and humanities"
+        ],
+        "Cross-cutting themes & skills": [
+            "Citizenship and civic education",
+            "Human rights and equality"
+        ],
+        "Policy theme": [
+            "Curriculum and pedagogy policies",
+            "Inclusion and diversity"
+        ],
+        "Legal frameworks": [
+            "Constitution and fundamental rights",
+            "Education laws and regulations",
+            "International conventions and treaties",
+            "Rights and obligations of stakeholders"
+        ],
+        "Stakeholder focus": [
+            "Government and policy makers",
+            "Teachers and educators",
+            "Learners and students",
+            "Parents and communities",
+            "Civil society and NGOs",
+            "International organizations and donors"
+        ]
+    },
+    {
+        "text_en": "Recalling General Assembly resolution 59/113A of 10 December 2004, by which the Assembly proclaimed the World Programme for Human Rights Education as an international undertaking under the auspices of the United Nations to promote the implementation of human rights education in all sectors, as well as all previous resolutions of the Human Rights Council on human rights education and training,",
+        "text_fr": "Rappelant la résolution 59/113A de l'Assemblée générale du 10 décembre 2004, par laquelle l'Assemblée a proclamé le Programme mondial d'éducation dans le domaine des droits de l'homme en tant qu'entreprise internationale menée sous les auspices des Nations Unies en vue de promouvoir la mise en œuvre de l'éducation aux droits de l'homme dans tous  les  secteurs,  ainsi  que  toutes  les  précédentes  résolutions  du  Conseil  des  droits  de l'homme sur l'éducation et la formation aux droits de l'homme,",
+        "dimensions": [
+            "Education orientation",
+            "Ownership/Provision",
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme",
+            "Legal frameworks",
+            "Stakeholder focus"
+        ],
+        "type": "",
+        "Education orientation": [
+            "General (academic)"
+        ],
+        "Ownership/Provision": [
+            "Public (state-run)"
+        ],
+        "Subject domain": [
+            "Social sciences and humanities"
+        ],
+        "Cross-cutting themes & skills": [
+            "Human rights and equality"
+        ],
+        "Policy theme": [
+            "Curriculum and pedagogy policies",
+            "Governance and planning",
+            "Inclusion and diversity",
+            "International cooperation and partnerships"
+        ],
+        "Legal frameworks": [
+            "Education laws and regulations",
+            "International conventions and treaties",
+            "Policy implementation and enforcement"
+        ],
+        "Stakeholder focus": [
+            "Government and policy makers",
+            "International organizations and donors"
+        ]
+    },
+    {
+        "text_en": "Recalling also the 2005 World Summit Outcome, in which Heads of State and Government supported the promotion of human rights education and outreach at all levels, including through the World Programme for Human Rights Education, as appropriate, and encouraged all States to take initiatives in this regard,",
+        "text_fr": "Rappelant  aussi le  document  final  du  Sommet  mondial  de  2005,  dans  lequel  les chefs  d'État  et  de  gouvernement  ont  soutenu  la  promotion  de  l'éducation  et  de  la vulgarisation en matière de droits de l'homme à tous les niveaux, notamment dans le cadre du  Programme  mondial  d'éducation  dans  le  domaine  des  droits  de  l'homme,  comme  il conviendra, et ont encouragé tous les États à prendre des initiatives à cet égard,",
+        "dimensions": [
+            "Education level",
+            "Curriculum",
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme",
+            "Stakeholder focus"
+        ],
+        "type": "",
+        "Education level": [
+            "Multiple levels"
+        ],
+        "Curriculum": [
+            "Content and learning areas",
+            "Curriculum implementation"
+        ],
+        "Subject domain": [
+            "Social sciences and humanities"
+        ],
+        "Cross-cutting themes & skills": [
+            "Human rights and equality"
+        ],
+        "Policy theme": [
+            "Quality and learning outcomes",
+            "Governance and planning",
+            "Curriculum and pedagogy policies",
+            "Inclusion and diversity",
+            "International cooperation and partnerships"
+        ],
+        "Stakeholder focus": [
+            "Government and policy makers"
+        ]
+    },
+    {
+        "text_en": "Convinced that human rights education is a lifelong, long-term process by which everyone learns tolerance and respect for the dignity of others and the means and methods of ensuring that respect in all societies,",
+        "text_fr": "Convaincu que l'éducation dans le domaine des droits de l'homme est un processus à long terme se déroulant sur toute la vie, par lequel chacun apprend la tolérance et le respect de la dignité d'autrui et les moyens et méthodes d'assurer ce respect dans toutes les sociétés,",
+        "dimensions": [
+            "Education orientation",
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme",
+            "Learner population"
+        ],
+        "type": "",
+        "Education orientation": [
+            "General (academic)"
+        ],
+        "Subject domain": [
+            "Social sciences and humanities",
+            "Religion and moral education"
+        ],
+        "Cross-cutting themes & skills": [
+            "Citizenship and civic education",
+            "Global citizenship and peace education",
+            "Human rights and equality",
+            "Life skills and 21st century competencies"
+        ],
+        "Policy theme": [
+            "Access and equity",
+            "Quality and learning outcomes",
+            "Inclusion and diversity",
+            "Lifelong learning and adult education"
+        ],
+        "Learner population": [
+            "All learners"
+        ]
+    },
+    {
+        "text_en": "Recalling General Assembly resolution 70/254 of 12 February 2016,",
+        "text_fr": "Rappelant la résolution 70/254 de l'Assemblée générale du 12 février 2016,",
+        "dimensions": [
+            "Policy theme",
+            "Legal frameworks"
+        ],
+        "type": "",
+        "Policy theme": [],
+        "Legal frameworks": [
+            "International conventions and treaties"
+        ]
+    },
+    {
+        "text_en": "Recognizing that human rights education and training are essential to the realization of individual rights and fundamental freedoms and contribute greatly to the promotion of equality, the prevention of conflicts and human rights violations, and the strengthening of participatory and democratic processes with a view to establishing societies in which all human beings are valued and respected, without discrimination or distinction on the grounds of race, colour, sex, language, religion, political or other opinion, national or social origin, property, birth or other status,",
+        "text_fr": "Estimant que l'éducation et la formation aux droits de l'homme sont essentielles à la réalisation  des  droits  individuels  et  des  libertés  fondamentales  et  contribuent  grandement  à promouvoir l'égalité, à prévenir les conflits et les violations des droits de l'homme, ainsi qu'à renforcer  les  processus  participatifs  et  démocratiques  en  vue  d'instaurer  des  sociétés  dans lesquelles tous les êtres humains sont appréciés et respectés, sans discrimination ni distinction aucune fondée sur la race, la  couleur, le  sexe, la langue, la religion,  l'opinion politique  ou autre, l'origine nationale ou sociale, la fortune, la naissance ou toute autre situation,",
+        "dimensions": [
+            "Education orientation",
+            "Curriculum",
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme",
+            "Legal frameworks",
+            "Learner population"
+        ],
+        "type": "",
+        "Education orientation": [
+            "General (academic)"
+        ],
+        "Curriculum": [
+            "Content and learning areas"
+        ],
+        "Subject domain": [
+            "Social sciences and humanities"
+        ],
+        "Cross-cutting themes & skills": [
+            "Citizenship and civic education",
+            "Global citizenship and peace education",
+            "Human rights and equality"
+        ],
+        "Policy theme": [
+            "Access and equity",
+            "Curriculum and pedagogy policies",
+            "Inclusion and diversity"
+        ],
+        "Legal frameworks": [
+            "Constitution and fundamental rights",
+            "International conventions and treaties"
+        ],
+        "Learner population": [
+            "All learners"
+        ]
+    },
+    {
+        "text_en": "Recognizing also that human rights education and training can play an important role in promoting the rule of law, good governance and sustainable peace,",
+        "text_fr": "Estimant aussi que l'éducation et la formation aux droits de l'homme peuvent jouer un grand rôle dans la promotion de l'état de droit, de la bonne gouvernance et de la paix durable,",
+        "dimensions": [
+            "Education orientation",
+            "Curriculum",
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme"
+        ],
+        "type": "",
+        "Education orientation": [
+            "General (academic)"
+        ],
+        "Curriculum": [
+            "Content and learning areas",
+            "Competency-based and learning outcomes"
+        ],
+        "Subject domain": [
+            "Social sciences and humanities"
+        ],
+        "Cross-cutting themes & skills": [
+            "Human rights and equality",
+            "Citizenship and civic education",
+            "Global citizenship and peace education"
+        ],
+        "Policy theme": [
+            "Governance and planning",
+            "Sustainable development and environment"
+        ]
+    },
+    {
+        "text_en": "Recognizing that human rights education and training, in particular for young people, can contribute to promoting inclusive and tolerant societies, thereby promoting the progressive realization of all human rights,",
+        "text_fr": "Reconnaissant que l'éducation et la formation aux droits de l'homme, en particulier des  jeunes,  peuvent  contribuer  à  promouvoir  des  sociétés  inclusives  et  tolérantes,  en favorisant ainsi la réalisation progressive de tous les droits de l'homme,",
+        "dimensions": [
+            "Curriculum",
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme",
+            "Learner population"
+        ],
+        "type": "",
+        "Curriculum": [
+            "Content and learning areas",
+            "Competency-based and learning outcomes"
+        ],
+        "Subject domain": [
+            "Social sciences and humanities"
+        ],
+        "Cross-cutting themes & skills": [
+            "Citizenship and civic education",
+            "Human rights and equality",
+            "Inclusive education and special needs"
+        ],
+        "Policy theme": [
+            "Curriculum and pedagogy policies",
+            "Inclusion and diversity"
+        ],
+        "Learner population": [
+            "Youth and adolescents"
+        ]
+    },
+    {
+        "text_en": "Welcoming the adoption of the 2030 Agenda for Sustainable Development 1 , including Goal 4 target 7 and the 2030 Framework for Action , and affirming that all sustainable development goals and targets are interrelated and integrated,",
+        "text_fr": "Saluant l'adoption du Programme  de  développement  durable  à  l'horizon 2030 1 , notamment  la  cible  7  de  son  objectif  4,  et  du  cadre  d'action  Éducation  2030 2 ,  et affirmant que tous les objectifs et cibles de développement durable sont intimement liés et ont un caractère intégré,",
+        "dimensions": [
+            "Cross-cutting themes & skills",
+            "Policy theme"
+        ],
+        "type": "",
+        "Cross-cutting themes & skills": [
+            "Sustainable development and climate action"
+        ],
+        "Policy theme": [
+            "Sustainable development and environment"
+        ]
+    },
+    {
+        "text_en": "1. Calls upon States to take appropriate measures to ensure effectively the implementation of and follow-up to the United Nations Declaration on Human Rights Education and Training, including through the provision of the necessary resources and the promotion of universal respect for and understanding of the Declaration;",
+        "text_fr": "1. Demande aux  États  de  prendre  des  mesures  adaptées  pour  assurer  avec efficacité la mise en œuvre et le suivi de la Déclaration des Nations Unies sur l'éducation et la  formation  aux  droits  de  l'homme,  y  compris  en  mettant  à  disposition  les  ressources nécessaires et en promouvant le respect universel et la compréhension de celle-ci ;",
+        "dimensions": [
+            "Education orientation",
+            "Infrastructure & resources",
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme",
+            "Legal frameworks",
+            "Stakeholder focus"
+        ],
+        "type": "",
+        "Education orientation": [
+            "General (academic)"
+        ],
+        "Infrastructure & resources": [],
+        "Subject domain": [
+            "Social sciences and humanities",
+            "Religion and moral education"
+        ],
+        "Cross-cutting themes & skills": [
+            "Citizenship and civic education",
+            "Global citizenship and peace education",
+            "Human rights and equality"
+        ],
+        "Policy theme": [
+            "Financing and resource mobilization",
+            "Curriculum and pedagogy policies"
+        ],
+        "Legal frameworks": [
+            "Education laws and regulations",
+            "International conventions and treaties",
+            "Policy implementation and enforcement",
+            "Rights and obligations of stakeholders"
+        ],
+        "Stakeholder focus": [
+            "Government and policy makers"
+        ]
+    },
+    {
+        "text_en": "2. Encourages States and all other stakeholders to strengthen the implementation of the World Programme for Human Rights Education, including its third phase;",
+        "text_fr": "2. Encourage les États et toutes les autres parties prenantes à renforcer la mise en  œuvre  du  Programme  mondial  d'éducation  dans  le  domaine  des  droits  de  l'homme, y compris sa troisième phase ;",
+        "dimensions": [
+            "Education orientation",
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme",
+            "Stakeholder focus"
+        ],
+        "type": "",
+        "Education orientation": [
+            "General (academic)"
+        ],
+        "Subject domain": [
+            "Social sciences and humanities"
+        ],
+        "Cross-cutting themes & skills": [
+            "Citizenship and civic education",
+            "Global citizenship and peace education",
+            "Human rights and equality"
+        ],
+        "Policy theme": [
+            "Curriculum and pedagogy policies",
+            "Quality and learning outcomes"
+        ],
+        "Stakeholder focus": [
+            "Government and policy makers",
+            "Teachers and educators",
+            "Learners and students",
+            "Parents and communities",
+            "Civil society and NGOs",
+            "Private sector and industry",
+            "International organizations and donors"
+        ]
+    },
+    {
+        "text_en": "3. Commends the Office of the United Nations High Commissioner for Human Rights and the United Nations Educational, Scientific and Cultural Organization for their efforts to advance human rights education and training worldwide, including by promoting the implementation at the national level of the World Programme for Human Rights Education, providing methodological and training support, capacity-building assistance and technical assistance, and urges them to intensify collaboration with States, upon request, to strengthen their capacities in human rights education and training;",
+        "text_fr": "3. Salue le  Haut-Commissariat  des  Nations  Unies  aux  droits  de  l'homme  et l'Organisation des Nations Unies pour l'éducation, la science et la culture pour les efforts qu'ils  déploient  en  vue  de  faire  progresser  l'éducation  et  la  formation  aux  droits  de l'homme dans le monde, y compris en favorisant la mise en œuvre au niveau national du Programme mondial d'éducation dans le domaine des droits de l'homme, en apportant un appui en matière de méthode et de formation, en fournissant une assistance au renforcement des capacités et une assistance technique, et il les exhorte à amplifier la collaboration avec les  États,  sur  demande,  en  vue  de  renforcer  leurs  capacités  en  matière  d'éducation  et  de formation aux droits de l'homme ;",
+        "dimensions": [
+            "Teachers",
+            "Infrastructure & resources",
+            "Curriculum",
+            "Pedagogy & assessment",
+            "Subject domain",
+            "Policy theme",
+            "Education system monitoring & evaluation",
+            "Stakeholder focus"
+        ],
+        "type": "",
+        "Teachers": [
+            "Professional development"
+        ],
+        "Infrastructure & resources": [],
+        "Curriculum": [
+            "Design and development",
+            "Content and learning areas",
+            "Curriculum implementation",
+            "Competency-based and learning outcomes"
+        ],
+        "Pedagogy & assessment": [
+            "Teaching methods and approaches",
+            "Professional learning communities"
+        ],
+        "Subject domain": [
+            "Social sciences and humanities"
+        ],
+        "Policy theme": [
+            "Quality and learning outcomes",
+            "Teachers and workforce policies",
+            "Curriculum and pedagogy policies",
+            "International cooperation and partnerships"
+        ],
+        "Education system monitoring & evaluation": [
+            "Quality assurance and accreditation"
+        ],
+        "Stakeholder focus": [
+            "Government and policy makers",
+            "International organizations and donors"
+        ]
+    },
+    {
+        "text_en": "4. Encourages the Office of the High Commissioner, in cooperation with the United Nations Educational, Scientific and Cultural Organization, to support the implementation of the 2030 Agenda for Sustainable Development, including Goal 4 target 7;",
+        "text_fr": "4. Encourage le  Haut-Commissariat,  en  coopération  avec  l'Organisation  des Nations Unies, pour l'éducation, la science et la  culture,  à  soutenir  la  mise  en  œuvre  du Programme  de  développement  durable  à  l'horizon  2030,  notamment  la  cible  7  de  son objectif 4 ;",
+        "dimensions": [
+            "Education orientation",
+            "Curriculum",
+            "Cross-cutting themes & skills",
+            "Policy theme",
+            "Stakeholder focus",
+            "Learner population"
+        ],
+        "type": "",
+        "Education orientation": [
+            "General (academic)"
+        ],
+        "Curriculum": [
+            "Curriculum implementation"
+        ],
+        "Cross-cutting themes & skills": [
+            "Sustainable development and climate action"
+        ],
+        "Policy theme": [
+            "Quality and learning outcomes",
+            "International cooperation and partnerships",
+            "Sustainable development and environment"
+        ],
+        "Stakeholder focus": [
+            "International organizations and donors"
+        ],
+        "Learner population": [
+            "All learners"
+        ]
+    },
+    {
+        "text_en": "5. Affirms the importance of human rights education and training as a means of helping to prevent terrorism and violent extremism, as well as racial and religious intolerance, genocide, war crimes, ethnic cleansing and crimes against humanity worldwide, and recognizes that education, including human rights education and training, contributes as a catalyst to ensuring stability and sustainable peace, respect for human rights, social justice, respect for diversity, gender equality and environmental sustainability;",
+        "text_fr": "5. Affirme l'importance  que  revêt  l'éducation,  y  compris  l'éducation  et  la formation  aux  droits  de  l'homme,  en  tant  que  moyen  d'aider  à  prévenir  le  terrorisme  et l'extrémisme violent ainsi que l'intolérance raciale et religieuse, le génocide, les crimes de guerre, le nettoyage ethnique et les crimes contre l'humanité dans le monde, et constate que l'éducation, y compris l'éducation et la formation aux droits de l'homme, concourt à titre de catalyseur à assurer la stabilité et la paix durable, le respect des droits de l'homme, la justice sociale, le respect de la diversité, l'égalité des sexes  et la durabilité environnementale ;",
+        "dimensions": [
+            "Education orientation",
+            "Curriculum",
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme"
+        ],
+        "type": "",
+        "Education orientation": [
+            "General (academic)"
+        ],
+        "Curriculum": [
+            "Content and learning areas",
+            "Competency-based and learning outcomes"
+        ],
+        "Subject domain": [
+            "Social sciences and humanities",
+            "Religion and moral education",
+            "Environmental education and sustainable development"
+        ],
+        "Cross-cutting themes & skills": [
+            "Citizenship and civic education",
+            "Global citizenship and peace education",
+            "Human rights and equality",
+            "Sustainable development and climate action"
+        ],
+        "Policy theme": [
+            "Access and equity",
+            "Quality and learning outcomes",
+            "Curriculum and pedagogy policies",
+            "Inclusion and diversity",
+            "Education in emergencies and crises",
+            "Sustainable development and environment"
+        ]
+    },
+    {
+        "text_en": "6. Stresses the need to strengthen international cooperation and coordination in order to advance human rights education and training as a necessary tool for the promotion and protection of human rights;",
+        "text_fr": "6. Souligne qu'il  est  nécessaire  de  renforcer  la  coopération  et  la  coordination internationales afin de faire progresser l'éducation et la formation aux droits de l'homme en tant qu'outil nécessaire pour promouvoir et protéger les droits de l'homme ;",
+        "dimensions": [
+            "Education orientation",
+            "Curriculum",
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme",
+            "Stakeholder focus"
+        ],
+        "type": "",
+        "Education orientation": [
+            "General (academic)"
+        ],
+        "Curriculum": [
+            "Content and learning areas",
+            "Curriculum implementation"
+        ],
+        "Subject domain": [
+            "Social sciences and humanities"
+        ],
+        "Cross-cutting themes & skills": [
+            "Human rights and equality"
+        ],
+        "Policy theme": [
+            "International cooperation and partnerships"
+        ],
+        "Stakeholder focus": [
+            "Government and policy makers",
+            "Teachers and educators",
+            "Learners and students",
+            "International organizations and donors"
+        ]
+    },
+    {
+        "text_en": "7. Appreciates the work done by the Office of the High Commissioner and the United Nations Educational, Scientific and Cultural Organization to collect or develop teaching materials on human rights education and training, including through the regional centres, and to ensure access to online educational resources, including the OHCHR Collection of Teaching Materials on Human Rights Education and Training and the UNESCO Clearing House on Global Citizenship Education;",
+        "text_fr": "7. Apprécie le  travail accompli par le Haut-Commissariat et l'Organisation des Nations Unies pour l'éducation, la science et la culture en vue de recueillir ou d'élaborer des  matériels  pédagogiques  sur  l'éducation  et  la  formation  aux  droits  de  l'homme, y compris  par  le  canal  des  centres  régionaux,  et  d'assurer  l'accès  aux  ressources pédagogiques en ligne, y compris la Collection de matériels pédagogiques sur l'éducation et  la  formation  dans  le  domaine  des  droits  de  l'homme  du  Haut-Commissariat  et  le mécanisme  d'échange  d'informations  de  l'UNESCO  sur  l'éducation  à  la  citoyenneté mondiale ;",
+        "dimensions": [
+            "Learning modality",
+            "Ownership/Provision",
+            "Infrastructure & resources",
+            "Curriculum",
+            "Pedagogy & assessment",
+            "Subject domain",
+            "Cross-cutting themes & skills"
+        ],
+        "type": "",
+        "Learning modality": [
+            "Formal education",
+            "Non-formal education",
+            "Lifelong learning"
+        ],
+        "Ownership/Provision": [
+            "Public (state-run)"
+        ],
+        "Infrastructure & resources": [
+            "Teaching and learning materials",
+            "ICT and digital infrastructure"
+        ],
+        "Curriculum": [
+            "Design and development",
+            "Content and learning areas"
+        ],
+        "Pedagogy & assessment": [
+            "Teaching methods and approaches",
+            "Technology-supported pedagogy"
+        ],
+        "Subject domain": [
+            "Social sciences and humanities"
+        ],
+        "Cross-cutting themes & skills": [
+            "Global citizenship and peace education",
+            "Human rights and equality",
+            "Digital and ICT literacy"
+        ]
+    },
+    {
+        "text_en": "8. Encourages the Office of the High Commissioner and the United Nations Educational, Scientific and Cultural Organization to continue to collect and provide access to educational materials on human rights education and training, including through the use of online platforms and information and communication technologies;",
+        "text_fr": "8. Encourage le  Haut-Commissariat  et  l'Organisation  des  Nations  Unies  pour l'éducation, la science et la culture à continuer à collecter des matériels pédagogiques sur l'éducation  et  la  formation  aux  droits  de  l'homme  et  à  y  donner  accès,  y  compris  en recourant  à  des  plate  formes  en  ligne  et  aux  technologies  de  l'information  et  de  la communication ;",
+        "dimensions": [
+            "Education orientation",
+            "Learning modality",
+            "Infrastructure & resources",
+            "Curriculum",
+            "Subject domain"
+        ],
+        "type": "",
+        "Education orientation": [
+            "General (academic)"
+        ],
+        "Learning modality": [
+            "Non-formal education",
+            "Lifelong learning"
+        ],
+        "Infrastructure & resources": [
+            "Teaching and learning materials",
+            "ICT and digital infrastructure"
+        ],
+        "Curriculum": [
+            "Content and learning areas"
+        ],
+        "Subject domain": [
+            "Science and technology (STEM)",
+            "Social sciences and humanities"
+        ]
+    },
+    {
+        "text_en": "9. Welcomes the initiative of the Secretary-General on the prevention of violent extremism, which calls, inter alia, for the teaching of respect for human rights and diversity in the educational system, which should also encourage critical thinking, promote media literacy and digital literacy and strengthen behavioural and socio-emotional skills that can contribute to peaceful coexistence and tolerance;",
+        "text_fr": "9. Accueille avec  satisfaction l'initiative  du  Secrétaire  général  relative  à  la prévention de l'extrémisme violent, qui préconise notamment que le respect des droits de l'homme  et  de  la  diversité  soit  enseigné  dans  le  système  éducatif,  lequel  devrait  aussi encourager la réflexion critique, favoriser la connaissance  des  médias et l'alphabétisation numérique et renforcer les compétences comportementales et socio-émotionnelles pouvant contribuer à la coexistence pacifique et à la tolérance ;",
+        "dimensions": [
+            "Education orientation",
+            "Curriculum",
+            "Pedagogy & assessment",
+            "Cross-cutting themes & skills",
+            "Policy theme"
+        ],
+        "type": "",
+        "Education orientation": [
+            "General (academic)"
+        ],
+        "Curriculum": [
+            "Content and learning areas",
+            "Competency-based and learning outcomes"
+        ],
+        "Pedagogy & assessment": [
+            "Pedagogical foundations and theories",
+            "Teaching methods and approaches",
+            "Technology-supported pedagogy"
+        ],
+        "Cross-cutting themes & skills": [
+            "Citizenship and civic education",
+            "Global citizenship and peace education",
+            "Human rights and equality",
+            "Digital and ICT literacy",
+            "Life skills and 21st century competencies"
+        ],
+        "Policy theme": [
+            "Quality and learning outcomes",
+            "Curriculum and pedagogy policies",
+            "Inclusion and diversity"
+        ]
+    },
+    {
+        "text_en": "10. Appreciates the work done by the United Nations Educational, Scientific and Cultural Organization in cooperation with member States to promote human rights education and training in the context of the global citizenship education strategy, in line with the Global Education Initiative launched primarily by the Secretary-General and target 7 of Goal 4 of the 2030 Agenda for Sustainable Development;",
+        "text_fr": "10. Apprécie le  travail  effectué  par  l'Organisation  des  Nations  Unies  pour l'éducation, la science et la culture en coopération avec les États membres pour promouvoir l'éducation et la formation aux droits de l'homme dans le cadre de la stratégie concernant l'éducation  à  la  citoyenneté  mondiale,  dans  la  ligne  de  l'Initiative  mondiale  pour l'éducation  avant  tout  lancée  par  le  Secrétaire  général  et  de  la  cible  7  de  l'objectif  4  du Programme de développement durable à l'horizon 2030 ;",
+        "dimensions": [
+            "Education orientation",
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme"
+        ],
+        "type": "",
+        "Education orientation": [
+            "General (academic)"
+        ],
+        "Subject domain": [
+            "Social sciences and humanities",
+            "Environmental education and sustainable development"
+        ],
+        "Cross-cutting themes & skills": [
+            "Global citizenship and peace education",
+            "Human rights and equality",
+            "Sustainable development and climate action"
+        ],
+        "Policy theme": [
+            "Quality and learning outcomes",
+            "Curriculum and pedagogy policies",
+            "Inclusion and diversity",
+            "International cooperation and partnerships",
+            "Sustainable development and environment"
+        ]
+    },
+    {
+        "text_en": "11. Recognizes the important role of national human rights institutions in promoting effective human rights education and training policies, and calls upon them to continue to contribute to the implementation of human rights education programmes;",
+        "text_fr": "11. Reconnaît le  rôle  majeur  des  institutions  nationales  des  droits  de  l'homme dans la promotion de politiques efficaces en matière d'éducation et de formation aux droits de  l'homme,  et  les  appelle  à  continuer  à  contribuer  à  l'exécution  des  programmes d'éducation aux droits de l'homme ;",
+        "dimensions": [
+            "Stakeholder focus",
+            "Policy theme",
+            "Curriculum",
+            "Subject domain"
+        ],
+        "type": "",
+        "Stakeholder focus": [
+            "Government and policy makers"
+        ],
+        "Policy theme": [
+            "Governance and planning",
+            "Curriculum and pedagogy policies"
+        ],
+        "Curriculum": [
+            "Curriculum implementation"
+        ],
+        "Subject domain": [
+            "Social sciences and humanities"
+        ]
+    },
+    {
+        "text_en": "12. Also recognizes the important role of civil society, including non-governmental organizations, in promoting and delivering human rights education and training;",
+        "text_fr": "12. Reconnaît  également le  rôle  majeur  de  la  société  civile,  y  compris  les organisations non gouvernementales, dans la promotion de l'éducation et de la formation aux droits de l'homme et dans leur prestation ;",
+        "dimensions": [
+            "Ownership/Provision",
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Stakeholder focus"
+        ],
+        "type": "",
+        "Ownership/Provision": [
+            "Private non-profit"
+        ],
+        "Subject domain": [
+            "Social sciences and humanities"
+        ],
+        "Cross-cutting themes & skills": [
+            "Citizenship and civic education",
+            "Global citizenship and peace education",
+            "Human rights and equality"
+        ],
+        "Stakeholder focus": [
+            "Civil society and NGOs"
+        ]
+    },
+    {
+        "text_en": "Decides to convene at its thirty-third session, to mark the fifth anniversary of the adoption of the United Nations Declaration on Human Rights Education and Training, a high-level panel discussion on the theme \"Implementation of the United Nations Declaration on Human Rights Education and Training: Good Practices and Challenges\", and requests the Office of the High Commissioner to prepare a consolidated report on the high-level panel discussion and to submit it to the Human Rights Council at its thirty-fifth session.",
+        "text_fr": "Décide de  convoquer  à  sa  trente-troisième  session,  pour  marquer  le cinquième anniversaire de l'adoption de la Déclaration des Nations Unies sur l'éducation et la  formation  aux  droits  de  l'homme,  une  réunion-débat  de  haut  niveau  ayant  pour  thème « La mise en œuvre de la Déclaration des Nations Unies sur l'éducation et la formation aux droits de l'homme : bonnes pratiques et défis », et prie le Haut-Commissariat d'établir un rapport de synthèse sur cette réunion-débat de haut niveau et de le soumettre au Conseil des droits de l'homme à sa trente-cinquième session.",
+        "dimensions": [
+            "Education orientation",
+            "Curriculum",
+            "Subject domain",
+            "Policy theme",
+            "Education system monitoring & evaluation",
+            "Legal frameworks"
+        ],
+        "type": "",
+        "Education orientation": [
+            "General (academic)"
+        ],
+        "Curriculum": [
+            "Curriculum implementation"
+        ],
+        "Subject domain": [
+            "Social sciences and humanities"
+        ],
+        "Policy theme": [
+            "Quality and learning outcomes",
+            "Governance and planning",
+            "Curriculum and pedagogy policies",
+            "International cooperation and partnerships"
+        ],
+        "Education system monitoring & evaluation": [
+            "Research and surveys"
+        ],
+        "Legal frameworks": [
+            "Constitution and fundamental rights",
+            "Education laws and regulations",
+            "International conventions and treaties",
+            "Policy implementation and enforcement",
+            "Rights and obligations of stakeholders"
+        ]
+    }
+]

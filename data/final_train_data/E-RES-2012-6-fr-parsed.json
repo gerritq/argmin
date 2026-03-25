@@ -1,0 +1,1291 @@
+[
+    {
+        "text_en": "Economic and Social Council",
+        "text_fr": "Conseil économique et social",
+        "dimensions": [
+            "Policy theme",
+            "Legal frameworks",
+            "Stakeholder focus"
+        ],
+        "type": "",
+        "Policy theme": [
+            "Access and equity",
+            "Governance and planning",
+            "Financing and resource mobilization",
+            "Inclusion and diversity",
+            "International cooperation and partnerships",
+            "Sustainable development and environment",
+            "Health and well-being policies",
+            "Accountability and transparency"
+        ],
+        "Legal frameworks": [
+            "International conventions and treaties",
+            "Policy implementation and enforcement"
+        ],
+        "Stakeholder focus": [
+            "Government and policy makers",
+            "International organizations and donors"
+        ]
+    },
+    {
+        "text_en": "Distr.: General",
+        "text_fr": "Distr. générale",
+        "dimensions": [],
+        "type": ""
+    },
+    {
+        "text_en": "30 August",
+        "text_fr": "30 ao ût",
+        "dimensions": [],
+        "type": ""
+    },
+    {
+        "text_en": "Substantive session of 2012",
+        "text_fr": "Session de fond de 2012",
+        "dimensions": [],
+        "type": ""
+    },
+    {
+        "text_en": "Agenda item 13, b",
+        "text_fr": "Point 13, b , de l'ordre du jour",
+        "dimensions": [],
+        "type": ""
+    },
+    {
+        "text_en": "Resolution adopted by the Economic and Social Council",
+        "text_fr": "Résolution adoptée par le Conseil économique et social",
+        "dimensions": [
+            "Policy theme",
+            "Legal frameworks"
+        ],
+        "type": "",
+        "Policy theme": [],
+        "Legal frameworks": [
+            "International conventions and treaties"
+        ]
+    },
+    {
+        "text_en": "[on the recommendation of the Commission on Science and Technology for Development (E/2012/31 and Corr.1) ]",
+        "text_fr": "[ sur recommandation de la Commission de la science et de la technique au service du développement (E/2012/31 et Corr.1) ]",
+        "dimensions": [
+            "Subject domain",
+            "Policy theme",
+            "Stakeholder focus"
+        ],
+        "type": "",
+        "Subject domain": [
+            "Science and technology (STEM)"
+        ],
+        "Policy theme": [
+            "Innovation and technology policies",
+            "Sustainable development and environment"
+        ],
+        "Stakeholder focus": [
+            "Government and policy makers",
+            "International organizations and donors"
+        ]
+    },
+    {
+        "text_en": "2012/6. Science and technology for development",
+        "text_fr": "2012/6. La science et la technique au service du développement",
+        "dimensions": [
+            "Curriculum",
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme"
+        ],
+        "type": "",
+        "Curriculum": [
+            "Content and learning areas"
+        ],
+        "Subject domain": [
+            "Science and technology (STEM)"
+        ],
+        "Cross-cutting themes & skills": [
+            "Sustainable development and climate action"
+        ],
+        "Policy theme": [
+            "Innovation and technology policies"
+        ]
+    },
+    {
+        "text_en": "The Economic and Social Council,",
+        "text_fr": "Le Conseil économique et social ,",
+        "dimensions": [],
+        "type": ""
+    },
+    {
+        "text_en": "Welcoming the role of the Commission on Science and Technology for Development as the flagship of the United Nations Organization for Science, Technology and Innovation for Development,",
+        "text_fr": "Saluant le  rôle  joué  par  la  Commission  de  la  science  et  de  la  technique  au service du développement en tant que porte-drapeau de l'Organisation des Nations Unies pour la science, la technique et l'innovation au service du développement,",
+        "dimensions": [
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme"
+        ],
+        "type": "",
+        "Subject domain": [
+            "Science and technology (STEM)"
+        ],
+        "Cross-cutting themes & skills": [
+            "Digital and ICT literacy",
+            "Sustainable development and climate action"
+        ],
+        "Policy theme": [
+            "Innovation and technology policies",
+            "Governance and planning",
+            "International cooperation and partnerships"
+        ]
+    },
+    {
+        "text_en": "Recognizing the critical role of science, technology and innovation in the acquisition and preservation of national competitiveness in the global economy in a globalized world and their contribution to achieving sustainable development,",
+        "text_fr": "Constatant le rôle critique que jouent la science, la technologie et l'innovation dans  l'acquisition  et  la  préservation  de  la  compétitivité  nationale  dans  l'économie mondiale,  à  l'heure  de  la  mondialisation,  et  leur  contribution  à  la  réalisation  d'un développement durable,",
+        "dimensions": [
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme"
+        ],
+        "type": "",
+        "Subject domain": [
+            "Science and technology (STEM)",
+            "Environmental education and sustainable development"
+        ],
+        "Cross-cutting themes & skills": [
+            "Digital and ICT literacy",
+            "Financial and economic literacy",
+            "Life skills and 21st century competencies",
+            "Sustainable development and climate action"
+        ],
+        "Policy theme": [
+            "Innovation and technology policies",
+            "Sustainable development and environment"
+        ]
+    },
+    {
+        "text_en": "Recognizing also the critical role of information and communication technologies in promoting science, technology and innovation for development,",
+        "text_fr": "Constatant  également le rôle décisif  que  jouent  les  technologies  de l'information  et  des  communications  dans  la  promotion  de  la  science,  de  la technique et de l'innovation au service du développement,",
+        "dimensions": [
+            "Education orientation",
+            "Infrastructure & resources",
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme"
+        ],
+        "type": "",
+        "Education orientation": [
+            "General (academic)"
+        ],
+        "Infrastructure & resources": [
+            "ICT and digital infrastructure"
+        ],
+        "Subject domain": [
+            "Science and technology (STEM)"
+        ],
+        "Cross-cutting themes & skills": [
+            "Digital and ICT literacy"
+        ],
+        "Policy theme": [
+            "Innovation and technology policies"
+        ]
+    },
+    {
+        "text_en": "Recalling the 2005 World Summit Outcome, in which the key role of science and technology, including information and communication technologies, was emphasized, and reaffirming the commitments contained in document 1 thereof,",
+        "text_fr": "Rappelant le  document  final  du  Sommet  mondial  de  2005,  dans  lequel  était souligné  le  rôle  déterminant  de  la  science  et  de  la  technique,  notamment  les technologies  de  l'information  et  des  communications,  pour  la  réalisation  des objectifs  de  développement  convenus  au  niveau  international  et  réaffirmant  les engagements pris dans ledit document 1 ,",
+        "dimensions": [
+            "Education orientation",
+            "Infrastructure & resources",
+            "Subject domain",
+            "Policy theme"
+        ],
+        "type": "",
+        "Education orientation": [],
+        "Infrastructure & resources": [
+            "ICT and digital infrastructure"
+        ],
+        "Subject domain": [
+            "Science and technology (STEM)"
+        ],
+        "Policy theme": [
+            "Innovation and technology policies"
+        ]
+    },
+    {
+        "text_en": "Recalling also that the United Nations Conference on Trade and Development is the secretariat of the Commission,",
+        "text_fr": "Rappelant également que la Conférence des Nations Unies sur le commerce et le développement est le secrétariat de la Commission,",
+        "dimensions": [
+            "Subject domain",
+            "Policy theme"
+        ],
+        "type": "",
+        "Subject domain": [
+            "Social sciences and humanities"
+        ],
+        "Policy theme": [
+            "Governance and planning"
+        ]
+    },
+    {
+        "text_en": "Recalling further the work of the Commission on the contribution of science, technology and engineering to innovation and the development of education, research and development-oriented policies for an inclusive socio-economic information society, including policies on access, infrastructure and an enabling environment,",
+        "text_fr": "Rappelant en outre les travaux menés par la Commission sur la contribution de la  science,  de  la  technologie  et  de  l'ingénierie  à l'innovation  et  à  la  création  de capacités  d'éducation  et  de  recherche  et  sur  les  politiques  orientées  vers  le développement pour une société de l'information sans exclusive socioéconomique, notamment  les  politiques  relatives  à  l'accès,  l'infrastructure  et  un  environnement favorable,",
+        "dimensions": [
+            "Curriculum",
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme",
+            "Infrastructure & resources",
+            "Learner population"
+        ],
+        "type": "",
+        "Curriculum": [
+            "Design and development",
+            "Content and learning areas"
+        ],
+        "Subject domain": [
+            "Science and technology (STEM)",
+            "Social sciences and humanities"
+        ],
+        "Cross-cutting themes & skills": [
+            "Digital and ICT literacy",
+            "Inclusive education and special needs"
+        ],
+        "Policy theme": [
+            "Access and equity",
+            "Innovation and technology policies",
+            "Inclusion and diversity"
+        ],
+        "Infrastructure & resources": [
+            "ICT and digital infrastructure"
+        ],
+        "Learner population": [
+            "All learners"
+        ]
+    },
+    {
+        "text_en": "Welcoming the work done by the Commission on the two priority themes of its session: \"Innovation, research, transfer of technologies beneficial to the all, entrepreneurship and joint planning relevant to the information society\" and \"Free access, virtual scientific libraries, geospatial analysis and other complementary tools related to information and communication technologies or science, technology, engineering and mathematics, useful for addressing development issues, in particular education\",",
+        "text_fr": "Saluant le travail accompli par la Commission sur les deux thèmes prioritaires de  sa  session :  « Innovation,  recherche,  transferts  de  technologies  bénéfiques  pour tous,  esprit  d'entreprise  et  planification  conjointe  intéressant  la  société  de l'information »  et  « Libre  accès,  bibliothèques  scientifiques  virtuelles,  analyses géospatiales et autres outils complémentaires liés aux technologies de l'information et  des  communications  ou  à  la  science,  à  la  technologie,  à  l'ingénierie  et  aux mathématiques,  utiles  pour  aborder  les  questions  de  développement,  en  particulier l'éducation »,",
+        "dimensions": [
+            "Infrastructure & resources",
+            "Curriculum",
+            "Pedagogy & assessment",
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme"
+        ],
+        "type": "",
+        "Infrastructure & resources": [
+            "Teaching and learning materials",
+            "ICT and digital infrastructure",
+            "Laboratories and libraries"
+        ],
+        "Curriculum": [
+            "Design and development",
+            "Content and learning areas"
+        ],
+        "Pedagogy & assessment": [
+            "Technology-supported pedagogy"
+        ],
+        "Subject domain": [
+            "Science and technology (STEM)"
+        ],
+        "Cross-cutting themes & skills": [
+            "Digital and ICT literacy",
+            "Entrepreneurship and business skills",
+            "Life skills and 21st century competencies"
+        ],
+        "Policy theme": [
+            "Access and equity",
+            "Curriculum and pedagogy policies",
+            "Innovation and technology policies"
+        ]
+    },
+    {
+        "text_en": "Recognizing that joint learning is a prerequisite for innovation, technology transfer and enterprise and requires the creation of absorptive and productive capacities at the individual and organizational levels,",
+        "text_fr": "Constatant que l'apprentissage en commun est la condition de l'innovation, du transfert  de  technologie  et  de  l'entreprise  et  suppose,  aux  niveaux  de  l'individu  et des organisations, la création de capacités d'absorption et de production,",
+        "dimensions": [
+            "Education orientation",
+            "Learning modality",
+            "Pedagogy & assessment",
+            "Cross-cutting themes & skills"
+        ],
+        "type": "",
+        "Education orientation": [
+            "Combined general and vocational"
+        ],
+        "Learning modality": [
+            "Informal learning",
+            "Lifelong learning"
+        ],
+        "Pedagogy & assessment": [
+            "Pedagogical foundations and theories",
+            "Teaching methods and approaches"
+        ],
+        "Cross-cutting themes & skills": [
+            "Digital and ICT literacy",
+            "Entrepreneurship and business skills",
+            "Life skills and 21st century competencies"
+        ]
+    },
+    {
+        "text_en": "Recognizing also the work done by some organizations of the United Nations system, including the United Nations Conference on Trade and Development, in analysing the impact of technology transfer on trade and development,",
+        "text_fr": "Constatant également le  travail  accompli par  certains organismes des Nations Unies,  notamment  la  Conférence  des  Nations  Unies  sur  le  commerce  et  le développement,  dans  l'analyse  de  l'impact  du  transfert  de  technologie  sur  le commerce et le développement,",
+        "dimensions": [
+            "Policy theme"
+        ],
+        "type": "",
+        "Policy theme": [
+            "Innovation and technology policies"
+        ]
+    },
+    {
+        "text_en": "Noting that freedom of access and virtual scientific libraries are two complementary means of increasing and expanding the flow of knowledge and assisting developing countries in obtaining data and research results,",
+        "text_fr": "Notant que  la  liberté  d'accès  et  les  bibliothèques  scientifiques  virtuelles  sont deux moyens  complémentaires  d'accroître  et  d'étendre la circulation des connaissances  et  d'aider  les  pays  en  développement à  obtenir  des  données  et  les résultats de la recherche,",
+        "dimensions": [
+            "Learning modality",
+            "Infrastructure & resources",
+            "Subject domain",
+            "Policy theme",
+            "Stakeholder focus",
+            "Learner population"
+        ],
+        "type": "",
+        "Learning modality": [
+            "Informal learning",
+            "Lifelong learning"
+        ],
+        "Infrastructure & resources": [
+            "Teaching and learning materials",
+            "ICT and digital infrastructure",
+            "Laboratories and libraries"
+        ],
+        "Subject domain": [
+            "Science and technology (STEM)"
+        ],
+        "Policy theme": [
+            "Access and equity"
+        ],
+        "Stakeholder focus": [
+            "Government and policy makers",
+            "Teachers and educators",
+            "Learners and students"
+        ],
+        "Learner population": [
+            "Low-income and disadvantaged groups"
+        ]
+    },
+    {
+        "text_en": "Noting also the need to pay more attention to the growing array of scientific and technical resources available online and useful to the scientific and technical communities of the world,",
+        "text_fr": "Notant également qu'il faut prêter plus d'attention à l'ensemble grandissant de ressources  scientifiques  et  techniques  existant  en  ligne  et  utiles  aux  milieux scientifiques et techniques du monde entier,",
+        "dimensions": [
+            "Infrastructure & resources",
+            "Subject domain",
+            "Stakeholder focus",
+            "Learner population"
+        ],
+        "type": "",
+        "Infrastructure & resources": [
+            "Teaching and learning materials",
+            "ICT and digital infrastructure"
+        ],
+        "Subject domain": [
+            "Science and technology (STEM)"
+        ],
+        "Stakeholder focus": [
+            "Other"
+        ],
+        "Learner population": []
+    },
+    {
+        "text_en": "Recognizing that the effective introduction of information and communication technologies into education requires not only access to technology, but also the creation of absorptive and productive capacities for science, technology and innovation through the development of human resources, favourable conditions for education and infrastructure and through national policies of progress,",
+        "text_fr": "Constatant que  l'introduction  effective  des  technologies  de  l'information  et des  communications  dans  l'enseignement  nécessite  non  seulement  l'accès  à  la technologie,  mais également la création de capacités d'absorption et de production de  la  science,  la  technologie  et  l'innovation  par  le  développement  des  ressources humaines,  des  conditions  favorables  à  l'éducation  et  de  l'infrastructure  et  par  des politiques nationales de progrès,",
+        "dimensions": [
+            "Education orientation",
+            "Learning modality",
+            "Teachers",
+            "Infrastructure & resources",
+            "Curriculum",
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme",
+            "Learner population"
+        ],
+        "type": "",
+        "Education orientation": [
+            "Vocational/technical (TVET)"
+        ],
+        "Learning modality": [
+            "Formal education",
+            "Lifelong learning"
+        ],
+        "Teachers": [],
+        "Infrastructure & resources": [
+            "ICT and digital infrastructure"
+        ],
+        "Curriculum": [
+            "Design and development",
+            "Content and learning areas",
+            "Competency-based and learning outcomes"
+        ],
+        "Subject domain": [
+            "Science and technology (STEM)",
+            "Social sciences and humanities"
+        ],
+        "Cross-cutting themes & skills": [
+            "Digital and ICT literacy"
+        ],
+        "Policy theme": [
+            "Quality and learning outcomes",
+            "Governance and planning",
+            "Innovation and technology policies"
+        ],
+        "Learner population": [
+            "All learners"
+        ]
+    },
+    {
+        "text_en": "Noting that geographic information systems and geospatial analysis are used in many sectors of society and have important effects in solving development problems, but remain underutilized as a potential for change,",
+        "text_fr": "Notant que  les  systèmes  d'information  géographique  et  l'analyse  géospatiale sont utilisés dans de nombreux secteurs de la société et ont d'importants effets dans la  solution  des  problèmes  de  développement,  mais  restent  pourtant  sous-utilisés comme potentiel de changement,",
+        "dimensions": [
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme"
+        ],
+        "type": "",
+        "Subject domain": [
+            "Science and technology (STEM)",
+            "Social sciences and humanities",
+            "Environmental education and sustainable development"
+        ],
+        "Cross-cutting themes & skills": [
+            "Digital and ICT literacy"
+        ],
+        "Policy theme": [
+            "Innovation and technology policies",
+            "Sustainable development and environment"
+        ]
+    },
+    {
+        "text_en": "Recalling that, in its resolution 66/211 of 22 December 2011 on science and technology for development, the General Assembly called upon the United Nations Conference on Trade and Development to continue to undertake further analysis of science, technology and innovation policies with a view to assisting developing countries and countries with economies in transition in identifying appropriate measures to integrate those policies into their national development strategies,",
+        "text_fr": "Rappelant que, dans sa résolution 66/211 du 22 décembre 2011 sur la science et  la  technique  au  service  du  développement,  l'Assemblée  générale  a  engagé  la Conférence  des  Nations  Unies  sur  le  commerce  et  le développement  à  continuer d'entreprendre  de  nouvelles  analyses  des  politiques  relatives  à  la  science,  à  la technique et à l'innovation en vue d'aider les pays en développement et en transition à  déterminer  les  mesures  qu'ils  doivent  prendre  pour  intégrer  ces  politiques  dans leurs stratégies de développement nationales,",
+        "dimensions": [
+            "Subject domain",
+            "Policy theme",
+            "Legal frameworks",
+            "Stakeholder focus"
+        ],
+        "type": "",
+        "Subject domain": [
+            "Science and technology (STEM)"
+        ],
+        "Policy theme": [
+            "Innovation and technology policies"
+        ],
+        "Legal frameworks": [
+            "International conventions and treaties",
+            "Policy implementation and enforcement"
+        ],
+        "Stakeholder focus": [
+            "Government and policy makers",
+            "International organizations and donors"
+        ]
+    },
+    {
+        "text_en": "Welcoming the quality of the reviews carried out by the United Nations Conference on Trade and Development of Science and Technology Policies in El Salvador and Peru, which clearly demonstrate the need to monitor the implementation of those reviews by countries, as reflected in the report of Angola,",
+        "text_fr": "Saluant la  qualité des examens effectués par la Conférence des Nations Unies sur  le  commerce  et  le  développement  des  politiques  de  la  science  et  de  la technologie d'El Salvador et du Pérou, qui montrent bien qu'il faut suivre la mise en œuvre de ces examens par les pays, comme le montre le rapport de l'Angola,",
+        "dimensions": [
+            "Policy theme",
+            "Education system monitoring & evaluation"
+        ],
+        "type": "",
+        "Policy theme": [
+            "Innovation and technology policies",
+            "Governance and planning",
+            "Accountability and transparency"
+        ],
+        "Education system monitoring & evaluation": [
+            "Institutional evaluation and inspection"
+        ]
+    },
+    {
+        "text_en": "Recalling its decision 2011/235 of 26 July 2011, which provides for the extension until 2015 of the mandate of the Advisory Board on Gender Equality of the Commission and General Assembly resolutions 66/129 of 19 December 2011, 66/211 and 66/216 of 22 December 2011, which address, respectively, the improvement of the situation of women in rural areas, obstacles to the equal access of women and girls to science and technology and integration a gender perspective in development policies and programmes,",
+        "text_fr": "Rappelant sa  décision  2011/235  du  26  juillet  2011  qui  prévoit  la  prorogation jusqu'en  2015  du  mandat  du  Conseil  consultatif  pour  l'égalité  des  sexes  de  la Commission  et  les  résolutions  de  l'Assemblée  générale  66/129  du  19  décembre 2011,  66/211  et  66/216  du  22  décembre  2011,  qui  traitent  respectivement  de l'amélioration  de  la  situation  des  femmes  dans  les zones  rurales,  des  obstacles  à l'accès égal des femmes et des filles à la science et la technologie et de l'intégration d'une perspective sexospécifique dans les politiques et programmes de développement,",
+        "dimensions": [
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme",
+            "Legal frameworks",
+            "Stakeholder focus",
+            "Learner population"
+        ],
+        "type": "",
+        "Subject domain": [
+            "Science and technology (STEM)",
+            "Social sciences and humanities"
+        ],
+        "Cross-cutting themes & skills": [
+            "Human rights and equality"
+        ],
+        "Policy theme": [
+            "Access and equity",
+            "Inclusion and diversity",
+            "Innovation and technology policies"
+        ],
+        "Legal frameworks": [
+            "International conventions and treaties",
+            "Policy implementation and enforcement",
+            "Rights and obligations of stakeholders"
+        ],
+        "Stakeholder focus": [
+            "Government and policy makers",
+            "Learners and students",
+            "Parents and communities",
+            "International organizations and donors"
+        ],
+        "Learner population": [
+            "Women and girls",
+            "Rural and remote learners"
+        ]
+    },
+    {
+        "text_en": "Taking note of the report on the application of the gender perspective to science, technology and innovation prepared by the United Nations Conference on Trade and Development in close cooperation with the Advisory Board on Gender Equality,",
+        "text_fr": "Prenant note du rapport sur l'application du prisme de la parité des sexes à la science,  la  technologie  et  l'innovation  établi  par la  Conférence  des  Nations  Unies sur  le  commerce  et  le  développement  en  étroite  coopération  avec  le  Conseil consultatif pour l'égalité des sexes 2 ,",
+        "dimensions": [
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme",
+            "Stakeholder focus"
+        ],
+        "type": "",
+        "Subject domain": [
+            "Science and technology (STEM)",
+            "Social sciences and humanities"
+        ],
+        "Cross-cutting themes & skills": [
+            "Human rights and equality"
+        ],
+        "Policy theme": [
+            "Access and equity",
+            "Innovation and technology policies",
+            "Inclusion and diversity"
+        ],
+        "Stakeholder focus": [
+            "International organizations and donors"
+        ]
+    },
+    {
+        "text_en": "Recalling that it is essential to understand the ways in which people of different genders, different ages, different socio-economic circumstances and organizations acquire the potential to better develop the capacities for entrepreneurship and cooperative development,",
+        "text_fr": "Rappelant qu'il  est  essentiel  de  comprendre  les  moyens  par  lesquels  des personnes de sexe différent, d'âge différent, de situation socioéconomique différente et  les  organisations  acquièrent  le  potentiel  nécessaire  pour  mieux  développer  les capacités d'entreprenariat et de développement coopératif,",
+        "dimensions": [
+            "Learner population",
+            "Subject domain",
+            "Cross-cutting themes & skills"
+        ],
+        "type": "",
+        "Learner population": [
+            "All learners",
+            "Women and girls",
+            "Low-income and disadvantaged groups"
+        ],
+        "Subject domain": [
+            "Social sciences and humanities",
+            "Vocational and technical skills"
+        ],
+        "Cross-cutting themes & skills": [
+            "Human rights and equality",
+            "Entrepreneurship and business skills",
+            "Inclusive education and special needs"
+        ]
+    },
+    {
+        "text_en": "Decides to make the following recommendations to Governments, the Commission on Science and Technology for Development and the United Nations Conference on Trade and Development:",
+        "text_fr": "Décide de formuler  les  recommandations  suivantes  à  l'intention  des gouvernements,  de  la  Commission  de  la  science  et  de  la  technique  au  service  du développement  et  de  la  Conférence  des  Nations  Unies  sur  le  commerce  et  le développement :",
+        "dimensions": [
+            "Policy theme",
+            "Stakeholder focus"
+        ],
+        "type": "",
+        "Policy theme": [
+            "Governance and planning",
+            "Innovation and technology policies",
+            "International cooperation and partnerships",
+            "Sustainable development and environment"
+        ],
+        "Stakeholder focus": [
+            "Government and policy makers",
+            "International organizations and donors"
+        ]
+    },
+    {
+        "text_en": "( a ) Governments, individually and collectively, are encouraged to take into account the findings of the Commission and to take the following measures:",
+        "text_fr": "a ) Les gouvernements, individuellement et collectivement, sont encouragés à  tenir  compte  des  conclusions  de  la  Commission  et  à  prendre  les  mesures suivantes :",
+        "dimensions": [
+            "Policy theme",
+            "Education system monitoring & evaluation",
+            "Stakeholder focus"
+        ],
+        "type": "",
+        "Policy theme": [],
+        "Education system monitoring & evaluation": [],
+        "Stakeholder focus": [
+            "Government and policy makers"
+        ]
+    },
+    {
+        "text_en": "(i) Promote the development of ICT platforms bringing together national universities and research institutions in international research networks and to take advantage of the opportunities offered by joint learning;",
+        "text_fr": "i) Promouvoir le développement de plates-formes télématiques rassemblant les  universités  et  les  instituts  de  recherche  nationaux  dans  des  réseaux internationaux  de  recherche  et  pour  qu'ils  profitent  des  possibilités  qu'offre l'apprentissage en commun ;",
+        "dimensions": [
+            "Education level",
+            "Learning modality",
+            "Ownership/Provision",
+            "Infrastructure & resources",
+            "Pedagogy & assessment",
+            "Policy theme",
+            "Stakeholder focus",
+            "Learner population"
+        ],
+        "type": "",
+        "Education level": [
+            "Higher education unspecified"
+        ],
+        "Learning modality": [
+            "Formal education",
+            "Lifelong learning"
+        ],
+        "Ownership/Provision": [
+            "Public (state-run)"
+        ],
+        "Infrastructure & resources": [
+            "ICT and digital infrastructure"
+        ],
+        "Pedagogy & assessment": [
+            "Teaching methods and approaches",
+            "Technology-supported pedagogy"
+        ],
+        "Policy theme": [
+            "Innovation and technology policies",
+            "International cooperation and partnerships",
+            "Quality and learning outcomes"
+        ],
+        "Stakeholder focus": [
+            "Teachers and educators",
+            "Learners and students"
+        ],
+        "Learner population": [
+            "Adults and lifelong learners"
+        ]
+    },
+    {
+        "text_en": "(ii) Ensure that governance mechanisms and multilateral standard-setting bodies in the information and communications technology sector and global networks function well in a democratic, equitable and coherent manner, with the effective participation of developing countries;",
+        "text_fr": "ii) S'assurer que les mécanismes  de  gouvernance  et les organes multilatéraux de normalisation dans le secteur des  technologies de l'information  et  des  communications  et  les  réseaux mondiaux  fonctionnent bien  de  façon  démocratique,  équitable  et  cohérente,  avec  la  participation effective des pays en développement ;",
+        "dimensions": [
+            "Cross-cutting themes & skills",
+            "Policy theme",
+            "Legal frameworks",
+            "Stakeholder focus"
+        ],
+        "type": "",
+        "Cross-cutting themes & skills": [
+            "Citizenship and civic education",
+            "Global citizenship and peace education",
+            "Human rights and equality",
+            "Digital and ICT literacy"
+        ],
+        "Policy theme": [
+            "Access and equity",
+            "Governance and planning",
+            "Innovation and technology policies",
+            "International cooperation and partnerships"
+        ],
+        "Legal frameworks": [
+            "International conventions and treaties",
+            "Policy implementation and enforcement",
+            "Rights and obligations of stakeholders"
+        ],
+        "Stakeholder focus": [
+            "Government and policy makers",
+            "Private sector and industry",
+            "International organizations and donors"
+        ]
+    },
+    {
+        "text_en": "(iii) To promote national policies to encourage the use of information and communications technologies, in particular policies tailored to local needs, and to establish programmes to improve human resources in this area;",
+        "text_fr": "iii) Promouvoir  des  politiques  nationales  tendant  à  encourager  l'utilisation des  technologies  de  l'information  et  des  communications,  en  particulier  les politiques adaptées aux besoins locaux, et établir  des programmes d'amélioration des ressources humaines dans ce domaine ;",
+        "dimensions": [
+            "Policy theme",
+            "Infrastructure & resources",
+            "Subject domain",
+            "Cross-cutting themes & skills"
+        ],
+        "type": "",
+        "Policy theme": [
+            "Teachers and workforce policies",
+            "Innovation and technology policies"
+        ],
+        "Infrastructure & resources": [
+            "ICT and digital infrastructure"
+        ],
+        "Subject domain": [
+            "Science and technology (STEM)",
+            "Vocational and technical skills"
+        ],
+        "Cross-cutting themes & skills": [
+            "Digital and ICT literacy"
+        ]
+    },
+    {
+        "text_en": "(iv) Encourage partnerships with other actors to address basic infrastructure constraints, such as electricity distribution and other public services, which limit access to and use of information technology resources, paying special attention to locally adapted solutions that can be replicated at the regional level;",
+        "text_fr": "iv) Encourager les  partenariats conclus avec d'autres  acteurs pour remédier aux  contraintes  infrastructurelles  élémentaires  concernant,  par  exemple,  la distribution  d'électricité  et  les  autres  services  publics,  qui  ont  pour  effet  de limiter  l'accès  aux  ressources  informatiques  et  à  leur  utilisation,  en  prêtant spécialement  attention  aux  solutions  adaptées  localement  qui  peuvent  être reproduites à l'échelle régionale ;",
+        "dimensions": [
+            "Infrastructure & resources",
+            "Policy theme",
+            "Stakeholder focus"
+        ],
+        "type": "",
+        "Infrastructure & resources": [
+            "ICT and digital infrastructure"
+        ],
+        "Policy theme": [
+            "Access and equity",
+            "Innovation and technology policies",
+            "International cooperation and partnerships"
+        ],
+        "Stakeholder focus": [
+            "Government and policy makers",
+            "Private sector and industry"
+        ]
+    },
+    {
+        "text_en": "(v) Collaborate to address the \"content divide\" by exploring ways to increase access to online scientific publications and access in local languages;",
+        "text_fr": "v) Collaborer  pour  remédier  à  la  « fracture  du  contenu »  en  étudiant  les moyens  d'accroître  l'accès  aux  publications  scientifiques  en  ligne  et  l'accès dans les langues locales ;",
+        "dimensions": [
+            "Infrastructure & resources",
+            "Curriculum",
+            "Pedagogy & assessment",
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme"
+        ],
+        "type": "",
+        "Infrastructure & resources": [
+            "Teaching and learning materials",
+            "ICT and digital infrastructure"
+        ],
+        "Curriculum": [
+            "Design and development",
+            "Content and learning areas"
+        ],
+        "Pedagogy & assessment": [
+            "Technology-supported pedagogy",
+            "Other pedagogy related issue"
+        ],
+        "Subject domain": [
+            "Literacy and language",
+            "Science and technology (STEM)"
+        ],
+        "Cross-cutting themes & skills": [
+            "Human rights and equality",
+            "Digital and ICT literacy",
+            "Inclusive education and special needs"
+        ],
+        "Policy theme": [
+            "Access and equity",
+            "Innovation and technology policies",
+            "Inclusion and diversity"
+        ]
+    },
+    {
+        "text_en": "(vi) Encourage national research foundations and institutions to make research results and data available in the public domain so that their access is free, open and easy;",
+        "text_fr": "vi) Encourager les fondations et organismes nationaux de recherche à mettre dans  le  domaine  public  les  résultats  de  la  recherche  et  les  données  de façon que leur accès soit libre, ouvert et facile ;",
+        "dimensions": [
+            "Infrastructure & resources",
+            "Policy theme"
+        ],
+        "type": "",
+        "Infrastructure & resources": [
+            "ICT and digital infrastructure"
+        ],
+        "Policy theme": [
+            "Access and equity",
+            "Accountability and transparency"
+        ]
+    },
+    {
+        "text_en": "(vii) Also encourage international collaboration in the dissemination of digitized publications resulting from publicly funded research, making them available free of charge and easily accessible;",
+        "text_fr": "vii) Encourager également une collaboration internationale dans  la diffusion de publications numérisées résultant de recherches financées sur fonds publics, en les mettant gratuitement en ligne et en les rendant facilement accessibles ;",
+        "dimensions": [
+            "Ownership/Provision",
+            "Infrastructure & resources",
+            "Cross-cutting themes & skills",
+            "Policy theme"
+        ],
+        "type": "",
+        "Ownership/Provision": [
+            "Public (state-run)"
+        ],
+        "Infrastructure & resources": [
+            "ICT and digital infrastructure"
+        ],
+        "Cross-cutting themes & skills": [
+            "Human rights and equality",
+            "Digital and ICT literacy",
+            "Inclusive education and special needs"
+        ],
+        "Policy theme": [
+            "Access and equity",
+            "Innovation and technology policies",
+            "International cooperation and partnerships"
+        ]
+    },
+    {
+        "text_en": "(viii) Further encourage, in particular with other actors, the logistical and financial viability of virtual scientific libraries, including those that provide a forum to facilitate networking of scientists across borders and an integrated research capacity in all available online publications;",
+        "text_fr": "viii)  Encourager  en  outre,  en  particulier  avec  d'autres  acteurs,  la  viabilité logistique  et  financière  des  bibliothèques  scientifiques  virtuelles,  notamment celles  qui  offrent  une  tribune  pour  faciliter  la  constitution  de  réseaux  de scientifiques à travers les frontières et une capacité intégrée de recherche dans l'ensemble des publications en ligne disponibles ;",
+        "dimensions": [
+            "Learning modality",
+            "Ownership/Provision",
+            "Infrastructure & resources",
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme",
+            "Stakeholder focus"
+        ],
+        "type": "",
+        "Learning modality": [
+            "Informal learning",
+            "Lifelong learning"
+        ],
+        "Ownership/Provision": [],
+        "Infrastructure & resources": [
+            "ICT and digital infrastructure",
+            "Laboratories and libraries"
+        ],
+        "Subject domain": [
+            "Science and technology (STEM)"
+        ],
+        "Cross-cutting themes & skills": [
+            "Digital and ICT literacy",
+            "Life skills and 21st century competencies"
+        ],
+        "Policy theme": [
+            "Access and equity",
+            "Financing and resource mobilization",
+            "Innovation and technology policies",
+            "International cooperation and partnerships"
+        ],
+        "Stakeholder focus": [
+            "Other"
+        ]
+    },
+    {
+        "text_en": "(ix) Encourage the formation of national research and education networks that facilitate the creation of networks of scientists, improve the collective purchasing power of online scientific research services, including access to periodic scientific publications, and thus result in the pooling of scarce resources;",
+        "text_fr": "ix) Encourager  la  formation  de  réseaux  de  recherche  et  d'éducation nationaux  qui  facilitent  la  création  de  réseaux  réunissant  des  scientifiques, améliorent  le  pouvoir  d'achat  collectif  des  services  de  recherche  scientifique en  ligne,  notamment  l'accès  aux  publications  scientifiques  périodiques,  et aboutissent ainsi à la mise en commun de ressources rares ;",
+        "dimensions": [
+            "Infrastructure & resources",
+            "Subject domain",
+            "Policy theme",
+            "Stakeholder focus"
+        ],
+        "type": "",
+        "Infrastructure & resources": [
+            "Teaching and learning materials",
+            "ICT and digital infrastructure"
+        ],
+        "Subject domain": [
+            "Science and technology (STEM)"
+        ],
+        "Policy theme": [
+            "Access and equity",
+            "Governance and planning",
+            "Financing and resource mobilization",
+            "Innovation and technology policies"
+        ],
+        "Stakeholder focus": [
+            "Government and policy makers",
+            "Teachers and educators",
+            "Learners and students"
+        ]
+    },
+    {
+        "text_en": "(x) Strengthen secondary and post-secondary education programmes to better integrate geographic information systems and basic concepts of geography, which enrich geospatial reflection, into national curricula, by assisting teachers through training to better integrate geographic information systems, geography and geospatial reflection into their professional careers;",
+        "text_fr": "x) Renforcer  les  programmes  d'enseignement  secondaire  et  postsecondaire pour  mieux  intégrer  les  systèmes  d'information  géographique  et  les  concepts fondamentaux de la géographie, qui enrichissent la réflexion géospatiale, dans des  programmes  d'enseignement  nationaux,  en  aidant  les  enseignants,  par  la formation,  à  mieux  intégrer  les  systèmes  d'information  géographique,  la géographie et la réflexion géospatiale dans leur carrière professionnelle ;",
+        "dimensions": [
+            "Education level",
+            "Teachers",
+            "Curriculum",
+            "Subject domain"
+        ],
+        "type": "",
+        "Education level": [
+            "Secondary education unspecified",
+            "Post-secondary non-tertiary"
+        ],
+        "Teachers": [
+            "Professional development"
+        ],
+        "Curriculum": [
+            "Design and development",
+            "Content and learning areas",
+            "Curriculum implementation"
+        ],
+        "Subject domain": [
+            "Science and technology (STEM)",
+            "Social sciences and humanities",
+            "Vocational and technical skills"
+        ]
+    },
+    {
+        "text_en": "(xi) Establish bodies dedicated to the acquisition, retention and dissemination of geographical data, including remote sensing data, to improve the dissemination of geographical information system data for public use at the lowest cost;",
+        "text_fr": "xi) Créer  des  organes  se  consacrant  à  l'obtention,  la  conservation  et  la diffusion  de  données  géographiques,  notamment  de  données  de télédétection, pour  mieux diffuser les données des systèmes d'information géographique en vue d'une utilisation publique au moindre coût ;",
+        "dimensions": [
+            "Infrastructure & resources",
+            "Subject domain",
+            "Policy theme",
+            "Stakeholder focus"
+        ],
+        "type": "",
+        "Infrastructure & resources": [
+            "ICT and digital infrastructure"
+        ],
+        "Subject domain": [
+            "Science and technology (STEM)"
+        ],
+        "Policy theme": [
+            "Access and equity",
+            "Governance and planning",
+            "Innovation and technology policies"
+        ],
+        "Stakeholder focus": [
+            "Government and policy makers"
+        ]
+    },
+    {
+        "text_en": "(xii) Engage the private sector in a greater openness of technology to geospatial data, for example through collaboration between public bodies such as public administrations and libraries and private companies to index geospatial information and thereby facilitate research and online access;",
+        "text_fr": "xii) Faire  participer  le  secteur  privé  à  une  plus grande  ouverture  de  la technologie aux données géospatiales, par exemple par une collaboration entre, les  organismes publics tels  que les  administrations  et  bibliothèques  publiques et  les  entreprises privées pour indexer l'information géospatiale et en faciliter ainsi la recherche et l'accès en ligne ;",
+        "dimensions": [
+            "Ownership/Provision",
+            "Infrastructure & resources",
+            "Subject domain",
+            "Policy theme",
+            "Stakeholder focus"
+        ],
+        "type": "",
+        "Ownership/Provision": [
+            "Public (state-run)",
+            "Private for-profit",
+            "Public-private partnership (PPP)"
+        ],
+        "Infrastructure & resources": [
+            "ICT and digital infrastructure",
+            "Laboratories and libraries"
+        ],
+        "Subject domain": [
+            "Science and technology (STEM)"
+        ],
+        "Policy theme": [
+            "Access and equity",
+            "Governance and planning",
+            "Innovation and technology policies"
+        ],
+        "Stakeholder focus": [
+            "Private sector and industry",
+            "Government and policy makers"
+        ]
+    },
+    {
+        "text_en": "(xiii) Promote the dissemination of successful experiences, including innovations in the face of constraints, to encourage a culture of innovation through mechanisms such as price distribution and press campaigns;",
+        "text_fr": "xiii)  Promouvoir la diffusion d'expériences réussies, notamment d'innovations face aux contraintes, pour encourager une culture de l'innovation  par  des  mécanismes  tels  que  la  distribution  de  prix  et  des campagnes de presse ;",
+        "dimensions": [
+            "Education orientation",
+            "Cross-cutting themes & skills",
+            "Policy theme"
+        ],
+        "type": "",
+        "Education orientation": [],
+        "Cross-cutting themes & skills": [
+            "Entrepreneurship and business skills",
+            "Life skills and 21st century competencies"
+        ],
+        "Policy theme": [
+            "Innovation and technology policies"
+        ]
+    },
+    {
+        "text_en": "(xiv) Encourage and support efforts to facilitate the acquisition of knowledge and capacity-building in enterprise and industry through the creation of an enabling environment;",
+        "text_fr": "xiv)  Encourager  et  soutenir  les  efforts  visant  à  faciliter  l'acquisition  de connaissances  et  le  développement  des  capacités  dans  l'entreprise  et  dans  le secteur industriel par l'instauration d'un environnement favorable ;",
+        "dimensions": [
+            "Education orientation",
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme",
+            "Stakeholder focus",
+            "Learner population"
+        ],
+        "type": "",
+        "Education orientation": [
+            "Vocational/technical (TVET)"
+        ],
+        "Subject domain": [
+            "Social sciences and humanities",
+            "Vocational and technical skills"
+        ],
+        "Cross-cutting themes & skills": [
+            "Entrepreneurship and business skills",
+            "Life skills and 21st century competencies"
+        ],
+        "Policy theme": [
+            "Quality and learning outcomes",
+            "Governance and planning",
+            "Teachers and workforce policies",
+            "Lifelong learning and adult education"
+        ],
+        "Stakeholder focus": [
+            "Private sector and industry"
+        ],
+        "Learner population": [
+            "Adults and lifelong learners"
+        ]
+    },
+    {
+        "text_en": "(xv) Encourage scientific research and study institutes in their countries, particularly in developed countries, to collaborate with their counterparts in other countries, including least developed countries;",
+        "text_fr": "xv) Encourager les instituts d'études et de recherches scientifiques dans leur pays,  en  particulier  dans  les  pays  développés,  à  collaborer  avec  leurs homologues d'autres pays, notamment des pays les moins avancés ;",
+        "dimensions": [
+            "Education level",
+            "Education orientation",
+            "Subject domain",
+            "Policy theme",
+            "Stakeholder focus"
+        ],
+        "type": "",
+        "Education level": [
+            "Master or equivalent",
+            "Doctoral or equivalent",
+            "Higher education unspecified"
+        ],
+        "Education orientation": [
+            "General (academic)"
+        ],
+        "Subject domain": [
+            "Science and technology (STEM)"
+        ],
+        "Policy theme": [
+            "International cooperation and partnerships"
+        ],
+        "Stakeholder focus": [
+            "Other"
+        ]
+    },
+    {
+        "text_en": "(xvi) Recognize the need for adequate funding and resources for science and technology, in particular in developing countries;",
+        "text_fr": "xvi)  Constater  qu'il  faut  prévoir  un  financement  et  des  ressources  adéquats pour  la science et la technologie, en particulier dans  les pays  en développement ;",
+        "dimensions": [
+            "Infrastructure & resources",
+            "Subject domain",
+            "Policy theme",
+            "Stakeholder focus"
+        ],
+        "type": "",
+        "Infrastructure & resources": [
+            "School buildings and physical infrastructure",
+            "Teaching and learning materials",
+            "ICT and digital infrastructure",
+            "Laboratories and libraries"
+        ],
+        "Subject domain": [
+            "Science and technology (STEM)"
+        ],
+        "Policy theme": [
+            "Financing and resource mobilization"
+        ],
+        "Stakeholder focus": [
+            "Government and policy makers",
+            "Civil society and NGOs",
+            "Private sector and industry",
+            "International organizations and donors"
+        ]
+    },
+    {
+        "text_en": "(xvii) Consider possible mechanisms for examining scientific research under the gender perspective, from the definition of the agenda to the design and implementation of projects, e.g. through the use of gender-based quotas and assessment tools;",
+        "text_fr": "xvii) Envisager  des  mécanismes  possibles  pour  examiner  la  recherche scientifique  sous  le  prisme  de  la  parité  des  sexes,  depuis  la  définition  de l'ordre du jour jusqu'à la conception et l'exécution de projets, par exemple par l'utilisation  de  quotas  et  de  moyens d'évaluation  faisant  une  distinction entre les sexes ;",
+        "dimensions": [
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme",
+            "Education system monitoring & evaluation"
+        ],
+        "type": "",
+        "Subject domain": [
+            "Science and technology (STEM)",
+            "Social sciences and humanities"
+        ],
+        "Cross-cutting themes & skills": [
+            "Human rights and equality"
+        ],
+        "Policy theme": [
+            "Access and equity",
+            "Quality and learning outcomes",
+            "Governance and planning",
+            "Inclusion and diversity",
+            "Accountability and transparency"
+        ],
+        "Education system monitoring & evaluation": [
+            "Quality assurance and accreditation"
+        ]
+    },
+    {
+        "text_en": "(b) The Commission and the United Nations Conference on Trade and Development are encouraged to:",
+        "text_fr": "b ) La Commission et la Conférence des Nations Unies sur le commerce et le développement sont encouragées à :",
+        "dimensions": [
+            "Policy theme",
+            "Stakeholder focus"
+        ],
+        "type": "",
+        "Policy theme": [],
+        "Stakeholder focus": [
+            "Government and policy makers",
+            "International organizations and donors"
+        ]
+    },
+    {
+        "text_en": "(i) With regard to the Commission, continue to be the flagship of innovation, to raise awareness among policy makers about innovation and to identify special opportunities for developing countries to benefit from innovation, with special attention to emerging trends in innovation that may offer new opportunities for developing countries, in particular for their small and medium-sized enterprises and individual entrepreneurs;",
+        "text_fr": "i) S'agissant  de  la  Commission,  continuer  à  être  le  porte-drapeau  de l'innovation, à susciter une prise de conscience chez les décideurs au sujet de l'innovation  et  à  dégager  des  possibilités  particulières,  pour  les  pays  en développement,  de  profiter  de  cette  innovation,  une  attention  spéciale  étant accordée  aux  tendances  émergentes  de  l'innovation  qui  peuvent  offrir  des possibilités  nouvelles  pour  les  pays  en  développement,  en  particulier  pour leurs petites et moyennes entreprises et leurs entrepreneurs individuels ;",
+        "dimensions": [
+            "Cross-cutting themes & skills",
+            "Policy theme",
+            "Stakeholder focus"
+        ],
+        "type": "",
+        "Cross-cutting themes & skills": [
+            "Financial and economic literacy",
+            "Entrepreneurship and business skills"
+        ],
+        "Policy theme": [
+            "Innovation and technology policies"
+        ],
+        "Stakeholder focus": [
+            "Government and policy makers",
+            "Private sector and industry"
+        ]
+    },
+    {
+        "text_en": "(ii) To share and analyse indices of capacity-building for innovation, particularly at the enterprise level, including small and medium-sized enterprises, in order to better understand the social and economic dimensions of these processes from the perspective of public policy-making;",
+        "text_fr": "ii) Partager  et  analyser  les  indices  d'un  développement  des  capacités d'innovation, en particulier au niveau de l'entreprise, notamment des petites et moyennes  entreprises,  pour  mieux  comprendre  les  dimensions  sociales  et économiques  de  ces  processus  dans  l'optique  de  l'élaboration  de  politiques publiques ;",
+        "dimensions": [
+            "Cross-cutting themes & skills",
+            "Education system monitoring & evaluation",
+            "Learner population",
+            "Policy theme",
+            "Stakeholder focus"
+        ],
+        "type": "",
+        "Cross-cutting themes & skills": [
+            "Financial and economic literacy",
+            "Entrepreneurship and business skills"
+        ],
+        "Education system monitoring & evaluation": [
+            "Research and surveys"
+        ],
+        "Learner population": [
+            "Adults and lifelong learners"
+        ],
+        "Policy theme": [
+            "Innovation and technology policies"
+        ],
+        "Stakeholder focus": [
+            "Government and policy makers",
+            "Private sector and industry"
+        ]
+    },
+    {
+        "text_en": "(iii) To provide a forum for dialogue and the sharing of best practices and experiences in order to identify and recommend appropriate means and measures to promote innovation, research and development, the creation of new knowledge and the transfer of technology, as well as information and communications technologies for capacity-building in education, scientific and technological research and enterprise for the benefit of developing countries, and in this context to explore ways and means of expanding cooperation among all countries, including through the use of available resources;",
+        "text_fr": "iii) Offrir  une  tribune  pour  le  dialogue  et  pour  la  mise  en  commun  des pratiques  et  données  d'expérience  optimales  de  façon  à  identifier  et recommander  des  moyens  et  des  mesures  appropriées  de  promouvoir l'innovation,  la  recherche-développement,  la  création  de  connaissances nouvelles  et  le  transfert  de  technologie,  ainsi  que  des  technologies  de l'information  et  des  communications  pour  la  création  de  capacités  dans l'enseignement  et  la  recherche  scientifique et technologique  et  dans l'entreprise  pour  le  bien  des  pays  en  développement,  et,  dans  ce  contexte, explorer les moyens d'élargir la coopération entre tous les pays, notamment en mettant en ligne les ressources disponibles ;",
+        "dimensions": [
+            "Education orientation",
+            "Infrastructure & resources",
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme",
+            "Stakeholder focus",
+            "Learner population"
+        ],
+        "type": "",
+        "Education orientation": [
+            "General (academic)"
+        ],
+        "Infrastructure & resources": [
+            "ICT and digital infrastructure"
+        ],
+        "Subject domain": [
+            "Science and technology (STEM)",
+            "Vocational and technical skills"
+        ],
+        "Cross-cutting themes & skills": [
+            "Global citizenship and peace education",
+            "Digital and ICT literacy",
+            "Entrepreneurship and business skills",
+            "Life skills and 21st century competencies"
+        ],
+        "Policy theme": [
+            "Innovation and technology policies",
+            "International cooperation and partnerships"
+        ],
+        "Stakeholder focus": [
+            "Government and policy makers",
+            "Teachers and educators",
+            "Learners and students",
+            "Private sector and industry",
+            "International organizations and donors"
+        ],
+        "Learner population": []
+    },
+    {
+        "text_en": "(iv) Develop indicators to monitor the progress made by countries in implementing the recommendations contained in the science, technology and innovation policy reviews to develop those policies, follow up on other recommendations adopted by them and conduct periodic reviews of progress at the request of those countries;",
+        "text_fr": "iv) Mettre au point des indicateurs pour suivre les progrès accomplis par les pays dans l'application des recommandations consignées dans les examens des politiques  de  la  science,  de  la  technologie  et  de  l'innovation  pour  développer ces  politiques,  suivre  les  autres  recommandations  qu'ils  ont  adoptées  et  pour mener  à  la  demande  de  ces  pays  des  examens  périodiques  des  progrès accomplis ;",
+        "dimensions": [
+            "Policy theme",
+            "Subject domain",
+            "Stakeholder focus"
+        ],
+        "type": "",
+        "Policy theme": [
+            "Governance and planning",
+            "Innovation and technology policies",
+            "Accountability and transparency"
+        ],
+        "Subject domain": [
+            "Science and technology (STEM)"
+        ],
+        "Stakeholder focus": [
+            "Government and policy makers"
+        ]
+    },
+    {
+        "text_en": "(v) Encourage the Advisory Board on Gender Equality of the Commission to contribute to the discussions and documentation of the Commission, invite the Council to report on progress made at the annual sessions of the Commission, and consider including a gender perspective in science, technology and information policy reviews as appropriate.",
+        "text_fr": "v) Encourager  le  Conseil  consultatif  pour  l'égalité  des  sexes  de  la Commission à contribuer aux débats et à la documentation de la Commission, inviter  le  Conseil  à  rendre  compte  des  progrès  accomplis  lors  des  sessions annuelles  de  la  Commission,  et  envisager  d'intégrer  s'il  y  a  lieu  une perspective sexospécifique dans les examens des politiques de la science, de la technologie et de l'information.",
+        "dimensions": [
+            "Subject domain",
+            "Cross-cutting themes & skills",
+            "Policy theme",
+            "Education system monitoring & evaluation",
+            "Stakeholder focus"
+        ],
+        "type": "",
+        "Subject domain": [
+            "Science and technology (STEM)",
+            "Social sciences and humanities"
+        ],
+        "Cross-cutting themes & skills": [
+            "Human rights and equality"
+        ],
+        "Policy theme": [
+            "Inclusion and diversity",
+            "Innovation and technology policies"
+        ],
+        "Education system monitoring & evaluation": [],
+        "Stakeholder focus": [
+            "Government and policy makers"
+        ]
+    },
+    {
+        "text_en": "43rd plenary meeting 24 July 2012",
+        "text_fr": "43 e séance plénière 24 juillet 2012",
+        "dimensions": [],
+        "type": ""
+    }
+]
