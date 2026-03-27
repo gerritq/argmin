@@ -1,0 +1,399 @@
+Fri Mar 27 21:20:54 2026       
++---------------------------------------------------------------------------------------+
+| NVIDIA-SMI 535.288.01             Driver Version: 535.288.01   CUDA Version: 12.2     |
+|-----------------------------------------+----------------------+----------------------+
+| GPU  Name                 Persistence-M | Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp   Perf          Pwr:Usage/Cap |         Memory-Usage | GPU-Util  Compute M. |
+|                                         |                      |               MIG M. |
+|=========================================+======================+======================|
+|   0  NVIDIA A100-SXM4-40GB          On  | 00000000:17:00.0 Off |                    0 |
+| N/A   32C    P0              53W / 400W |      0MiB / 40960MiB |      0%      Default |
+|                                         |                      |             Disabled |
++-----------------------------------------+----------------------+----------------------+
+                                                                                         
++---------------------------------------------------------------------------------------+
+| Processes:                                                                            |
+|  GPU   GI   CI        PID   Type   Process name                            GPU Memory |
+|        ID   ID                                                             Usage      |
+|=======================================================================================|
+|  No running processes found                                                           |
++---------------------------------------------------------------------------------------+
+============================================================
+BEGIN HIGH-LEVEL DEBATE: The Conference 1) Notes that the issue of compulsory schooli...
+============================================================
+
+TURN 1 AGENT Agent A SUMMARY:
+
+ 
+============================================================
+PROPOSAL: ['Policy theme', 'Legal frameworks', 'Education system monitoring & evaluation']
+ORCHESTRATOR RESULT: {'summary': 'The debate focused on the variability of compulsory schooling across countries and the lack of a universal recommendation. Key topics included policy themes, legal frameworks, and education system monitoring.', 'continue': False, 'selection': ['Policy theme', 'Legal frameworks', 'Education system monitoring & evaluation']}
+
+TURN 1 AGENT Agent B SUMMARY:
+The debate focused on the variability of compulsory schooling across countries and the lack of a universal recommendation. Key topics included policy themes, legal frameworks, and education system monitoring.
+ 
+============================================================
+PROPOSAL: ['Policy theme', 'Legal frameworks', 'Education system monitoring & evaluation']
+ORCHESTRATOR RESULT: {'summary': 'The debate highlighted the variability of compulsory schooling across countries and the absence of a universal recommendation. Key areas discussed included policy themes, legal frameworks, and education system monitoring.', 'continue': False, 'selection': ['Policy theme', 'Legal frameworks', 'Education system monitoring & evaluation']}
+
+TURN 2 AGENT Agent A SUMMARY:
+The debate highlighted the variability of compulsory schooling across countries and the absence of a universal recommendation. Key areas discussed included policy themes, legal frameworks, and education system monitoring.
+ 
+============================================================
+PROPOSAL: ['Policy theme', 'Legal frameworks', 'Education system monitoring & evaluation', 'Cross-cutting themes & skills', 'Education orientation']
+ORCHESTRATOR RESULT: {'summary': 'The debate emphasized the variability of compulsory schooling across countries and the lack of a universal recommendation. Key areas included policy themes, legal frameworks, education system monitoring, cross-cutting themes, and education orientation.', 'continue': False, 'selection': ['Policy theme', 'Legal frameworks', 'Education system monitoring & evaluation', 'Cross-cutting themes & skills', 'Education orientation']}
+============================================================
+BEGIN LOW-LEVEL DEBATE: The Conference 1) Notes that the issue of compulsory schooli...
+============================================================
+
+TURN 1 AGENT Agent A SUMMARY:
+
+ 
+PROPOSAL: ['Access and equity', 'Governance and planning', 'Financing and resource mobilization', 'Innovation and technology policies', 'International cooperation and partnerships', 'Other policy theme']
+============================================================
+BEGIN LOW-LEVEL DEBATE: The Conference 1) Notes that the issue of compulsory schooli...
+============================================================
+
+TURN 1 AGENT Agent A SUMMARY:
+
+ 
+PROPOSAL: ['Education laws and regulations', 'International conventions and treaties', 'Policy implementation and enforcement']
+
+TURN 1 AGENT Agent B SUMMARY:
+The debate focused on the variability of compulsory schooling across countries and the lack of a universal recommendation. The discussion highlighted the need to consider different legal and policy frameworks.
+ 
+PROPOSAL: ['Education laws and regulations', 'International conventions and treaties', 'Policy implementation and enforcement']
+============================================================
+BEGIN LOW-LEVEL DEBATE: The Conference 1) Notes that the issue of compulsory schooli...
+============================================================
+
+TURN 1 AGENT Agent A SUMMARY:
+
+ 
+PROPOSAL: ['Education statistics and indicators', 'EMIS and data systems', 'Research and surveys']
+============================================================
+BEGIN LOW-LEVEL DEBATE: The Conference 1) Notes that the issue of compulsory schooli...
+============================================================
+
+TURN 1 AGENT Agent A SUMMARY:
+
+ 
+PROPOSAL: ['Other cross-cutting theme']
+============================================================
+BEGIN LOW-LEVEL DEBATE: The Conference 1) Notes that the issue of compulsory schooli...
+============================================================
+
+TURN 1 AGENT Agent A SUMMARY:
+
+ 
+PROPOSAL: ['General (academic)']
+
+TURN 1 AGENT Agent B SUMMARY:
+The debate acknowledged that compulsory schooling and its extension vary significantly across countries, making a universal recommendation challenging. The previous selection was 'General (academic)'.
+ 
+PROPOSAL: ['General (academic)']
+============================================================
+BEGIN HIGH-LEVEL DEBATE: 2) Recognizes that in countries where the number of schools ...
+============================================================
+
+TURN 1 AGENT Agent A SUMMARY:
+
+ 
+============================================================
+PROPOSAL: ['Policy theme', 'Education system monitoring & evaluation', 'Cross-cutting themes & skills']
+ORCHESTRATOR RESULT: {'summary': 'The debate focused on the importance of ensuring equitable access to schooling, particularly in regions where school numbers lag behind the school-age population. Key discussions revolved around policy frameworks, educational monitoring, and cross-cutting themes like equity and accessibility. The previous selection included Policy theme, Education system monitoring & evaluation, and Cross-cutting themes & skills.', 'continue': False, 'selection': ['Policy theme', 'Education system monitoring & evaluation', 'Cross-cutting themes & skills']}
+
+TURN 1 AGENT Agent B SUMMARY:
+The debate focused on the importance of ensuring equitable access to schooling, particularly in regions where school numbers lag behind the school-age population. Key discussions revolved around policy frameworks, educational monitoring, and cross-cutting themes like equity and accessibility. The previous selection included Policy theme, Education system monitoring & evaluation, and Cross-cutting themes & skills.
+ 
+============================================================
+PROPOSAL: ['Policy theme', 'Education system monitoring & evaluation', 'Cross-cutting themes & skills']
+ORCHESTRATOR RESULT: {'summary': 'The debate emphasized the need to address equitable access to education in under-resourced regions, focusing on policy frameworks, system monitoring, and cross-cutting themes like equity. The discussion highlighted the shift from expanding school numbers to ensuring minimum years of schooling for all children.', 'continue': False, 'selection': ['Policy theme', 'Education system monitoring & evaluation', 'Cross-cutting themes & skills']}
+
+TURN 2 AGENT Agent A SUMMARY:
+The debate emphasized the need to address equitable access to education in under-resourced regions, focusing on policy frameworks, system monitoring, and cross-cutting themes like equity. The discussion highlighted the shift from expanding school numbers to ensuring minimum years of schooling for all children.
+ 
+============================================================
+PROPOSAL: ['Policy theme', 'Education system monitoring & evaluation', 'Cross-cutting themes & skills', 'Learner population', 'Education orientation']
+ORCHESTRATOR RESULT: {'summary': 'The debate focused on equitable access to education, emphasizing policy frameworks, system monitoring, and cross-cutting themes like equity. The key issue is ensuring all children have access to a minimum number of years of schooling, rather than simply increasing school numbers.', 'continue': False, 'selection': ['Policy theme', 'Education system monitoring & evaluation', 'Cross-cutting themes & skills', 'Learner population', 'Education orientation']}
+============================================================
+BEGIN LOW-LEVEL DEBATE: 2) Recognizes that in countries where the number of schools ...
+============================================================
+
+TURN 1 AGENT Agent A SUMMARY:
+
+ 
+PROPOSAL: ['Access and equity', 'Governance and planning', 'Financing and resource mobilization', 'Other policy theme']
+============================================================
+BEGIN LOW-LEVEL DEBATE: 2) Recognizes that in countries where the number of schools ...
+============================================================
+
+TURN 1 AGENT Agent A SUMMARY:
+
+ 
+PROPOSAL: ['Education statistics and indicators', 'EMIS and data systems', 'Institutional evaluation and inspection']
+============================================================
+BEGIN LOW-LEVEL DEBATE: 2) Recognizes that in countries where the number of schools ...
+============================================================
+
+TURN 1 AGENT Agent A SUMMARY:
+
+ 
+PROPOSAL: ['Inclusive education and special needs', 'Other cross-cutting theme']
+============================================================
+BEGIN LOW-LEVEL DEBATE: 2) Recognizes that in countries where the number of schools ...
+============================================================
+
+TURN 1 AGENT Agent A SUMMARY:
+
+ 
+PROPOSAL: ['Children (0-17)']
+============================================================
+BEGIN LOW-LEVEL DEBATE: 2) Recognizes that in countries where the number of schools ...
+============================================================
+
+TURN 1 AGENT Agent A SUMMARY:
+
+ 
+PROPOSAL: ['General (academic)']
+
+TURN 1 AGENT Agent B SUMMARY:
+The debate focused on the distinction between extending schooling and ensuring access to a minimum number of years of education in under-served regions. The key issue is whether the priority should be expanding school numbers or guaranteeing minimum educational duration.
+ 
+PROPOSAL: ['General (academic)']
+
+TURN 2 AGENT Agent A SUMMARY:
+The debate centered on whether prioritizing school expansion or ensuring minimum educational duration is more critical in under-served regions. Agent B labeled the issue as 'General (academic)', but the discussion highlighted nuances between academic and vocational education needs.
+ 
+PROPOSAL: ['General (academic)', 'Vocational/technical (TVET)']
+
+TURN 2 AGENT Agent B SUMMARY:
+The debate focused on balancing school expansion with ensuring minimum educational duration, with nuances between academic and vocational needs. Agent B's 'General (academic)' label was challenged by the discussion on vocational/technical (TVET) relevance.
+ 
+PROPOSAL: ['General (academic)', 'Vocational/technical (TVET)']
+============================================================
+BEGIN HIGH-LEVEL DEBATE: 3) While acknowledging that the number of compulsory school ...
+============================================================
+
+TURN 1 AGENT Agent A SUMMARY:
+
+ 
+============================================================
+PROPOSAL: ['Education level', 'Policy theme', 'Legal frameworks']
+ORCHESTRATOR RESULT: {'summary': 'The paragraph emphasizes the importance of a minimum of seven years of compulsory schooling, highlighting it as a policy goal and noting its alignment with existing legal frameworks. It focuses on education level and policy themes.', 'continue': False, 'selection': ['Education level', 'Policy theme', 'Legal frameworks']}
+
+TURN 1 AGENT Agent B SUMMARY:
+The paragraph emphasizes the importance of a minimum of seven years of compulsory schooling, highlighting it as a policy goal and noting its alignment with existing legal frameworks. It focuses on education level and policy themes.
+ 
+============================================================
+PROPOSAL: ['Education level', 'Policy theme', 'Legal frameworks']
+ORCHESTRATOR RESULT: {'summary': 'The paragraph underscores the importance of a minimum seven-year compulsory schooling requirement, framing it as a policy objective and aligning it with legal frameworks. It focuses on education level, policy themes, and legal frameworks.', 'continue': False, 'selection': ['Education level', 'Policy theme', 'Legal frameworks']}
+
+TURN 2 AGENT Agent A SUMMARY:
+The paragraph underscores the importance of a minimum seven-year compulsory schooling requirement, framing it as a policy objective and aligning it with legal frameworks. It focuses on education level, policy themes, and legal frameworks.
+ 
+============================================================
+PROPOSAL: ['Education level', 'Policy theme', 'Legal frameworks', 'Cross-cutting themes & skills']
+ORCHESTRATOR RESULT: {'summary': 'The paragraph emphasizes the importance of a minimum seven-year compulsory schooling requirement, highlighting it as a policy objective aligned with legal frameworks and cross-cutting themes such as education level and systemic monitoring. The focus remains on policy, legal, and educational level considerations.', 'continue': False, 'selection': ['Education level', 'Policy theme', 'Legal frameworks', 'Cross-cutting themes & skills']}
+============================================================
+BEGIN LOW-LEVEL DEBATE: 3) While acknowledging that the number of compulsory school ...
+============================================================
+
+TURN 1 AGENT Agent A SUMMARY:
+
+ 
+PROPOSAL: ['Primary education (ISCED 1)']
+============================================================
+BEGIN LOW-LEVEL DEBATE: 3) While acknowledging that the number of compulsory school ...
+============================================================
+
+TURN 1 AGENT Agent A SUMMARY:
+
+ 
+PROPOSAL: ['Quality and learning outcomes', 'Other policy theme']
+============================================================
+BEGIN LOW-LEVEL DEBATE: 3) While acknowledging that the number of compulsory school ...
+============================================================
+
+TURN 1 AGENT Agent A SUMMARY:
+
+ 
+PROPOSAL: ['Education laws and regulations', 'International conventions and treaties']
+============================================================
+BEGIN LOW-LEVEL DEBATE: 3) While acknowledging that the number of compulsory school ...
+============================================================
+
+TURN 1 AGENT Agent A SUMMARY:
+
+ 
+PROPOSAL: ['Inclusive education and special needs', 'Other cross-cutting theme']
+============================================================
+BEGIN HIGH-LEVEL DEBATE: 4) Considers that the school leaving age should not be set b...
+============================================================
+
+TURN 1 AGENT Agent A SUMMARY:
+
+ 
+============================================================
+PROPOSAL: ['Policy theme', 'Legal frameworks', 'Education orientation']
+ORCHESTRATOR RESULT: {'summary': 'The debate focuses on the timing of school leaving age, emphasizing the need to ensure comprehensive child development before setting the age. Key points include policy considerations, legal frameworks, and educational orientation.', 'continue': False, 'selection': ['Policy theme', 'Legal frameworks', 'Education orientation']}
+
+TURN 1 AGENT Agent B SUMMARY:
+The debate focuses on the timing of school leaving age, emphasizing the need to ensure comprehensive child development before setting the age. Key points include policy considerations, legal frameworks, and educational orientation.
+ 
+============================================================
+PROPOSAL: ['Policy theme', 'Legal frameworks', 'Education orientation']
+ORCHESTRATOR RESULT: {'summary': "The debate centers on the timing of the school leaving age, advocating for it to be determined after ensuring the child's physical, intellectual, and moral development. Key aspects include policy themes, legal frameworks, and educational orientation.", 'continue': False, 'selection': ['Policy theme', 'Legal frameworks', 'Education orientation']}
+
+TURN 2 AGENT Agent A SUMMARY:
+The debate centers on the timing of the school leaving age, advocating for it to be determined after ensuring the child's physical, intellectual, and moral development. Key aspects include policy themes, legal frameworks, and educational orientation.
+ 
+============================================================
+PROPOSAL: ['Policy theme', 'Legal frameworks', 'Education orientation', 'Cross-cutting themes & skills']
+ORCHESTRATOR RESULT: {'summary': "The debate emphasizes the importance of ensuring a child's physical, intellectual, and moral development before setting the school leaving age, highlighting policy themes, legal frameworks, education orientation, and cross-cutting themes & skills.", 'continue': False, 'selection': ['Policy theme', 'Legal frameworks', 'Education orientation', 'Cross-cutting themes & skills']}
+============================================================
+BEGIN LOW-LEVEL DEBATE: 4) Considers that the school leaving age should not be set b...
+============================================================
+
+TURN 1 AGENT Agent A SUMMARY:
+
+ 
+PROPOSAL: ['Curriculum and pedagogy policies', 'Inclusion and diversity', 'Other policy theme']
+
+TURN 1 AGENT Agent B SUMMARY:
+The debate focused on the timing of school leaving age, emphasizing the need to ensure comprehensive child development before setting the age. The previous selection included Curriculum and pedagogy policies, Inclusion and diversity, and Other policy theme. The current debate aligns with these themes but may require further discussion on specific implementation details.
+ 
+PROPOSAL: ['Curriculum and pedagogy policies', 'Inclusion and diversity', 'Other policy theme']
+
+TURN 2 AGENT Agent A SUMMARY:
+The debate centers on the timing of the school leaving age, emphasizing the importance of ensuring comprehensive child development before setting the age. The previous selection included Curriculum and pedagogy policies, Inclusion and diversity, and Other policy theme, which align with the current discussion. Further clarification on how these policies intersect with the timing of leaving school may be necessary.
+ 
+PROPOSAL: ['Curriculum and pedagogy policies', 'Inclusion and diversity', 'Other policy theme', 'Governance and planning']
+
+TURN 2 AGENT Agent B SUMMARY:
+The debate focuses on the timing of the school leaving age, highlighting the need to ensure comprehensive child development before setting the age. Previous selections included Curriculum and pedagogy policies, Inclusion and diversity, and Other policy theme, which are relevant. Further clarification on how these policies intersect with the timing of leaving school is needed.
+ 
+PROPOSAL: ['Governance and planning', 'Curriculum and pedagogy policies']
+
+TURN 3 AGENT Agent A SUMMARY:
+The debate centers on determining the appropriate school leaving age, emphasizing the necessity of ensuring comprehensive child development—physical, intellectual, and moral—before setting this age. Previous selections included Curriculum and pedagogy policies, Inclusion and diversity, and Other policy theme, which are relevant. Further clarification on how these policies intersect with the timing of leaving school is needed.
+ 
+PROPOSAL: ['Governance and planning', 'Curriculum and pedagogy policies', 'Inclusion and diversity', 'Other policy theme']
+
+TURN 3 AGENT Agent B SUMMARY:
+The debate focuses on the school leaving age, emphasizing the need to ensure comprehensive child development before setting this age. Previous selections included Curriculum and pedagogy policies, Inclusion and diversity, and Other policy theme, which are relevant. Further clarification on how these policies intersect with the timing of leaving school is still needed.
+ 
+PROPOSAL: ['Governance and planning', 'Curriculum and pedagogy policies', 'Inclusion and diversity']
+============================================================
+BEGIN LOW-LEVEL DEBATE: 4) Considers that the school leaving age should not be set b...
+============================================================
+
+TURN 1 AGENT Agent A SUMMARY:
+
+ 
+PROPOSAL: ['Education laws and regulations', 'Rights and obligations of stakeholders']
+
+TURN 1 AGENT Agent B SUMMARY:
+The debate focuses on the timing of school leaving age, emphasizing the need to ensure comprehensive child development before setting the age. The previous selection included 'Education laws and regulations' and 'Rights and obligations of stakeholders'.
+ 
+PROPOSAL: ['Education laws and regulations', 'Rights and obligations of stakeholders']
+
+TURN 2 AGENT Agent A SUMMARY:
+The debate centers on the appropriate timing for setting the school leaving age, prioritizing the comprehensive development of children's physical, intellectual, and moral aspects. Previous selections focused on education laws and the rights of stakeholders.
+ 
+PROPOSAL: ['Constitution and fundamental rights', 'Education laws and regulations', 'International conventions and treaties', 'Rights and obligations of stakeholders']
+============================================================
+BEGIN LOW-LEVEL DEBATE: 4) Considers that the school leaving age should not be set b...
+============================================================
+
+TURN 1 AGENT Agent A SUMMARY:
+
+ 
+PROPOSAL: ['General (academic)']
+============================================================
+BEGIN LOW-LEVEL DEBATE: 4) Considers that the school leaving age should not be set b...
+============================================================
+
+TURN 1 AGENT Agent A SUMMARY:
+
+ 
+PROPOSAL: ['Other cross-cutting theme']
+
+TURN 1 AGENT Agent B SUMMARY:
+The debate focuses on ensuring comprehensive education before setting the school leaving age, emphasizing physical, intellectual, and moral development. The previous selection labeled it as 'Other cross-cutting theme', but the paragraph aligns more closely with 'Life skills and 21st century competencies' as it addresses holistic education. Further discussion is needed to clarify the primary focus.
+ 
+PROPOSAL: ['Life skills and 21st century competencies']
+
+TURN 2 AGENT Agent A SUMMARY:
+The debate centers on ensuring holistic child development—physical, intellectual, and moral—before determining the school leaving age. The previous label 'Other cross-cutting theme' was deemed too broad, and 'Life skills and 21st century competencies' better reflects the emphasis on comprehensive education. However, the paragraph's focus on foundational development may intersect with multiple themes.
+ 
+PROPOSAL: ['Life skills and 21st century competencies', 'Health and well-being education', 'Inclusive education and special needs', 'Human rights and equality', 'Sustainable development and climate action']
+
+TURN 2 AGENT Agent B SUMMARY:
+The debate focuses on ensuring comprehensive child development—physical, intellectual, and moral—before setting the school leaving age. The previous label 'Other cross-cutting theme' was replaced with 'Life skills and 21st century competencies' to emphasize holistic education. However, the paragraph's emphasis on foundational development may overlap with multiple themes such as health and well-being, human rights, and inclusive education.
+ 
+PROPOSAL: ['Life skills and 21st century competencies', 'Health and well-being education', 'Human rights and equality', 'Inclusive education and special needs']
+============================================================
+BEGIN HIGH-LEVEL DEBATE: 5) Draws the attention of Governments to the importance of e...
+============================================================
+
+TURN 1 AGENT Agent A SUMMARY:
+
+ 
+============================================================
+PROPOSAL: ['Policy theme', 'Legal frameworks', 'Education system monitoring & evaluation']
+ORCHESTRATOR RESULT: {'summary': 'The debate focused on the need for governments to prioritize compulsory schooling and sanctions, emphasizing the importance of supporting compliance through appropriate measures. The discussion highlighted policy themes, legal frameworks, and education system monitoring.', 'continue': False, 'selection': ['Policy theme', 'Legal frameworks', 'Education system monitoring & evaluation']}
+
+TURN 1 AGENT Agent B SUMMARY:
+The debate focused on the need for governments to prioritize compulsory schooling and sanctions, emphasizing the importance of supporting compliance through appropriate measures. The discussion highlighted policy themes, legal frameworks, and education system monitoring.
+ 
+============================================================
+PROPOSAL: ['Policy theme', 'Legal frameworks', 'Education system monitoring & evaluation']
+ORCHESTRATOR RESULT: {'summary': 'The debate emphasized the importance of governments ensuring compulsory schooling and sanctions are supported by measures enabling compliance, focusing on policy themes, legal frameworks, and education system monitoring.', 'continue': False, 'selection': ['Policy theme', 'Legal frameworks', 'Education system monitoring & evaluation']}
+
+TURN 2 AGENT Agent A SUMMARY:
+The debate emphasized the importance of governments ensuring compulsory schooling and sanctions are supported by measures enabling compliance, focusing on policy themes, legal frameworks, and education system monitoring.
+ 
+============================================================
+PROPOSAL: ['Policy theme', 'Legal frameworks', 'Education system monitoring & evaluation', 'Cross-cutting themes & skills', 'Stakeholder focus']
+ORCHESTRATOR RESULT: {'summary': 'The debate highlighted the need for governments to ensure compulsory schooling and sanctions are supported by measures enabling compliance, focusing on policy themes, legal frameworks, education system monitoring, cross-cutting themes, and stakeholder focus.', 'continue': False, 'selection': ['Policy theme', 'Legal frameworks', 'Education system monitoring & evaluation', 'Cross-cutting themes & skills', 'Stakeholder focus']}
+============================================================
+BEGIN LOW-LEVEL DEBATE: 5) Draws the attention of Governments to the importance of e...
+============================================================
+
+TURN 1 AGENT Agent A SUMMARY:
+
+ 
+PROPOSAL: ['Governance and planning', 'Accountability and transparency', 'Financing and resource mobilization']
+============================================================
+BEGIN LOW-LEVEL DEBATE: 5) Draws the attention of Governments to the importance of e...
+============================================================
+
+TURN 1 AGENT Agent A SUMMARY:
+
+ 
+PROPOSAL: ['Education laws and regulations', 'Policy implementation and enforcement', 'Rights and obligations of stakeholders']
+============================================================
+BEGIN LOW-LEVEL DEBATE: 5) Draws the attention of Governments to the importance of e...
+============================================================
+
+TURN 1 AGENT Agent A SUMMARY:
+
+ 
+PROPOSAL: ['Education statistics and indicators', 'EMIS and data systems', 'Institutional evaluation and inspection']
+============================================================
+BEGIN LOW-LEVEL DEBATE: 5) Draws the attention of Governments to the importance of e...
+============================================================
+
+TURN 1 AGENT Agent A SUMMARY:
+
+ 
+PROPOSAL: ['Other cross-cutting theme', 'Inclusive education and special needs', 'Sustainable development and climate action']
+============================================================
+BEGIN LOW-LEVEL DEBATE: 5) Draws the attention of Governments to the importance of e...
+============================================================
+
+TURN 1 AGENT Agent A SUMMARY:
+
+ 
+PROPOSAL: ['Government and policy makers']

@@ -6,77 +6,359 @@
     "paragraph": "The Conference 1) Notes that the issue of compulsory schooling and its extension presents itself in very different ways across various countries and that no comprehensive measure can currently be recommended.",
     "labels": {
       "high_level": [
-        "Education level",
-        "Education orientation",
-        "Learning modality",
-        "Infrastructure & resources",
-        "Curriculum",
-        "Pedagogy & assessment",
-        "Policy theme"
+        "Policy theme",
+        "Legal frameworks",
+        "Education system monitoring & evaluation",
+        "Cross-cutting themes & skills",
+        "Education orientation"
       ],
       "low_level": {
-        "Education level": [
-          {
-            "category": "Early childhood educational development (ISCED 01)",
-            "code": "ISC_01"
-          },
-          {
-            "category": "Pre-primary education (ISCED 02)",
-            "code": "ISC_02"
-          },
-          {
-            "category": "Primary education (ISCED 1)",
-            "code": "ISC_1"
-          },
-          {
-            "category": "Lower secondary education (ISCED 2)",
-            "code": "ISC_2"
-          },
-          {
-            "category": "Upper secondary education (ISCED 3)",
-            "code": "ISC_3"
-          },
-          {
-            "category": "Post-secondary non-tertiary (ISCED 4)",
-            "code": "ISC_4"
-          }
-        ],
-        "Education orientation": [],
-        "Learning modality": [],
-        "Infrastructure & resources": [
-          {
-            "category": "Laboratories and libraries",
-            "code": "INFRA_LABS"
-          },
-          {
-            "category": "Transport and boarding",
-            "code": "INFRA_TRANS"
-          }
-        ],
-        "Curriculum": [
-          {
-            "category": "Content and learning areas",
-            "code": "CUR_CONTENT"
-          },
-          {
-            "category": "Curriculum implementation",
-            "code": "CUR_IMPL"
-          }
-        ],
-        "Pedagogy & assessment": [
-          {
-            "category": "Assessment and feedback",
-            "code": "PEDAG_ASSESS"
-          }
-        ],
         "Policy theme": [
           {
             "category": "Access and equity",
             "code": "POL_EQUIT"
           },
           {
+            "category": "Governance and planning",
+            "code": "POL_GOV"
+          },
+          {
+            "category": "Financing and resource mobilization",
+            "code": "POL_FIN"
+          },
+          {
+            "category": "Innovation and technology policies",
+            "code": "POL_INNOV"
+          },
+          {
+            "category": "International cooperation and partnerships",
+            "code": "POL_INTCOOP"
+          },
+          {
+            "category": "Other policy theme",
+            "code": "POL_OTH"
+          }
+        ],
+        "Legal frameworks": [
+          {
+            "category": "Education laws and regulations",
+            "code": "LAW_REG"
+          },
+          {
+            "category": "International conventions and treaties",
+            "code": "LAW_INTER"
+          },
+          {
+            "category": "Policy implementation and enforcement",
+            "code": "LAW_IMPLEM"
+          }
+        ],
+        "Education system monitoring & evaluation": [
+          {
+            "category": "Education statistics and indicators",
+            "code": "SYST_STAT"
+          },
+          {
+            "category": "EMIS and data systems",
+            "code": "SYST_EMIS"
+          },
+          {
+            "category": "Research and surveys",
+            "code": "SYST_RESEAR"
+          }
+        ],
+        "Cross-cutting themes & skills": [
+          {
+            "category": "Other cross-cutting theme",
+            "code": "CCUT_OTH"
+          }
+        ],
+        "Education orientation": [
+          {
+            "category": "General (academic)",
+            "code": "O_G"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "TEXT_ID": "ICPE-03-1934_RES1-FR_res_1",
+    "TITLE": "LA SCOLARIT\u00c9 OBLIGATOIRE ET SA PROLONGATION",
+    "para_number": 2,
+    "paragraph": "2) Recognizes that in countries where the number of schools does not yet correspond to the school-age population, the issue is not so much extending schooling as ensuring that every child has the opportunity to attend school for a minimum specified number of years.",
+    "labels": {
+      "high_level": [
+        "Policy theme",
+        "Education system monitoring & evaluation",
+        "Cross-cutting themes & skills",
+        "Learner population",
+        "Education orientation"
+      ],
+      "low_level": {
+        "Policy theme": [
+          {
+            "category": "Access and equity",
+            "code": "POL_EQUIT"
+          },
+          {
+            "category": "Governance and planning",
+            "code": "POL_GOV"
+          },
+          {
+            "category": "Financing and resource mobilization",
+            "code": "POL_FIN"
+          },
+          {
+            "category": "Other policy theme",
+            "code": "POL_OTH"
+          }
+        ],
+        "Education system monitoring & evaluation": [
+          {
+            "category": "Education statistics and indicators",
+            "code": "SYST_STAT"
+          },
+          {
+            "category": "EMIS and data systems",
+            "code": "SYST_EMIS"
+          },
+          {
+            "category": "Institutional evaluation and inspection",
+            "code": "SYST_INST"
+          }
+        ],
+        "Cross-cutting themes & skills": [
+          {
+            "category": "Inclusive education and special needs",
+            "code": "CCUT_INCL"
+          },
+          {
+            "category": "Other cross-cutting theme",
+            "code": "CCUT_OTH"
+          }
+        ],
+        "Learner population": [
+          {
+            "category": "Children (0-17)",
+            "code": "POP_CHILD"
+          }
+        ],
+        "Education orientation": [
+          {
+            "category": "General (academic)",
+            "code": "O_G"
+          },
+          {
+            "category": "Vocational/technical (TVET)",
+            "code": "O_VET"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "TEXT_ID": "ICPE-03-1934_RES1-FR_res_1",
+    "TITLE": "LA SCOLARIT\u00c9 OBLIGATOIRE ET SA PROLONGATION",
+    "para_number": 3,
+    "paragraph": "3) While acknowledging that the number of compulsory school years may vary between countries, considers it desirable that the number of actual years of schooling should in no case be less than seven, and notes that this minimum is already exceeded in many countries.",
+    "labels": {
+      "high_level": [
+        "Education level",
+        "Policy theme",
+        "Legal frameworks",
+        "Cross-cutting themes & skills"
+      ],
+      "low_level": {
+        "Education level": [
+          {
+            "category": "Primary education (ISCED 1)",
+            "code": "ISC_1"
+          }
+        ],
+        "Policy theme": [
+          {
+            "category": "Quality and learning outcomes",
+            "code": "POL_QUAL"
+          },
+          {
+            "category": "Other policy theme",
+            "code": "POL_OTH"
+          }
+        ],
+        "Legal frameworks": [
+          {
+            "category": "Education laws and regulations",
+            "code": "LAW_REG"
+          },
+          {
+            "category": "International conventions and treaties",
+            "code": "LAW_INTER"
+          }
+        ],
+        "Cross-cutting themes & skills": [
+          {
+            "category": "Inclusive education and special needs",
+            "code": "CCUT_INCL"
+          },
+          {
+            "category": "Other cross-cutting theme",
+            "code": "CCUT_OTH"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "TEXT_ID": "ICPE-03-1934_RES1-FR_res_1",
+    "TITLE": "LA SCOLARIT\u00c9 OBLIGATOIRE ET SA PROLONGATION",
+    "para_number": 4,
+    "paragraph": "4) Considers that the school leaving age should not be set before the point at which the physical, intellectual, and moral education of the child has been sufficiently ensured.",
+    "labels": {
+      "high_level": [
+        "Policy theme",
+        "Legal frameworks",
+        "Education orientation",
+        "Cross-cutting themes & skills"
+      ],
+      "low_level": {
+        "Policy theme": [
+          {
+            "category": "Governance and planning",
+            "code": "POL_GOV"
+          },
+          {
+            "category": "Curriculum and pedagogy policies",
+            "code": "POL_CUR"
+          },
+          {
             "category": "Inclusion and diversity",
             "code": "POL_INCL"
+          }
+        ],
+        "Legal frameworks": [
+          {
+            "category": "Constitution and fundamental rights",
+            "code": "LAW_CONSTI"
+          },
+          {
+            "category": "Education laws and regulations",
+            "code": "LAW_REG"
+          },
+          {
+            "category": "International conventions and treaties",
+            "code": "LAW_INTER"
+          },
+          {
+            "category": "Rights and obligations of stakeholders",
+            "code": "LAW_RIGHTS"
+          }
+        ],
+        "Education orientation": [
+          {
+            "category": "General (academic)",
+            "code": "O_G"
+          }
+        ],
+        "Cross-cutting themes & skills": [
+          {
+            "category": "Human rights and equality",
+            "code": "CCUT__RIGH"
+          },
+          {
+            "category": "Life skills and 21st century competencies",
+            "code": "CCUT_21ST"
+          },
+          {
+            "category": "Health and well-being education",
+            "code": "CCUT_WELLB"
+          },
+          {
+            "category": "Inclusive education and special needs",
+            "code": "CCUT_INCL"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "TEXT_ID": "ICPE-03-1934_RES1-FR_res_1",
+    "TITLE": "LA SCOLARIT\u00c9 OBLIGATOIRE ET SA PROLONGATION",
+    "para_number": 5,
+    "paragraph": "5) Draws the attention of Governments to the importance of ensuring that the adoption of the principle of compulsory schooling and sanctions for breaches of this principle are accompanied by the necessary effort on the part of the authorities to make full compliance with this obligation possible.",
+    "labels": {
+      "high_level": [
+        "Policy theme",
+        "Legal frameworks",
+        "Education system monitoring & evaluation",
+        "Cross-cutting themes & skills",
+        "Stakeholder focus"
+      ],
+      "low_level": {
+        "Policy theme": [
+          {
+            "category": "Governance and planning",
+            "code": "POL_GOV"
+          },
+          {
+            "category": "Financing and resource mobilization",
+            "code": "POL_FIN"
+          },
+          {
+            "category": "Accountability and transparency",
+            "code": "POL_TRANSP"
+          }
+        ],
+        "Legal frameworks": [
+          {
+            "category": "Education laws and regulations",
+            "code": "LAW_REG"
+          },
+          {
+            "category": "Policy implementation and enforcement",
+            "code": "LAW_IMPLEM"
+          },
+          {
+            "category": "Rights and obligations of stakeholders",
+            "code": "LAW_RIGHTS"
+          }
+        ],
+        "Education system monitoring & evaluation": [
+          {
+            "category": "Education statistics and indicators",
+            "code": "SYST_STAT"
+          },
+          {
+            "category": "EMIS and data systems",
+            "code": "SYST_EMIS"
+          },
+          {
+            "category": "Institutional evaluation and inspection",
+            "code": "SYST_INST"
+          },
+          {
+            "category": "Research and surveys",
+            "code": "SYST_RESEAR"
+          }
+        ],
+        "Cross-cutting themes & skills": [
+          {
+            "category": "Sustainable development and climate action",
+            "code": "CCUT_SUST"
+          },
+          {
+            "category": "Inclusive education and special needs",
+            "code": "CCUT_INCL"
+          },
+          {
+            "category": "Other cross-cutting theme",
+            "code": "CCUT_OTH"
+          }
+        ],
+        "Stakeholder focus": [
+          {
+            "category": "Government and policy makers",
+            "code": "ACT_GOV"
           }
         ]
       }
