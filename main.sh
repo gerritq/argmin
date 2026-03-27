@@ -11,7 +11,7 @@
 set -euo pipefail
 
 MODEL_ID="Qwen/Qwen3-0.6B" # Qwen/Qwen3-8B
-SMOKE_TEST=0
+SMOKE_TEST=1
 
 uv run main.py \
     --model-id "$MODEL_ID" \

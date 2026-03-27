@@ -86,6 +86,7 @@ class DebateAgent:
                 {"role": "user", "content": prompt},
             ]
         )
+        print("=" * 60)
         parsed = _extract_json(text)
         return _normalize_selection(parsed, high_level_labels)
 
@@ -98,7 +99,7 @@ class DebateAgent:
         summary: str,
         turn: int,
     ) -> List[str]:
-        allowed_codes = [item["code"] for item in low_level_labels]
+        allowed_categories = [item["category"] for item in low_level_labels]
         prompt = build_low_level_prompt(
             paragraph, high_level_label, low_level_labels, current_selection, summary, turn, self.name
         )
@@ -109,7 +110,7 @@ class DebateAgent:
             ]
         )
         parsed = _extract_json(text)
-        return _normalize_selection(parsed, allowed_codes)
+        return _normalize_selection(parsed, allowed_categories)
 
 
 class Orchestrator:
@@ -166,7 +167,7 @@ class AgenticLabeler:
         print("=" * 60)
         print(f"BEGIN HIGH-LEVEL DEBATE: {paragraph[:60]}...")
         print("=" * 60)
-        for turn in range(1, 4):
+        for turn in range(1, 6):
             for agent in (self.debate_a, self.debate_b):
                 print(f"\nTURN {turn} AGENT {agent.name} SUMMARY:\n{summary}\n ")
                 proposal = agent.propose_high_level(
@@ -184,7 +185,7 @@ class AgenticLabeler:
                 print(f"ORCHESTRATOR RESULT: {result}")
                 summary = result["summary"]
                 current_selection = result["selection"] or proposal or current_selection
-                if not result["continue"]:
+                if not result["continue"] and turn >= 2:
                     return current_selection
         return current_selection
 
@@ -193,7 +194,7 @@ class AgenticLabeler:
     ) -> List[str]:
         summary = ""
         current_selection: List[str] = []
-        allowed_codes = [item["code"] for item in low_level_labels]
+        allowed_categories = [item["category"] for item in low_level_labels]
 
         print("=" * 60)
         print(f"BEGIN LOW-LEVEL DEBATE: {paragraph[:60]}...")
@@ -210,7 +211,7 @@ class AgenticLabeler:
                     agent.name,
                     proposal,
                     summary,
-                    allowed_codes,
+                    allowed_categories,
                     "low_level",
                 )
                 summary = result["summary"]
@@ -224,11 +225,11 @@ class AgenticLabeler:
         selected_high = self._run_high_level_debate(paragraph, high_level_labels)
 
         low_level: Dict[str, List[Dict[str, str]]] = {}
-        # for high_label in selected_high:
-        #     low_labels = label_hierarchy.get(high_label, [])
-        #     selected_codes = self._run_low_level_debate(paragraph, high_label, low_labels)
-        #     selected_items = [item for item in low_labels if item["code"] in set(selected_codes)]
-        #     low_level[high_label] = selected_items
+        for high_label in selected_high:
+            low_labels = label_hierarchy.get(high_label, [])
+            selected_categories = self._run_low_level_debate(paragraph, high_label, low_labels)
+            selected_items = [item for item in low_labels if item["category"] in set(selected_categories)]
+            low_level[high_label] = selected_items
 
         return {
             "high_level": selected_high,

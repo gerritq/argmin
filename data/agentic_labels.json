@@ -1,0 +1,85 @@
+[
+  {
+    "TEXT_ID": "ICPE-03-1934_RES1-FR_res_1",
+    "TITLE": "LA SCOLARIT\u00c9 OBLIGATOIRE ET SA PROLONGATION",
+    "para_number": 1,
+    "paragraph": "The Conference 1) Notes that the issue of compulsory schooling and its extension presents itself in very different ways across various countries and that no comprehensive measure can currently be recommended.",
+    "labels": {
+      "high_level": [
+        "Education level",
+        "Education orientation",
+        "Learning modality",
+        "Infrastructure & resources",
+        "Curriculum",
+        "Pedagogy & assessment",
+        "Policy theme"
+      ],
+      "low_level": {
+        "Education level": [
+          {
+            "category": "Early childhood educational development (ISCED 01)",
+            "code": "ISC_01"
+          },
+          {
+            "category": "Pre-primary education (ISCED 02)",
+            "code": "ISC_02"
+          },
+          {
+            "category": "Primary education (ISCED 1)",
+            "code": "ISC_1"
+          },
+          {
+            "category": "Lower secondary education (ISCED 2)",
+            "code": "ISC_2"
+          },
+          {
+            "category": "Upper secondary education (ISCED 3)",
+            "code": "ISC_3"
+          },
+          {
+            "category": "Post-secondary non-tertiary (ISCED 4)",
+            "code": "ISC_4"
+          }
+        ],
+        "Education orientation": [],
+        "Learning modality": [],
+        "Infrastructure & resources": [
+          {
+            "category": "Laboratories and libraries",
+            "code": "INFRA_LABS"
+          },
+          {
+            "category": "Transport and boarding",
+            "code": "INFRA_TRANS"
+          }
+        ],
+        "Curriculum": [
+          {
+            "category": "Content and learning areas",
+            "code": "CUR_CONTENT"
+          },
+          {
+            "category": "Curriculum implementation",
+            "code": "CUR_IMPL"
+          }
+        ],
+        "Pedagogy & assessment": [
+          {
+            "category": "Assessment and feedback",
+            "code": "PEDAG_ASSESS"
+          }
+        ],
+        "Policy theme": [
+          {
+            "category": "Access and equity",
+            "code": "POL_EQUIT"
+          },
+          {
+            "category": "Inclusion and diversity",
+            "code": "POL_INCL"
+          }
+        ]
+      }
+    }
+  }
+]

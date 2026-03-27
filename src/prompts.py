@@ -4,7 +4,7 @@ Return ONLY a JSON array of label strings, with no extra text."""
 
 LOW_LEVEL_DEBATE_SYSTEM = """You are a debate agent selecting sub-level labels for ONE high-level label.
 You must be concise and grounded in the paragraph.
-Return ONLY a JSON array of label codes, with no extra text."""
+Return ONLY a JSON array of category strings, with no extra text."""
 
 ORCHESTRATOR_SYSTEM = """You are the orchestrator.
 You summarize the debate and decide whether more debate is needed.
@@ -15,6 +15,12 @@ No extra text."""
 
 def build_high_level_prompt(paragraph, high_level_labels, current_selection, summary, turn, agent_name):
     labels_text = "\n".join(f"- {label}" for label in high_level_labels)
+    if agent_name == "Agent A":
+        strategy = "Bias toward broader coverage: propose multiple labels when they are reasonably supported by the paragraph."
+    elif agent_name == "Agent B":
+        strategy = "Bias toward parsimony: keep the proposed labels as few as possible, including a label only when clearly justified."
+    else:
+        strategy = "Propose labels strictly based on textual evidence in the paragraph."
     return f"""Debate agent: {agent_name}
 Turn: {turn}/3
 
@@ -31,12 +37,19 @@ Orchestrator summary so far:
 {summary}
 
 Task:
-Propose the subset of high-level labels that apply to the paragraph.
+{strategy}
+Modify the current selection by adding and/or removing high-level labels so it best matches the paragraph.
 Output JSON array of label strings only."""
 
 
 def build_low_level_prompt(paragraph, high_level_label, low_level_labels, current_selection, summary, turn, agent_name):
-    labels_text = "\n".join(f"- {item['code']}: {item['category']}" for item in low_level_labels)
+    labels_text = "\n".join(f"- {item['category']}" for item in low_level_labels)
+    if agent_name == "Agent A":
+        strategy = "Bias toward broader coverage: propose multiple categories when they are reasonably supported by the paragraph."
+    elif agent_name == "Agent B":
+        strategy = "Bias toward parsimony: keep the proposed categories as few as possible, including a category only when clearly justified."
+    else:
+        strategy = "Propose categories strictly based on textual evidence in the paragraph."
     return f"""Debate agent: {agent_name}
 Turn: {turn}/3
 High-level label: {high_level_label}
@@ -44,7 +57,7 @@ High-level label: {high_level_label}
 Paragraph:
 {paragraph}
 
-Allowed sub-labels (code: category):
+Allowed sub-label categories:
 {labels_text}
 
 Current selection (may be empty):
@@ -54,7 +67,8 @@ Orchestrator summary so far:
 {summary}
 
 Task:
-Propose the subset of categories that apply to the paragraph.
+{strategy}
+Modify the current selection by adding and/or removing categories so it best matches the paragraph.
 Output JSON array of categories only."""
 
 
