@@ -3,7 +3,7 @@ import json
 from typing import Any, Dict, List
 import sys
 from src.agents import AgenticLabeler
-
+from tqdm import tqdm
 
 def load_json(path: str) -> Any:
     with open(path, "r", encoding="utf-8") as f:
@@ -36,6 +36,7 @@ def main():
     parser.add_argument("--model-id", required=True)
     parser.add_argument("--limit", type=int, default=None)
     parser.add_argument("--smoke-test", type=int, default=0)
+    parser.add_argument("--n", type=int, default=None)
     args = parser.parse_args()
 
     assert args.smoke_test in (0, 1), "smoke-test must be 0 or 1"
@@ -52,8 +53,10 @@ def main():
         items = items[:1]
     elif args.limit is not None:
         items = items[: args.limit]
+    elif args.n is not None:
+        items = items[: args.n]
 
-    for item in items:
+    for item in tqdm(items, desc="Labeling paragraphs"):
         labels = labeler.label_paragraph(item["paragraph"], label_hierarchy)
         results.append(
             {
