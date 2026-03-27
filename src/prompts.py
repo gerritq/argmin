@@ -6,6 +6,12 @@ LOW_LEVEL_DEBATE_SYSTEM = """You are a debate agent selecting sub-level labels f
 You must be concise and grounded in the paragraph.
 Return ONLY a JSON array of category strings, with no extra text."""
 
+LOW_LEVEL_SINGLE_SYSTEM = """You are an expert education labeler selecting sub-level labels for ONE high-level label.
+You must be concise and grounded in evidence from the paragraph.
+Return ONLY a JSON object with keys:
+selection (array of category strings), thinking (string).
+No extra text."""
+
 ORCHESTRATOR_SYSTEM = """You are the orchestrator.
 You summarize the debate and decide whether more debate is needed.
 Return ONLY a JSON object with keys:
@@ -93,3 +99,27 @@ Task:
 1) Update the summary of the debate.
 2) Decide if more debate is needed.
 3) Based on the debate, provide your current best selection as a JSON array (subset of allowed labels)."""
+
+
+def build_low_level_single_prompt(paragraph, high_level_label, low_level_labels, orchestrator_summary):
+    labels_text = "\n".join(f"- {item['category']}" for item in low_level_labels)
+    return f"""Single-pass low-level labeling
+High-level label: {high_level_label}
+
+Paragraph:
+{paragraph}
+
+Allowed sub-label categories:
+{labels_text}
+
+Relevant orchestrator summary from high-level debate:
+{orchestrator_summary}
+
+Task:
+Use step-by-step reasoning to evaluate each candidate category against the paragraph and summary.
+Then output:
+1) selection: a subset of allowed category strings.
+2) thinking: a concise reasoning trace (2-4 sentences) explaining why selected categories were kept and key excluded ones were rejected.
+
+Output JSON object only:
+{{"selection": [...], "thinking": "..."}}"""

@@ -1,13 +1,16 @@
 import json
 from typing import Any, Dict, List, Optional
-from transformers import AutoModelForCausalLM, AutoTokenizer
+import torch
+from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
 
 from src.prompts import (
     HIGH_LEVEL_DEBATE_SYSTEM,
     LOW_LEVEL_DEBATE_SYSTEM,
+    LOW_LEVEL_SINGLE_SYSTEM,
     ORCHESTRATOR_SYSTEM,
     build_high_level_prompt,
     build_low_level_prompt,
+    build_low_level_single_prompt,
     build_orchestrator_prompt,
 )
 
@@ -17,9 +20,20 @@ class HFChatModel:
 
         self.model_id = model_id
         self.tokenizer = AutoTokenizer.from_pretrained(model_id)
-        self.model = AutoModelForCausalLM.from_pretrained(
-            model_id, device_map="auto", torch_dtype="auto"
-        )
+        if torch.cuda.is_available():
+            try:
+                quant_config = BitsAndBytesConfig(load_in_8bit=True, )
+                self.model = AutoModelForCausalLM.from_pretrained(
+                    model_id, device_map="auto", quantization_config=quant_config
+                )
+            except Exception:
+                self.model = AutoModelForCausalLM.from_pretrained(
+                    model_id, device_map="auto", torch_dtype="auto"
+                )
+        else:
+            self.model = AutoModelForCausalLM.from_pretrained(
+                model_id, device_map="auto", torch_dtype="auto"
+            )
 
     def chat(self, messages: List[Dict[str, str]], max_new_tokens: int = 512, temperature: float = 0.2) -> str:
         encoded = self.tokenizer.apply_chat_template(
@@ -113,6 +127,36 @@ class DebateAgent:
         return _normalize_selection(parsed, allowed_categories)
 
 
+class SinglePassLowLevelAgent:
+    def __init__(self, model: HFChatModel):
+        self.model = model
+
+    def select(
+        self,
+        paragraph: str,
+        high_level_label: str,
+        low_level_labels: List[Dict[str, str]],
+        orchestrator_summary: str,
+    ) -> Dict[str, Any]:
+        allowed_categories = [item["category"] for item in low_level_labels]
+        prompt = build_low_level_single_prompt(
+            paragraph, high_level_label, low_level_labels, orchestrator_summary
+        )
+        text = self.model.chat(
+            [
+                {"role": "system", "content": LOW_LEVEL_SINGLE_SYSTEM},
+                {"role": "user", "content": prompt},
+            ]
+        )
+        parsed = _extract_json(text)
+        if not isinstance(parsed, dict):
+            return {"selection": [], "thinking": ""}
+        return {
+            "selection": _normalize_selection(parsed.get("selection"), allowed_categories),
+            "thinking": str(parsed.get("thinking", "")).strip(),
+        }
+
+
 class Orchestrator:
     def __init__(self, model: HFChatModel):
         self.model = model
@@ -152,15 +196,19 @@ class Orchestrator:
 
 
 class AgenticLabeler:
-    def __init__(self, model_id: str):
+    def __init__(self, model_id: str, low_level_mode: str = "debate"):
+        if low_level_mode not in ("debate", "single"):
+            raise ValueError("low_level_mode must be 'debate' or 'single'")
         self.model = HFChatModel(model_id)
+        self.low_level_mode = low_level_mode
         self.debate_a = DebateAgent("Agent A", HIGH_LEVEL_DEBATE_SYSTEM, self.model)
         self.debate_b = DebateAgent("Agent B", HIGH_LEVEL_DEBATE_SYSTEM, self.model)
         self.low_a = DebateAgent("Agent A", LOW_LEVEL_DEBATE_SYSTEM, self.model)
         self.low_b = DebateAgent("Agent B", LOW_LEVEL_DEBATE_SYSTEM, self.model)
+        self.low_single = SinglePassLowLevelAgent(self.model)
         self.orchestrator = Orchestrator(self.model)
 
-    def _run_high_level_debate(self, paragraph: str, high_level_labels: List[str]) -> List[str]:
+    def _run_high_level_debate(self, paragraph: str, high_level_labels: List[str]) -> Dict[str, Any]:
         summary = ""
         current_selection: List[str] = []
 
@@ -186,8 +234,8 @@ class AgenticLabeler:
                 summary = result["summary"]
                 current_selection = result["selection"] or proposal or current_selection
                 if not result["continue"] and turn >= 2:
-                    return current_selection
-        return current_selection
+                    return {"selection": current_selection, "summary": summary}
+        return {"selection": current_selection, "summary": summary}
 
     def _run_low_level_debate(
         self, paragraph: str, high_level_label: str, low_level_labels: List[Dict[str, str]]
@@ -222,16 +270,29 @@ class AgenticLabeler:
 
     def label_paragraph(self, paragraph: str, label_hierarchy: Dict[str, List[Dict[str, str]]]) -> Dict[str, Any]:
         high_level_labels = list(label_hierarchy.keys())
-        selected_high = self._run_high_level_debate(paragraph, high_level_labels)
+        high_level_result = self._run_high_level_debate(paragraph, high_level_labels)
+        selected_high = high_level_result["selection"]
+        high_level_summary = high_level_result["summary"]
 
         low_level: Dict[str, List[Dict[str, str]]] = {}
+        low_level_thinking: Dict[str, str] = {}
         for high_label in selected_high:
             low_labels = label_hierarchy.get(high_label, [])
-            selected_categories = self._run_low_level_debate(paragraph, high_label, low_labels)
+            if self.low_level_mode == "single":
+                low_result = self.low_single.select(
+                    paragraph, high_label, low_labels, high_level_summary
+                )
+                selected_categories = low_result["selection"]
+                low_level_thinking[high_label] = low_result["thinking"]
+            else:
+                selected_categories = self._run_low_level_debate(paragraph, high_label, low_labels)
             selected_items = [item for item in low_labels if item["category"] in set(selected_categories)]
             low_level[high_label] = selected_items
 
-        return {
+        result = {
             "high_level": selected_high,
             "low_level": low_level,
         }
+        if self.low_level_mode == "single":
+            result["low_level_thinking"] = low_level_thinking
+        return result
