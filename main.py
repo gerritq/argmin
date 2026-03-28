@@ -47,11 +47,13 @@ def main():
     parser.add_argument("--limit", type=int, default=None)
     parser.add_argument("--smoke-test", type=int, default=0)
     parser.add_argument("--n", type=int, default=None)
+    parser.add_argument("--start-n", type=int, default=0)
     parser.add_argument("--low-level-mode", choices=["debate", "single"], default="debate")
     args = parser.parse_args()
 
     assert args.smoke_test in (0, 1), "smoke-test must be 0 or 1"
     args.smoke_test = bool(args.smoke_test)
+    assert args.start_n >= 0, "start-n must be >= 0"
 
     label_hierarchy = load_json(args.labels)
     test_data = load_json(args.test_data)
@@ -60,6 +62,12 @@ def main():
     results: List[Dict[str, Any]] = []
 
     items = load_paragraphs(test_data)
+    if args.start_n > len(items):
+        raise ValueError(f"start-n ({args.start_n}) exceeds dataset size ({len(items)})")
+
+    start_idx = args.start_n
+    items = items[start_idx:]
+
     if args.smoke_test:
         items = items[:1]
     elif args.limit is not None:
@@ -69,9 +77,10 @@ def main():
 
     chunk_size = 100
     chunk_rows: List[Dict[str, Any]] = []
-    chunk_start_idx = 0
+    chunk_start_idx = start_idx
+    last_processed_idx = start_idx - 1
 
-    for idx, item in enumerate(tqdm(items, desc="Labeling paragraphs")):
+    for idx, item in enumerate(tqdm(items, desc="Labeling paragraphs"), start=start_idx):
         labels = labeler.label_paragraph(item["paragraph"], label_hierarchy)
         row = {
             "TEXT_ID": item["TEXT_ID"],
@@ -82,6 +91,7 @@ def main():
         }
         results.append(row)
         chunk_rows.append(row)
+        last_processed_idx = idx
 
         if len(chunk_rows) == chunk_size:
             save_jsonl_chunk(args.output, chunk_rows, chunk_start_idx, idx)
@@ -89,7 +99,7 @@ def main():
             chunk_start_idx = idx + 1
 
     if chunk_rows:
-        save_jsonl_chunk(args.output, chunk_rows, chunk_start_idx, len(items) - 1)
+        save_jsonl_chunk(args.output, chunk_rows, chunk_start_idx, last_processed_idx)
 
     os.makedirs(os.path.dirname(args.output) or ".", exist_ok=True)
     with open(args.output, "w", encoding="utf-8") as f:
