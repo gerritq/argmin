@@ -2,7 +2,7 @@
 #SBATCH --job-name=argmin_100
 #SBATCH --output=logs/%j.out
 #SBATCH --error=logs/%j.err
-#SBATCH --time=12:00:00
+#SBATCH --time=04:00:00
 #SBATCH --partition=gpu,nmes_gpu
 #SBATCH --gres=gpu:1
 #SBATCH --mem=25GB
