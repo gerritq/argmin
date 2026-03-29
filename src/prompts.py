@@ -1,18 +1,30 @@
-HIGH_LEVEL_DEBATE_SYSTEM = """You are a debate agent selecting high-level education labels.
-You must be concise and grounded in the paragraph.
+HIGH_LEVEL_DEBATE_SYSTEM = """You are a debate agent selecting high-level education labels for paragraphs from UN resolutions.
+You must be concise and grounded in the paragraph text.
+Role instruction:
+- If you are Agent A, act as an expansionist: include plausible labels when reasonably supported.
+- If you are Agent B, act as a skeptic: keep labels minimal and require clear evidence.
 Return ONLY a JSON array of label strings, with no extra text."""
 
-LOW_LEVEL_DEBATE_SYSTEM = """You are a debate agent selecting sub-level labels for ONE high-level label.
-You must be concise and grounded in the paragraph.
+LOW_LEVEL_DEBATE_SYSTEM = """You are a debate agent selecting sub-level labels for ONE high-level label from a UN resolution paragraph.
+You must be concise and grounded in the paragraph text.
+Role instruction:
+- If you are Agent A, act as an expansionist: include plausible categories when reasonably supported.
+- If you are Agent B, act as a skeptic: keep categories minimal and require clear evidence.
 Return ONLY a JSON array of category strings, with no extra text."""
 
-LOW_LEVEL_SINGLE_SYSTEM = """You are an expert education labeler selecting sub-level labels for ONE high-level label.
-You must be concise and grounded in evidence from the paragraph.
+LOW_LEVEL_SINGLE_SYSTEM = """You are an expert education labeler selecting sub-level labels for ONE high-level label from UN resolution paragraphs.
+You must be concise, evidence-based, and context-aware of UN resolution language (normative statements, policy commitments, rights framing, implementation language).
+Follow these rules:
+1) Select only from the allowed categories.
+2) Use the paragraph as primary evidence and the orchestrator summary as supporting context.
+3) Prefer precision over over-labeling, but include multiple categories when clearly supported.
+4) Do not invent categories or rely on external facts.
+5) Keep reasoning concise and tied to concrete phrases/themes in the paragraph.
 Return ONLY a JSON object with keys:
 selection (array of category strings), thinking (string).
 No extra text."""
 
-ORCHESTRATOR_SYSTEM = """You are the orchestrator.
+ORCHESTRATOR_SYSTEM = """You are the orchestrator for a debate over labels for UN resolution paragraphs.
 You summarize the debate and decide whether more debate is needed.
 Return ONLY a JSON object with keys:
 summary (string), continue (boolean), selection (array).
@@ -22,9 +34,9 @@ No extra text."""
 def build_high_level_prompt(paragraph, high_level_labels, current_selection, summary, turn, agent_name):
     labels_text = "\n".join(f"- {label}" for label in high_level_labels)
     if agent_name == "Agent A":
-        strategy = "Bias toward broader coverage: propose multiple labels when they are reasonably supported by the paragraph."
+        strategy = "Role: Expansionist. Bias toward broader coverage and include multiple labels when reasonably supported by the UN resolution paragraph."
     elif agent_name == "Agent B":
-        strategy = "Bias toward parsimony: keep the proposed labels as few as possible, including a label only when clearly justified."
+        strategy = "Role: Skeptic. Bias toward parsimony and keep labels as few as possible, including a label only when clearly justified by the UN resolution paragraph."
     else:
         strategy = "Propose labels strictly based on textual evidence in the paragraph."
     return f"""Debate agent: {agent_name}
@@ -51,9 +63,9 @@ Output JSON array of label strings only."""
 def build_low_level_prompt(paragraph, high_level_label, low_level_labels, current_selection, summary, turn, agent_name):
     labels_text = "\n".join(f"- {item['category']}" for item in low_level_labels)
     if agent_name == "Agent A":
-        strategy = "Bias toward broader coverage: propose multiple categories when they are reasonably supported by the paragraph."
+        strategy = "Role: Expansionist. Bias toward broader coverage and include multiple categories when reasonably supported by the UN resolution paragraph."
     elif agent_name == "Agent B":
-        strategy = "Bias toward parsimony: keep the proposed categories as few as possible, including a category only when clearly justified."
+        strategy = "Role: Skeptic. Bias toward parsimony and keep categories as few as possible, including a category only when clearly justified by the UN resolution paragraph."
     else:
         strategy = "Propose categories strictly based on textual evidence in the paragraph."
     return f"""Debate agent: {agent_name}
