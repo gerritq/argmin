@@ -80,12 +80,12 @@ def merge_folder(index: Dict[Tuple[str, int], List[str]], src_dir: str, dst_dir:
 
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--jsonl-dir", default="out_run_1")
+    parser.add_argument("--jsonl-dir", default="out")
     parser.add_argument(
         "--source-dir",
         default="data/test-data-solved-pre-op-and-relationship",
     )
-    parser.add_argument("--output-dir", default="data/final")
+    parser.add_argument("--output-dir", default="data/final_with_8b")
     args = parser.parse_args()
 
     index = build_code_index(args.jsonl_dir)
