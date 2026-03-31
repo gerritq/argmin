@@ -14,8 +14,7 @@ from src.prompts import (
     build_orchestrator_prompt,
 )
 
-
-class HFChatModel:
+class Model:
     def __init__(self, model_id: str):
 
         self.model_id = model_id
@@ -78,7 +77,7 @@ def _normalize_selection(selection: Any, allowed: List[str]) -> List[str]:
 
 
 class DebateAgent:
-    def __init__(self, name: str, system_prompt: str, model: HFChatModel):
+    def __init__(self, name: str, system_prompt: str, model: Model):
         self.name = name
         self.system_prompt = system_prompt
         self.model = model
@@ -128,7 +127,7 @@ class DebateAgent:
 
 
 class SinglePassLowLevelAgent:
-    def __init__(self, model: HFChatModel):
+    def __init__(self, model: Model):
         self.model = model
 
     def select(
@@ -158,7 +157,7 @@ class SinglePassLowLevelAgent:
 
 
 class Orchestrator:
-    def __init__(self, model: HFChatModel):
+    def __init__(self, model: Model):
         self.model = model
 
     def summarize_and_judge(
@@ -197,9 +196,7 @@ class Orchestrator:
 
 class AgenticLabeler:
     def __init__(self, model_id: str, low_level_mode: str = "debate"):
-        if low_level_mode not in ("debate", "single"):
-            raise ValueError("low_level_mode must be 'debate' or 'single'")
-        self.model = HFChatModel(model_id)
+        self.model = Model(model_id)
         self.low_level_mode = low_level_mode
         self.debate_a = DebateAgent("Agent A", HIGH_LEVEL_DEBATE_SYSTEM, self.model)
         self.debate_b = DebateAgent("Agent B", HIGH_LEVEL_DEBATE_SYSTEM, self.model)
